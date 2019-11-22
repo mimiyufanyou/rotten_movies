@@ -1,0 +1,1076 @@
+id,title,genre,cag_rating,cag_release,sScore,sScore_qcut
+0,Grave Encounters,Horror,NR,2011,-15.0,bad
+1,Keeping Up With The Joneses,Comedy,PG-13,2016,18.0,best
+2,Division 19,Drama,NR,2019,61.0,best
+3,Water for Elephants,Drama,PG-13,2011,10.0,good
+4,Michael H. Profession: Director,Documentary,NR,2013,-26.0,worst
+5,Tumhari Sulu,Art House & International,NR,2017,-17.0,bad
+6,Nuts,Drama,R,1987,37.0,best
+7,Strange Nature,Mystery & Suspense,NR,2018,15.0,good
+8,Death by China,Documentary,NR,2012,39.0,best
+9,Styx,Drama,NR,2019,-26.0,worst
+10,Mrs. Palfrey at the Claremont,Comedy,G,2005,12.0,good
+11,Pickpocket,Art House & International,NR,1959,-11.0,bad
+12,El Topo,Art House & International,NR,1970,6.0,good
+13,Yol (The Way),Art House & International,PG,1982,22.0,best
+14,Bad Boys II,Action & Adventure,R,2003,55.0,best
+15,Kaleidoscope,Drama,NR,2017,-24.0,worst
+16,Hwal (The Bow),Art House & International,NR,2007,-8.0,bad
+17,Felicia's Journey,Drama,PG-13,1999,-17.0,bad
+18,The Final Season,Art House & International,PG,2007,42.0,best
+19,Come See the Paradise,Drama,R,1990,10.0,good
+20,The Red Tent,Action & Adventure,G,1971,-22.0,worst
+21,Black Rose,Action & Adventure,NR,2017,4.0,good
+22,Stealing Home,Drama,PG-13,1988,58.0,best
+23,Visiting Hours,Horror,R,1982,9.0,good
+24,Tokyo-Ga,Art House & International,NR,2003,18.0,best
+25,Fissures (Écoute le temps),Art House & International,NR,2006,-35.0,worst
+26,Run the Race,Drama,PG,2019,44.0,best
+27,Lord Jim,Action & Adventure,NR,1965,0.0,okay
+28,Forget Paris,Comedy,PG-13,1995,6.0,good
+29,Mystic India,Art House & International,NR,2003,-10.0,bad
+30,Eddie and the Cruisers,Cult Movies,PG,1983,35.0,best
+31,Red Cliff (Chi Bi),Action & Adventure,R,2009,-13.0,bad
+32,Eyes Without a Face,Art House & International,NR,1962,-11.0,bad
+33,Innocent Voices (Voces inocentes),Art House & International,R,2005,22.0,best
+34,The Clan of the Cave Bear,Action & Adventure,R,1986,37.0,best
+35,War (Rogue Assassin),Action & Adventure,R,2007,37.0,best
+36,Johnny Got His Gun,Classics,PG,1971,20.0,best
+37,Smoke Signals,Comedy,PG-13,1998,-1.0,okay
+38,The Gates,Documentary,NR,2008,-23.0,worst
+39,Fast Girls,Art House & International,G,2012,-24.0,worst
+40,Ghostbox Cowboy,Comedy,NR,2018,-41.0,worst
+41,Blame It on Fidel (La Faute a Fidel),Drama,NR,2006,-2.0,okay
+42,Mubarakan,Comedy,PG-13,2017,20.0,best
+43,Priceless,Drama,PG-13,2016,37.0,best
+44,Lola,Art House & International,PG,1961,-20.0,worst
+45,The Amazing Transparent Man,Classics,NR,1960,-24.0,worst
+46,Fanney Khan,Drama,NR,2018,-6.0,okay
+47,Fake It So Real,Documentary,NR,2012,-42.0,worst
+48,Wind,Action & Adventure,PG-13,1992,32.0,best
+49,The Ritz,Art House & International,R,1976,25.0,best
+50,Attenberg,Art House & International,NR,2012,-25.0,worst
+51,Deadpool,Action & Adventure,R,2016,5.0,good
+52,Willow,Action & Adventure,PG,1988,29.0,best
+53,Mighty Fine,Comedy,R,2012,32.0,best
+54,Altiplano (Fragments of Grace),Art House & International,NR,2010,1.0,okay
+55,Joshua,Drama,G,2002,54.0,best
+56,Fight Church,Documentary,NR,2014,-36.0,worst
+57,The Wolf of Wall Street,Drama,R,2013,3.0,good
+58,Chuck,Drama,R,2017,-17.0,bad
+59,Fall to Grace,Drama,NR,2006,-36.0,worst
+60,Searching for Sugar Man,Documentary,PG-13,2012,-2.0,okay
+61,Extraordinary Stories,Classics,NR,2011,-4.0,okay
+62,You Might as Well Live,Comedy,R,2009,-10.0,bad
+63,Big Significant Things,Comedy,NR,2015,23.0,best
+64,Donovan's Reef,Action & Adventure,NR,1963,22.0,best
+65,Butter,Comedy,R,2012,10.0,good
+66,The Hillside Strangler,Drama,R,2004,17.0,best
+67,Daredevil,Action & Adventure,PG-13,2003,-9.0,bad
+68,Kissed,Drama,R,1997,-3.0,okay
+69,The Cat's Meow,Comedy,PG-13,2001,-24.0,worst
+70,Crush,Comedy,R,2002,22.0,best
+71,Drumline,Comedy,PG-13,2002,-12.0,bad
+72,Nathalie,Art House & International,NR,2003,-17.0,bad
+73,Curse of the Golden Flower,Action & Adventure,R,2006,0.0,okay
+74,Meeting Resistance,Documentary,NR,2007,-35.0,worst
+75,The Accidental Tourist,Comedy,PG,1988,-21.0,worst
+76,Die Geduld der Rosa Luxemburg,Art House & International,NR,1986,-49.0,worst
+77,Leto,Drama,NR,2019,4.0,good
+78,A Dark Place (Steel Country),Drama,R,2019,27.0,best
+79,National Lampoon Presents The Beach Party at the Threshold of Hell,Comedy,R,2006,-22.0,worst
+80,"Dude, Where's the Party?",Comedy,PG-13,2003,-7.0,okay
+81,The Beautiful Person (La Belle Personne),Art House & International,NR,2008,8.0,good
+82,Beijing Love Story,Drama,NR,2014,20.0,best
+83,SEED: The Untold Story,Documentary,NR,2016,-9.0,bad
+84,Wilderness Survival For Girls,Drama,R,2004,-13.0,bad
+85,Casper Meets Wendy,Animation,PG,1998,29.0,best
+86,An Unlikely Weapon,Documentary,NR,2008,-6.0,okay
+87,The Horse's Mouth,Classics,NR,1958,-18.0,worst
+88,The Designated Mourner,Art House & International,R,1997,8.0,good
+89,Ferrell Takes The Field,Comedy,NR,2015,-35.0,worst
+90,Highwaymen,Action & Adventure,R,2004,24.0,best
+91,To Save a Life,Drama,PG-13,2010,46.0,best
+92,Papi Chulo,Comedy,R,2019,5.0,good
+93,Species III,Drama,R,2004,-16.0,bad
+94,Admission,Comedy,PG-13,2013,-6.0,okay
+95,The Flying Deuces,Comedy,G,1939,-17.0,bad
+96,The Piano Tuner of Earthquakes,Art House & International,NR,2006,13.0,good
+97,Partner,Art House & International,NR,1968,-30.0,worst
+98,The Living Wake,Art House & International,PG-13,2010,20.0,best
+99,Going in Style,Comedy,PG-13,2017,9.0,good
+100,Repo! The Genetic Opera,Horror,R,2008,33.0,best
+101,Harvard Man,Comedy,R,2002,0.0,okay
+102,Jojo Rabbit,Comedy,PG-13,2019,15.0,good
+103,Blues Brothers 2000,Comedy,PG-13,1997,-8.0,bad
+104,Phantom of the Theatre,Art House & International,NR,2016,-16.0,bad
+105,When I Saw You,Drama,NR,2012,-10.0,bad
+106,The Long Gray Line,Classics,NR,1955,-23.0,worst
+107,A Scandal in Paris,Action & Adventure,NR,1946,-7.0,okay
+108,A Delicate Balance,Classics,PG,1973,-8.0,bad
+109,Lisztomania,Comedy,R,1975,14.0,good
+110,La Ronde,Art House & International,NR,1950,-16.0,bad
+111,Black and White,Drama,NR,2002,13.0,good
+112,Crime & Punishment in Suburbia,Art House & International,R,2000,37.0,best
+113,Pete Seeger: The Power of Song,Documentary,PG,2007,-3.0,okay
+114,The Female Brain,Comedy,NR,2018,14.0,good
+115,The Leopard Man,Drama,PG,1943,-25.0,worst
+116,The Missing Gun,Art House & International,PG-13,2003,29.0,best
+117,Dhanak,Drama,NR,2015,3.0,good
+118,The Whole Gritty City,Documentary,NR,2013,-7.0,okay
+119,MacGruber,Action & Adventure,R,2010,-13.0,bad
+120,Happy Hunting,Art House & International,NR,2017,-54.0,worst
+121,"Monrovia, Indiana",Documentary,NR,2018,-25.0,worst
+122,Adam & Steve,Comedy,R,2005,2.0,good
+123,Bride Flight,Art House & International,R,2011,8.0,good
+124,How Murray Saved Christmas,Animation,NR,2014,12.0,good
+125,Dangerous,Classics,G,1935,-19.0,worst
+126,The Adventures of Prince Achmed,Animation,NR,1926,-10.0,bad
+127,The King of Masks,Art House & International,NR,1999,2.0,good
+128,One Mile Away,Documentary,NR,2013,25.0,best
+129,Tashan,Action & Adventure,NR,2008,-31.0,worst
+130,XXX,Action & Adventure,PG-13,2002,10.0,good
+131,Half Moon,Drama,NR,2007,-23.0,worst
+132,Comfort and Joy,Comedy,PG,1984,-19.0,worst
+133,The Day the Earth Caught Fire,Drama,NR,1962,6.0,good
+134,Darlin',Horror,NR,2019,-13.0,bad
+135,Diary of the Dead,Horror,R,2007,-21.0,worst
+136,Teacher,Drama,NR,2019,-31.0,worst
+137,Hey is Dee Dee Home,Documentary,NR,2003,-18.0,worst
+138,New In Town,Comedy,PG,2009,9.0,good
+139,Nativity 2,Comedy,NR,2013,13.0,good
+140,The Housemaid,Art House & International,NR,2011,-17.0,bad
+141,The Ballad of Lefty Brown,Western,R,2017,-25.0,worst
+142,Seducing Doctor Lewis (La grande séduction),Art House & International,NR,2004,18.0,best
+143,Dangerous Liaisons,Art House & International,NR,2012,-15.0,bad
+144,The Other Man: F.W. de Klerk and the End of Apartheid,Documentary,NR,2015,-17.0,bad
+145,Storks,Animation,PG,2016,-4.0,okay
+146,À pas de loup (On the Sly),Art House & International,NR,2012,-38.0,worst
+147,Slackers,Comedy,R,2002,40.0,best
+148,Fiorile (Wild Flower),Art House & International,PG-13,1993,2.0,good
+149,Tito and the Birds (Tito e os Pássaros),Action & Adventure,NR,2018,-1.0,okay
+150,Girlfriend Boyfriend,Comedy,NR,2012,11.0,good
+151,"Pepi, Luci, Bom and Other Girls Like Mom (Pepi, Luci, Bom y otras chicas del montón)",Art House & International,NR,1980,14.0,good
+152,Fargo,Drama,R,1996,0.0,okay
+153,The Guitar,Drama,R,2008,22.0,best
+154,Then She Found Me,Comedy,R,2007,-6.0,okay
+155,Innocence,Action & Adventure,PG-13,2014,15.0,good
+156,Meditation Park,Drama,NR,2017,11.0,good
+157,The Blossoming of Maximo Oliveros,Art House & International,NR,2006,-8.0,bad
+158,Hell Night,Horror,R,1981,-11.0,bad
+159,Pope Francis - A Man of His Word,Documentary,PG,2018,-6.0,okay
+160,My Man Godfrey,Classics,G,1936,-7.0,okay
+161,Ballets Russes,Documentary,NR,2005,-11.0,bad
+162,The Color Purple,Drama,PG-13,1985,14.0,good
+163,The House on Carroll Street,Action & Adventure,PG,1988,-38.0,worst
+164,Despair (Despair - Eine Reise ins Licht),Art House & International,NR,1978,11.0,good
+165,The Guatemalan Handshake,Art House & International,NR,2006,-19.0,worst
+166,Marvin's Room,Drama,PG-13,1996,-21.0,worst
+167,Powaqqatsi,Art House & International,G,1988,25.0,best
+168,Manufactured Landscapes,Documentary,G,2007,-4.0,okay
+169,Honey Boy,Drama,R,2019,-3.0,okay
+170,Rudolph the Red-Nosed Reindeer: The Movie,Animation,G,1998,18.0,best
+171,Pay 2 Play: Democracy's High Stakes,Comedy,NR,2014,14.0,good
+172,Ultrasuede: In Search of Halston,Documentary,PG-13,2012,5.0,good
+173,Casino,Drama,R,1995,13.0,good
+174,The Hound of the Baskervilles,Art House & International,R,1959,-22.0,worst
+175,The Rundown,Action & Adventure,PG-13,2003,-3.0,okay
+176,P2,Drama,R,2007,3.0,good
+177,Henry V,Action & Adventure,PG-13,1989,-11.0,bad
+178,Guru,Art House & International,NR,2007,1.0,okay
+179,It Had to Be You,Comedy,R,2016,-18.0,worst
+180,Prospect,Science Fiction & Fantasy,R,2018,-20.0,worst
+181,POV,Documentary,NR,2004,-5.0,okay
+182,Father Goose,Action & Adventure,NR,1964,7.0,good
+183,Loverboy,Comedy,PG-13,1989,12.0,good
+184,Down in the Delta,Drama,PG-13,1998,-9.0,bad
+185,The Heartbreak Kid,Classics,PG,1972,-19.0,worst
+186,Tehran Taboo,Animation,NR,2018,-16.0,bad
+187,The Spiderwick Chronicles,Action & Adventure,PG,2008,-17.0,bad
+188,Wild Wild West,Action & Adventure,PG-13,1999,11.0,good
+189,Mimic 2,Horror,R,2001,4.0,good
+190,What's the Matter with Kansas?,Documentary,NR,2009,-1.0,okay
+191,The Mistress of Spices,Drama,PG-13,2006,31.0,best
+192,On the Seventh Day (En el Séptimo Día),Drama,NR,2018,-31.0,worst
+193,The Wrecking Crew,Documentary,PG,2015,-10.0,bad
+194,White Wedding,Art House & International,PG-13,2010,-4.0,okay
+195,Saint,Art House & International,NR,2011,-21.0,worst
+196,The Avengers,Action & Adventure,PG-13,1998,10.0,good
+197,"My Love, Don't Cross That River",Documentary,NR,2016,-12.0,bad
+198,Beauty and the Beast,Drama,PG,2017,9.0,good
+199,Every Act of Life,Documentary,NR,2017,11.0,good
+200,Dreaming of Joseph Lees,Drama,R,1999,20.0,best
+201,The Quietude (La quietud),Drama,NR,2018,29.0,best
+202,The Black Balloon,Drama,PG-13,2008,-1.0,okay
+203,Cowboy del Amor,Documentary,G,2006,-23.0,worst
+204,Liam Gallagher: As It Was,Documentary,NR,2019,0.0,okay
+205,Los Cronocrímenes (Timecrimes),Action & Adventure,R,2007,-10.0,bad
+206,The Accompanist (L' Accompagnatrice),Art House & International,PG,1992,-2.0,okay
+207,The Steel Helmet,Action & Adventure,NR,1951,-14.0,bad
+208,Rift (Rökkur),Drama,NR,2017,-35.0,worst
+209,The Lightkeepers,Comedy,PG,2010,27.0,best
+210,"Farewell, My Lovely",Classics,R,1975,-6.0,okay
+211,Breaking and Entering,Drama,R,2007,18.0,best
+212,Jurassic World,Action & Adventure,PG-13,2015,6.0,good
+213,City Streets,Drama,NR,1931,1.0,okay
+214,Not of this Earth,Comedy,R,1988,-19.0,worst
+215,Starting Over,Comedy,R,1979,-42.0,worst
+216,Love and Honor,Art House & International,PG-13,2007,4.0,good
+217,Irina Palm,Art House & International,R,2008,10.0,good
+218,Changing Lanes,Action & Adventure,R,2002,-24.0,worst
+219,Saints and Soldiers,Action & Adventure,PG-13,2004,11.0,good
+220,Aurore (I Got Life!),Art House & International,NR,2017,-27.0,worst
+221,Mad Money,Comedy,PG-13,2008,26.0,best
+222,The Five Obstructions,Art House & International,NR,2003,-3.0,okay
+223,American Violet,Drama,PG-13,2009,4.0,good
+224,Bride of the Wind,Drama,R,2001,29.0,best
+225,The Brink,Documentary,NR,2019,-26.0,worst
+226,What A Man,Art House & International,R,2012,-17.0,bad
+227,Plagues & Pleasures on the Salton Sea,Documentary,NR,2004,-10.0,bad
+228,Firelight,Art House & International,R,1997,33.0,best
+229,Dora and the Lost City of Gold,Action & Adventure,PG,2019,0.0,okay
+230,Loves of a Blonde (Lásky jedné plavovlásky),Art House & International,NR,1966,-8.0,bad
+231,Tank Girl,Action & Adventure,R,1995,25.0,best
+232,Blooded,Art House & International,NR,2010,1.0,okay
+233,The Tall Man,Horror,R,2012,-5.0,okay
+234,Change in the Air,Drama,PG,2018,60.0,best
+235,What's In A Name?,Comedy,NR,2013,3.0,good
+236,The Dukes,Comedy,PG-13,2007,-23.0,worst
+237,Looking for Eric,Art House & International,G,2010,-7.0,okay
+238,Kiki's Delivery Service,Action & Adventure,G,1989,-9.0,bad
+239,Metallica: Some Kind of Monster,Documentary,R,2004,-6.0,okay
+240,The Great Wall,Action & Adventure,PG-13,2017,6.0,good
+241,Grown Ups,Comedy,PG-13,2010,52.0,best
+242,50 to 1,Drama,PG-13,2014,53.0,best
+243,A Patch of Blue,Classics,NR,2000,-9.0,bad
+244,The Real Dirt on Farmer John,Documentary,NR,2007,-10.0,bad
+245,The Apostate (El Apóstata),Comedy,NR,2016,-44.0,worst
+246,Galaxina,Comedy,R,1980,7.0,good
+247,Summer Wars (Sama Wozu),Action & Adventure,PG,2010,11.0,good
+248,Pulse,Horror,PG-13,2006,16.0,best
+249,Ride,Mystery & Suspense,PG-13,2018,5.0,good
+250,Darkon,Documentary,NR,2006,-24.0,worst
+251,The Look of Love,Comedy,NR,2013,-19.0,worst
+252,Bush's Brain,Documentary,PG-13,2004,-5.0,okay
+253,Knife in the Water,Art House & International,NR,1962,-15.0,bad
+254,Goodbye to All That,Comedy,NR,2014,-31.0,worst
+255,San Francisco,Classics,NR,1936,-29.0,worst
+256,Jack Smith and the Destruction of Atlantis,Documentary,NR,2006,1.0,okay
+257,Chan Is Missing,Art House & International,R,1982,-25.0,worst
+258,Jesse James Meets Frankenstein's Daughter,Horror,NR,1965,-3.0,okay
+259,Yellow Submarine,Action & Adventure,G,1968,-13.0,bad
+260,Off Limits,Action & Adventure,R,1988,-18.0,worst
+261,Invasion U.S.A.,Action & Adventure,PG,1985,33.0,best
+262,Flying Blind,Drama,NR,2013,-5.0,okay
+263,America Brown,Art House & International,NR,2004,-30.0,worst
+264,Relentless,Action & Adventure,R,1989,-6.0,okay
+265,Jiminy Glick in Lalawood,Action & Adventure,R,2005,10.0,good
+266,An Unmarried Woman,Comedy,R,1978,-19.0,worst
+267,A Mighty Wind,Comedy,PG-13,2003,-12.0,bad
+268,Snowflake (Schneeflöckchen),Action & Adventure,NR,2017,-9.0,bad
+269,Jolene,Drama,R,2008,-4.0,okay
+270,American Experience,Documentary,NR,2006,-5.0,okay
+271,Grumpier Old Men,Comedy,PG-13,1995,45.0,best
+272,The Two Jakes,Comedy,R,1990,-30.0,worst
+273,Heavy Metal,Action & Adventure,R,1981,7.0,good
+274,Banlieue 13 - Ultimatum (District 13: Ultimatum),Action & Adventure,R,2009,-19.0,worst
+275,Paper Moon,Classics,PG,1973,2.0,good
+276,An Evening with Kevin Smith,Comedy,NR,2001,-8.0,bad
+277,The Nightingale,Drama,R,2019,-6.0,okay
+278,Bandit Queen,Art House & International,R,1995,-17.0,bad
+279,"A Bread Factory, Part Two: Walk with Me a While",Drama,NR,2018,-17.0,bad
+280,Summer of Sam,Drama,R,1999,9.0,good
+281,The Marc Pease Experience,Comedy,PG-13,2009,-4.0,okay
+282,Repentance,Horror,R,2014,22.0,best
+283,Loitering With Intent,Comedy,NR,2015,-7.0,okay
+284,Mon Mon Mon Monsters,Art House & International,NR,2017,-25.0,worst
+285,Risk,Action & Adventure,R,2000,-30.0,worst
+286,Desperate Remedies,Drama,R,1993,33.0,best
+287,The Evil Dead,Horror,R,1981,-11.0,bad
+288,A Chorus Line,Comedy,PG-13,1985,22.0,best
+289,Cleopatra,Classics,NR,1934,-16.0,bad
+290,Sunflower,Art House & International,NR,2007,5.0,good
+291,The Whisperer In Darkness,Science Fiction & Fantasy,NR,2011,-21.0,worst
+292,Kansas,Action & Adventure,R,1988,-1.0,okay
+293,Kelly's Heroes,Action & Adventure,PG,1970,12.0,good
+294,Just a Little Harmless Sex,Comedy,R,1999,33.0,best
+295,Suburbia,Comedy,R,1997,3.0,good
+296,Blind Chance (Przypadek),Art House & International,NR,1989,16.0,best
+297,Late Autumn (Akibiyori),Art House & International,NR,1973,-13.0,bad
+298,Shanghai Triad (Yao a yao yao dao waipo qiao),Action & Adventure,R,1995,-16.0,bad
+299,The Hero of Color City,Animation,G,2014,23.0,best
+300,The White King,Action & Adventure,NR,2017,-9.0,bad
+301,Best Worst Thing That Ever Could Have Happened...,Documentary,NR,2016,-18.0,worst
+302,The Boxtrolls,Action & Adventure,PG,2014,-14.0,bad
+303,Gregory Crewdson: Brief Encounters,Documentary,NR,2012,-11.0,bad
+304,Saints and Sinners,Documentary,NR,2004,-47.0,worst
+305,7 Days in Havana,Drama,NR,2012,-7.0,okay
+306,Return of the Secaucus Seven,Art House & International,R,1980,-7.0,okay
+307,Lovers and Other Strangers,Comedy,PG,1971,-29.0,worst
+308,The Big Short,Drama,R,2015,-1.0,okay
+309,London,Drama,R,2006,46.0,best
+310,Gung Ho,Comedy,PG-13,1986,12.0,good
+311,The Boy Downstairs,Comedy,PG-13,2018,-24.0,worst
+312,Jai Ho,Action & Adventure,NR,2014,27.0,best
+313,Sylvio,Comedy,NR,2017,-11.0,bad
+314,Yolanda and the Thief,Comedy,NR,1945,-27.0,worst
+315,Rara,Art House & International,NR,2016,-30.0,worst
+316,Uncle Howard,Documentary,NR,2016,-31.0,worst
+317,Blade II,Action & Adventure,R,2002,11.0,good
+318,Spider-Man 2,Action & Adventure,PG-13,2004,-11.0,bad
+319,Flyboys,Action & Adventure,PG-13,2006,34.0,best
+320,Losing Ground,Comedy,NR,1982,-67.0,worst
+321,The Emperor's New Groove,Animation,G,2000,-2.0,okay
+322,Milius,Documentary,NR,2013,-7.0,okay
+323,About Adam,Art House & International,R,2000,-21.0,worst
+324,The Bridge (Die Brücke),Art House & International,NR,1959,-13.0,bad
+325,Rosenstrasse,Art House & International,PG-13,2004,13.0,good
+326,Star Trek II: The Wrath of Khan,Action & Adventure,PG,1982,3.0,good
+327,Jim,Drama,NR,2010,-9.0,bad
+328,The Land Girls,Comedy,R,1998,-8.0,bad
+329,My Life as a Zucchini (Ma vie de courgette),Animation,PG-13,2017,-10.0,bad
+330,HappyThankYouMorePlease,Comedy,R,2011,18.0,best
+331,"3 And 1/2 Minutes, 10 Bullets",Documentary,NR,2015,-12.0,bad
+332,Leprechaun in the Hood,Horror,R,2000,10.0,good
+333,"Asbury Park: Riot, Redemption, Rock n Roll",Documentary,NR,2019,-12.0,bad
+334,H.,Drama,NR,2014,-55.0,worst
+335,Dohee-ya (A Girl at My Door),Art House & International,NR,2015,-19.0,worst
+336,Spinning Man,Mystery & Suspense,R,2018,-5.0,okay
+337,Broken Hill,Drama,PG,2009,11.0,good
+338,I've Heard the Mermaids Singing,Art House & International,R,1987,-32.0,worst
+339,The Hangover,Comedy,R,2009,6.0,good
+340,Spring Breakdown,Comedy,R,2009,-28.0,worst
+341,Schneider vs. Bax,Comedy,NR,2015,-12.0,bad
+342,Boiling Point,Action & Adventure,R,1993,3.0,good
+343,Joe Dirt,Comedy,PG-13,2001,52.0,best
+344,The Lodgers,Horror,R,2018,-12.0,bad
+345,House of Wax,Horror,R,2005,16.0,best
+346,Anne of Green Gables,Drama,G,1985,-4.0,okay
+347,Source Code,Action & Adventure,PG-13,2011,-10.0,bad
+348,Hey Arnold! The Jungle Movie,Comedy,NR,2017,-7.0,okay
+349,Man is Not a Bird (Covek nije tica),Art House & International,NR,1965,-21.0,worst
+350,Grey Owl,Drama,PG-13,1999,39.0,best
+351,Rocket Singh - Salesman of the Year,Art House & International,PG,2009,-16.0,bad
+352,Flaming Star,Action & Adventure,PG,1960,-19.0,worst
+353,The Poseidon Adventure,Action & Adventure,PG,1972,-4.0,okay
+354,Dance Me Outside,Drama,R,1994,22.0,best
+355,Here and There,Art House & International,NR,2010,0.0,okay
+356,The Affair of the Necklace,Drama,R,2001,28.0,best
+357,Carbon Nation,Documentary,PG,2011,36.0,best
+358,To The Wonder,Drama,R,2013,-9.0,bad
+359,Neighbors,Comedy,R,1981,-14.0,bad
+360,Mau Mau Sex Sex,Documentary,NR,2001,-18.0,worst
+361,Chicago 10,Animation,R,2008,-4.0,okay
+362,Django Unchained,Drama,R,2012,5.0,good
+363,Greaser's Palace,Classics,NR,1972,11.0,good
+364,All That Jazz,Drama,R,1979,1.0,okay
+365,Shock Treatment,Comedy,PG,1981,5.0,good
+366,Beyond the Time Barrier,Classics,NR,1960,-25.0,worst
+367,Jack and Jill vs. the World,Comedy,PG-13,2008,5.0,good
+368,The Killing of a Sacred Deer,Drama,R,2017,-15.0,bad
+369,Swiss Army Man,Drama,R,2016,1.0,okay
+370,Dream House,Mystery & Suspense,PG-13,2011,30.0,best
+371,The Endless,Horror,NR,2018,-26.0,worst
+372,Puss in Boots,Action & Adventure,PG,2011,-18.0,worst
+373,The Program,Drama,R,2016,-19.0,worst
+374,Midnighters,Drama,NR,2018,-47.0,worst
+375,The Criminal Life of Archibaldo de la Cruz (Ensayo de un crimen)(Rehearsal for a Crime),Art House & International,NR,1955,-7.0,okay
+376,Monte Walsh,Action & Adventure,PG-13,1970,-24.0,worst
+377,The Guilty (Den skyldige),Drama,R,2018,-11.0,bad
+378,Cleo From 5 to 7 (Cléo de 5 à 7),Art House & International,NR,1961,-7.0,okay
+379,Women on the Verge of a Nervous Breakdown (Mujeres al Borde de un Ataque de Nervios),Art House & International,R,1988,0.0,okay
+380,Letters To God,Drama,PG,2010,51.0,best
+381,Pauline At The Beach,Art House & International,R,1983,-6.0,okay
+382,"La Commune (Paris, 1871)",Art House & International,NR,2003,-21.0,worst
+383,Singh Is Bliing,Action & Adventure,NR,2015,-23.0,worst
+384,"Lots of Kids, a Monkey and a Castle (Muchos hijos, un mono y un castillo)",Documentary,NR,2017,-4.0,okay
+385,She's One of Us,Art House & International,NR,2003,-3.0,okay
+386,Fast & Furious,Action & Adventure,PG-13,2009,38.0,best
+387,Rent,Comedy,PG-13,2005,36.0,best
+388,Everyday,Drama,NR,2013,-32.0,worst
+389,Men Don't Leave,Comedy,PG-13,1990,-20.0,worst
+390,Citizen Toxie: The Toxic Avenger IV,Comedy,R,2000,-4.0,okay
+391,Park Row,Classics,NR,1952,-14.0,bad
+392,Forty Guns,Classics,NR,1957,-28.0,worst
+393,Hotel Coolgardie,Art House & International,NR,2016,7.0,good
+394,Another Stakeout,Action & Adventure,PG-13,1993,15.0,good
+395,Jude,Drama,R,1996,-8.0,bad
+396,The Parts You Lose,Drama,NR,2019,-15.0,bad
+397,Dirty Laundry,Art House & International,PG-13,2006,18.0,best
+398,Los Olvidados,Drama,NR,1952,6.0,good
+399,Animal Farm,Animation,NR,1954,3.0,good
+400,Phil,Comedy,R,2019,29.0,best
+401,Bathtubs Over Broadway,Comedy,PG-13,2018,-10.0,bad
+402,4:44 Last Day on Earth,Drama,R,2012,-28.0,worst
+403,Deja Vu,Drama,PG-13,1998,-4.0,okay
+404,Early Man,Animation,PG,2018,-32.0,worst
+405,The Hunt for Red October,Action & Adventure,PG,1990,-1.0,okay
+406,Dancemaker,Documentary,NR,1999,-13.0,bad
+407,Possible Worlds,Drama,NR,2000,11.0,good
+408,Bad Milo!,Comedy,R,2013,-21.0,worst
+409,Star Wars: Episode II - Attack of the Clones,Cult Movies,PG,2002,-10.0,bad
+410,Planeat,Documentary,NR,2011,31.0,best
+411,Mud,Drama,PG-13,2013,-17.0,bad
+412,Andre,Action & Adventure,PG,1994,3.0,good
+413,Garden State,Comedy,R,2004,2.0,good
+414,Hotel Harabati (De particulier a particulier),Comedy,NR,2006,-20.0,worst
+415,Gandhi,Classics,PG,1982,8.0,good
+416,Don't Let Go (Relive),Mystery & Suspense,R,2019,38.0,best
+417,Richard Pryor: Omit The Logic,Documentary,R,2013,-11.0,bad
+418,Le Jour se lève (Daybreak),Art House & International,NR,1939,-3.0,okay
+419,Alien,Drama,R,1979,-3.0,okay
+420,Le grand voyage,Art House & International,NR,2005,4.0,good
+421,Seeking Justice,Action & Adventure,R,2012,12.0,good
+422,Private Peaceful,Art House & International,NR,2014,-6.0,okay
+423,The Huntsman: Winter's War,Action & Adventure,PG-13,2016,27.0,best
+424,Across 110th Street,Action & Adventure,R,1972,-1.0,okay
+425,The Rise (Wasteland),Drama,NR,2013,3.0,good
+426,"Oh, God! Book II",Comedy,PG,1980,-12.0,bad
+427,Hard Labor,Art House & International,NR,2015,-24.0,worst
+428,Tight Spot,Classics,NR,1955,1.0,okay
+429,Gleason,Documentary,R,2016,-6.0,okay
+430,Private Romeo,Drama,NR,2012,15.0,good
+431,Perlasca: The Courage of a Just Man (Perlasca. Un eroe italiano),Drama,NR,2005,5.0,good
+432,I Want Candy,Comedy,R,2007,-18.0,worst
+433,Lights Out (Simon Werner A Disparu...),Art House & International,NR,2010,-33.0,worst
+434,The Corporation,Documentary,NR,2004,0.0,okay
+435,American Beauty,Comedy,R,1999,6.0,good
+436,November,Art House & International,NR,2018,-20.0,worst
+437,Limelight,Classics,G,1952,-7.0,okay
+438,Help!,Comedy,G,1965,-2.0,okay
+439,Modern Life (Profils paysans: la vie moderne),Art House & International,PG,2008,-26.0,worst
+440,Sense and Sensibility,Drama,PG,1995,-8.0,bad
+441,Cats of Mirikitani,Documentary,NR,2006,-2.0,okay
+442,Smokey and the Bandit Part 3,Action & Adventure,PG,1983,1.0,okay
+443,99 Homes,Drama,R,2015,-15.0,bad
+444,The French Connection,Action & Adventure,R,1971,-11.0,bad
+445,Free the Nipple,Comedy,NR,2014,13.0,good
+446,Vincere,Art House & International,NR,2010,-24.0,worst
+447,Sommersby,Drama,PG-13,1993,-2.0,okay
+448,The Woodsman,Drama,R,2004,-11.0,bad
+449,11:14,Comedy,R,2003,-16.0,bad
+450,Strangers in Good Company,Action & Adventure,PG,1991,-17.0,bad
+451,Exorcist: The Version You've Never Seen,Horror,R,2000,0.0,okay
+452,Career Opportunities,Comedy,PG-13,1991,-1.0,okay
+453,Beau Travail,Art House & International,NR,2000,-2.0,okay
+454,Unlocking the Cage,Documentary,NR,2016,-11.0,bad
+455,The Lover (L'amant),Art House & International,R,1992,47.0,best
+456,A Promise,Comedy,R,2014,10.0,good
+457,Basket Case,Horror,R,1982,-22.0,worst
+458,Bring It On,Comedy,PG-13,2000,3.0,good
+459,Desperate Journey,Action & Adventure,NR,1942,-1.0,okay
+460,Pixels,Animation,PG-13,2015,30.0,best
+461,These Three,Classics,NR,1936,-24.0,worst
+462,Winter Sleepers,Art House & International,R,1997,3.0,good
+463,Bringing Up Bobby,Comedy,PG-13,2012,16.0,best
+464,Stanley & Iris,Drama,PG-13,1990,16.0,best
+465,Dagon,Drama,R,2001,-11.0,bad
+466,The Collection,Action & Adventure,R,2012,11.0,good
+467,Demon House,Documentary,NR,2018,21.0,best
+468,Angels in the Outfield,Comedy,PG,1994,16.0,best
+469,Hemingway & Gellhorn,Drama,R,2012,-9.0,bad
+470,Daniel & Ana,Drama,NR,2010,33.0,best
+471,At Middleton,Comedy,R,2014,-14.0,bad
+472,Shadow Dancer,Drama,R,2013,-31.0,worst
+473,Before the Fall (Napola),Art House & International,NR,2004,17.0,best
+474,La Bare,Documentary,R,2014,-13.0,bad
+475,Cardinals,Mystery & Suspense,NR,2017,8.0,good
+476,A Brilliant Young Mind,Comedy,PG-13,2015,-9.0,bad
+477,Muppets Most Wanted,Comedy,PG,2014,-21.0,worst
+478,Collateral Damage,Action & Adventure,R,2002,8.0,good
+479,The Handmaid's Tale,Drama,R,1990,16.0,best
+480,An Open Secret,Documentary,R,2015,-11.0,bad
+481,The Flat,Art House & International,NR,2012,-13.0,bad
+482,He Ran All the Way,Classics,NR,1951,-30.0,worst
+483,The Return,Drama,PG-13,2006,16.0,best
+484,"I Am Nojoom, Age 10 And Divorced",Drama,NR,2014,-38.0,worst
+485,Prick Up Your Ears,Art House & International,R,1987,-15.0,bad
+486,Nobelity,Documentary,NR,2006,42.0,best
+487,Deep Impact,Action & Adventure,PG-13,1998,-2.0,okay
+488,The Wedding Year,Comedy,R,2019,36.0,best
+489,Dark Horse,Documentary,PG,2016,-19.0,worst
+490,The Searchers,Action & Adventure,PG,1956,-10.0,bad
+491,The Vatican Tapes,Drama,PG-13,2015,40.0,best
+492,The Unforeseen,Documentary,NR,2008,-21.0,worst
+493,ABC Africa,Documentary,NR,2002,2.0,good
+494,Tarzan Escapes,Action & Adventure,NR,1936,-13.0,bad
+495,An Affair of the Heart,Documentary,NR,2012,3.0,good
+496,Dolphins and Whales 3D: Tribes of the Ocean,Documentary,G,2008,-13.0,bad
+497,The New Romantic,Comedy,NR,2018,-16.0,bad
+498,Georges Bataille's Story of the Eye,Drama,NR,2004,-26.0,worst
+499,Formosa Betrayed,Action & Adventure,R,2010,21.0,best
+500,Josie,Drama,NR,2018,18.0,best
+501,My Life in Ruins,Comedy,PG-13,2009,35.0,best
+502,Bluebeard,Action & Adventure,NR,2010,-32.0,worst
+503,Missing Link,Action & Adventure,PG,2019,-22.0,worst
+504,Last Holiday,Action & Adventure,PG-13,2006,11.0,good
+505,Horse Feathers,Classics,NR,1932,-9.0,bad
+506,A Christmas Carol,Classics,G,1938,-26.0,worst
+507,The Prisoner,Art House & International,NR,1955,0.0,okay
+508,Turbo,Animation,PG,2013,-2.0,okay
+509,Hadewijch,Art House & International,R,2010,-21.0,worst
+510,Runaway Bride,Comedy,PG,1999,7.0,good
+511,Tooth and Nail,Drama,R,2007,-11.0,bad
+512,The Brave Little Toaster Goes to Mars,Animation,NR,1998,5.0,good
+513,Unlawful Entry,Action & Adventure,R,1992,-25.0,worst
+514,Round of Your Life,Kids & Family,NR,2019,22.0,best
+515,The Distinguished Citizen (El ciudadano ilustre),Art House & International,NR,2016,-15.0,bad
+516,Eating,Art House & International,R,1990,-31.0,worst
+517,John Q,Drama,PG-13,2002,55.0,best
+518,The Nile Hilton Incident,Art House & International,NR,2017,-33.0,worst
+519,Stranger Than Paradise,Art House & International,R,1984,-8.0,bad
+520,Cabin Boy,Comedy,PG-13,1994,-5.0,okay
+521,Ender's Game,Action & Adventure,PG-13,2013,4.0,good
+522,Don't Trip...He Ain't Through with Me Yet,Comedy,PG,2006,29.0,best
+523,Monkey Warfare,Comedy,NR,2006,-14.0,bad
+524,Tex,Drama,PG,1982,-19.0,worst
+525,Whity,Art House & International,NR,1971,-35.0,worst
+526,The Big Brass Ring,Drama,R,1999,-40.0,worst
+527,Triple Frontier,Action & Adventure,R,2019,-17.0,bad
+528,The Mourning Forest (Mogari no mori),Art House & International,NR,2007,-4.0,okay
+529,Adanggaman,Art House & International,NR,2001,-28.0,worst
+530,The Sisterhood of the Traveling Pants 2,Action & Adventure,PG-13,2008,1.0,okay
+531,Rabid Dogs (Cani arrabbiati) (Kidnapped) ( A Man and a Boy),Art House & International,NR,1974,9.0,good
+532,Julia,Art House & International,R,2009,-7.0,okay
+533,The Last Gladiators,Documentary,R,2013,-10.0,bad
+534,Mojin: The Lost Legend,Action & Adventure,NR,2015,-1.0,okay
+535,"A Bread Factory, Part One: For the Sake of Gold",Comedy,NR,2018,-29.0,worst
+536,Screwball,Documentary,NR,2019,-3.0,okay
+537,Inferno (Pilgrim),Mystery & Suspense,R,2000,4.0,good
+538,Breaking Habits,Documentary,NR,2019,19.0,best
+539,Georgy Girl,Art House & International,NR,1966,-20.0,worst
+540,Astro Boy (AstroBoy),Action & Adventure,PG,2009,0.0,okay
+541,The Collector,Horror,R,2009,19.0,best
+542,Town & Country,Comedy,R,2000,1.0,okay
+543,In the Realms of the Unreal,Documentary,NR,2005,8.0,good
+544,Patriots Day,Drama,R,2017,6.0,good
+545,The Pelican Brief,Drama,PG-13,1993,8.0,good
+546,Moolaadé,Art House & International,NR,2004,-15.0,bad
+547,Garbo Talks,Comedy,PG-13,1984,34.0,best
+548,A Tuba to Cuba,Documentary,NR,2019,-17.0,bad
+549,The Greening Of Whitney Brown,Action & Adventure,PG,2011,25.0,best
+550,Valkyrie,Drama,PG-13,2008,3.0,good
+551,I Saw the Devil,Art House & International,NR,2011,7.0,good
+552,Joyful Noise,Comedy,PG-13,2012,34.0,best
+553,The Tooth Fairy,Horror,NR,2006,13.0,good
+554,Kill the Messenger,Drama,R,2014,-8.0,bad
+555,Nightmare Alley,Classics,NR,1947,-13.0,bad
+556,Passage to Mars,Action & Adventure,NR,2016,56.0,best
+557,The Hidden Blade,Action & Adventure,R,2006,0.0,okay
+558,The Big Tease,Art House & International,R,2000,-1.0,okay
+559,A Talking Picture (Um Filme Falado),Art House & International,NR,2004,-25.0,worst
+560,Zombeavers,Action & Adventure,R,2015,-38.0,worst
+561,2 Jacks,Drama,NR,2013,-14.0,bad
+562,Red Road,Art House & International,NR,2007,-17.0,bad
+563,Frank Serpico,Documentary,NR,2017,-15.0,bad
+564,The Garden,Documentary,NR,2008,6.0,good
+565,Cassandro the Exotico!,Documentary,NR,2019,-29.0,worst
+566,Maze Runner: The Scorch Trials,Action & Adventure,PG-13,2015,8.0,good
+567,All the Vermeers in New York,Art House & International,NR,1990,-44.0,worst
+568,Smash His Camera,Documentary,PG-13,2010,-14.0,bad
+569,Ashik Kerib,Art House & International,NR,1989,-22.0,worst
+570,Salyut-7,Action & Adventure,NR,2017,-20.0,worst
+571,It's a Gift,Classics,NR,1934,-25.0,worst
+572,Man of the West,Classics,NR,1958,-15.0,bad
+573,Tears of Gaza,Art House & International,NR,2012,2.0,good
+574,How to Lose a Guy in 10 Days,Comedy,PG-13,2003,35.0,best
+575,The Mortal Storm,Drama,NR,1940,-15.0,bad
+576,Under the Sun (Under solen),Art House & International,NR,2000,4.0,good
+577,The Rescuers Down Under,Animation,G,1990,-1.0,okay
+578,The Tender Trap,Classics,NR,1955,-11.0,bad
+579,Millennium Actress (Sennen joyû),Animation,PG,2001,-3.0,okay
+580,The Chameleon,Drama,R,2011,-3.0,okay
+581,Obsessed,Drama,PG-13,2009,27.0,best
+582,Mr. Blandings Builds His Dream House,Classics,NR,1948,-6.0,okay
+583,Átame! (Tie Me Up! Tie Me Down!),Art House & International,NC17,1990,9.0,good
+584,The Manhattan Project,Action & Adventure,PG-13,1986,-4.0,okay
+585,Maggie's Plan,Comedy,R,2016,-35.0,worst
+586,High Life,Action & Adventure,R,2019,-41.0,worst
+587,Blue State,Art House & International,R,2007,-6.0,okay
+588,Go West,Classics,NR,1925,-20.0,worst
+589,Authors Anonymous,Comedy,PG-13,2014,8.0,good
+590,El Americano: The Movie,Action & Adventure,NR,2015,17.0,best
+591,My Way,Action & Adventure,R,2012,62.0,best
+592,Confusion of Genders,Art House & International,NR,2000,42.0,best
+593,Final Destination 2,Horror,R,2003,10.0,good
+594,Aftershock,Horror,R,2013,-14.0,bad
+595,Touchback,Drama,PG-13,2012,25.0,best
+596,Dealt,Documentary,NR,2017,-11.0,bad
+597,Attack of the Crab Monsters,Classics,NR,1957,-38.0,worst
+598,The Last Temptation of Christ,Drama,R,1988,4.0,good
+599,"Thelonious Monk: Straight, No Chaser (Straight, No Chaser )",Documentary,PG-13,1988,6.0,good
+600,Son of the Bride,Art House & International,R,2002,5.0,good
+601,Barcelona,Comedy,PG-13,1994,-2.0,okay
+602,Nights and Weekends,Drama,NR,2008,-34.0,worst
+603,MDMA (Cardinal X),Drama,NR,2018,28.0,best
+604,Sleuth,Art House & International,PG,1972,-6.0,okay
+605,Aria,Art House & International,R,1988,-3.0,okay
+606,Bhowani Junction,Action & Adventure,NR,1956,-40.0,worst
+607,Alvin and the Chipmunks,Animation,PG,2007,36.0,best
+608,Planetary,Documentary,NR,2015,23.0,best
+609,Fong juk (Exiled),Action & Adventure,R,2006,0.0,okay
+610,Van Helsing,Action & Adventure,PG-13,2004,33.0,best
+611,Fast Times At Ridgemont High,Comedy,R,1982,2.0,good
+612,Music Box,Drama,PG-13,1989,4.0,good
+613,Polyester,Comedy,R,1981,-10.0,bad
+614,Familiar Ground,Art House & International,NR,2011,-18.0,worst
+615,Replicas,Mystery & Suspense,PG-13,2019,25.0,best
+616,Dracula's Dog,Horror,R,1981,9.0,good
+617,Cobra,Action & Adventure,R,1986,28.0,best
+618,Jimi: All Is by My Side,Drama,R,2014,-30.0,worst
+619,L' Amico di Famiglia (The Family Friend) (Friend of the Family),Art House & International,NR,2006,-3.0,okay
+620,Wild Card,Action & Adventure,R,2015,-2.0,okay
+621,Rich in Love,Comedy,PG-13,1993,-29.0,worst
+622,Cremaster 2,Drama,NR,1999,9.0,good
+623,Young Mr. Lincoln,Classics,NR,1939,-19.0,worst
+624,Breakfast at Tiffany's,Classics,NR,1961,3.0,good
+625,Man Facing Southeast (Hombre Mirando al Sudeste),Art House & International,R,1986,6.0,good
+626,"For a Good Time, Call...",Comedy,R,2012,-4.0,okay
+627,The Adventures of Ichabod and Mr. Toad,Animation,G,1949,-22.0,worst
+628,Fantastic Four,Action & Adventure,PG-13,2015,9.0,good
+629,Amazon Women on the Moon,Comedy,R,1987,-2.0,okay
+630,A Night in the Woods,Art House & International,NR,2013,-36.0,worst
+631,The Settlers,Art House & International,NR,2017,-24.0,worst
+632,Learning To Drive,Drama,R,2015,-6.0,okay
+633,Training Day,Action & Adventure,R,2001,17.0,best
+634,Despite The Falling Snow,Art House & International,PG-13,2017,33.0,best
+635,Last Dance,Cult Movies,R,1996,18.0,best
+636,Orchestra Of Exiles,Documentary,NR,2012,-10.0,bad
+637,Alvin and the Chipmunks: The Road Chip,Animation,PG,2015,36.0,best
+638,Rangoon,Art House & International,NR,2017,9.0,good
+639,Macon County Line,Action & Adventure,R,1974,15.0,good
+640,Carlito's Way,Drama,R,1993,10.0,good
+641,Meet the Parents,Comedy,PG-13,2000,-5.0,okay
+642,Firewall,Action & Adventure,PG-13,2006,19.0,best
+643,The Myth Of The American Sleepover,Comedy,NR,2011,-29.0,worst
+644,A Woman's Secret,Drama,NR,1949,-9.0,bad
+645,The Hornet's Nest,Documentary,R,2014,8.0,good
+646,Dogs in Space,Drama,R,1987,19.0,best
+647,Love with the Proper Stranger,Classics,NR,1963,-2.0,okay
+648,Howard the Duck,Action & Adventure,PG,1986,23.0,best
+649,Lady in White,Horror,PG-13,1988,2.0,good
+650,Tremors: A Cold Day in Hell,Horror,PG-13,2018,-9.0,bad
+651,Mighty Aphrodite,Comedy,R,1995,-4.0,okay
+652,Dangerous Ground,Action & Adventure,R,1997,27.0,best
+653,Sing,Drama,PG-13,1989,47.0,best
+654,Illuminata,Comedy,R,1999,27.0,best
+655,Hanky Panky,Action & Adventure,PG,1982,-2.0,okay
+656,Big Eyes,Drama,PG-13,2014,-4.0,okay
+657,Salvo,Drama,NR,2014,-28.0,worst
+658,Mental,Art House & International,NR,2013,12.0,good
+659,Superhero Movie,Action & Adventure,PG-13,2008,15.0,good
+660,Dallas 362,Drama,R,2005,8.0,good
+661,Mimic: Sentinel,Horror,R,2003,-45.0,worst
+662,Inkheart,Action & Adventure,PG,2009,7.0,good
+663,Skin in the Game,Drama,NR,2019,-3.0,okay
+664,Splice,Horror,R,2010,-39.0,worst
+665,Safe House,Action & Adventure,R,2012,11.0,good
+666,Troublemakers: The Story of Land Art,Documentary,NR,2016,-24.0,worst
+667,City of Life and Death,Art House & International,R,2011,-6.0,okay
+668,Nobody's Fool,Comedy,R,1994,-10.0,bad
+669,Darkest Hour,Drama,PG-13,2017,-3.0,okay
+670,DOA: Dead or Alive,Action & Adventure,PG-13,2007,3.0,good
+671,The Longshots,Comedy,PG,2008,20.0,best
+672,Boom!,Art House & International,PG,1968,31.0,best
+673,9 Songs,Art House & International,NR,2005,8.0,good
+674,An Episode in the Life of an Iron Picker,Art House & International,NR,2013,-30.0,worst
+675,The Small Back Room,Action & Adventure,NR,1952,-8.0,bad
+676,Where's My Roy Cohn?,Documentary,PG-13,2019,-5.0,okay
+677,Murders in the Rue Morgue,Action & Adventure,NR,1932,-37.0,worst
+678,The Box,Horror,PG-13,2009,-20.0,worst
+679,Home of the Brave,Action & Adventure,R,2006,24.0,best
+680,King Cobra,Drama,NR,2016,-17.0,bad
+681,Five Days One Summer,Drama,PG,1983,16.0,best
+682,2012,Action & Adventure,PG-13,2009,8.0,good
+683,Stage Beauty,Comedy,R,2004,14.0,good
+684,Things You Can Tell Just by Looking at Her,Comedy,PG-13,2000,-10.0,bad
+685,Clash by Night,Classics,NR,1952,-3.0,okay
+686,The Stupids,Comedy,PG,1996,18.0,best
+687,Force 2,Action & Adventure,NR,2016,-12.0,bad
+688,Robin Williams: Come Inside My Mind,Documentary,NR,2018,-9.0,bad
+689,Imaginary Heroes,Comedy,R,2005,47.0,best
+690,The Keeper of Lost Causes (Kvinden i buret),Art House & International,NR,2016,-3.0,okay
+691,Addams Family Values,Comedy,PG-13,1993,-13.0,bad
+692,Night School,Comedy,PG-13,2018,10.0,good
+693,A Walk to Beautiful,Documentary,NR,2008,5.0,good
+694,Sanju,Drama,NR,2018,42.0,best
+695,A Mother's Courage: Talking Back To Autism (Sólskinsdrengurinn),Art House & International,NR,2010,21.0,best
+696,The Machinist,Drama,R,2004,6.0,good
+697,Bedazzled,Comedy,PG-13,2000,-7.0,okay
+698,Detroit Rock City,Comedy,R,1999,34.0,best
+699,The Road Within,Comedy,R,2015,23.0,best
+700,High Noon,Drama,PG-13,2000,13.0,good
+701,Year of the Gun,Action & Adventure,R,1991,-4.0,okay
+702,Dhadak,Art House & International,NR,2018,27.0,best
+703,New Year's Evil,Horror,R,1981,0.0,okay
+704,Street Trash,Comedy,NR,1986,-6.0,okay
+705,Broken Arrow,Action & Adventure,G,1950,-19.0,worst
+706,Murder by Contract,Drama,G,1958,-18.0,worst
+707,Network,Comedy,R,1976,1.0,okay
+708,Nate & Margaret,Comedy,NR,2012,-27.0,worst
+709,Robots,Animation,PG,2005,-11.0,bad
+710,Born Yesterday,Comedy,PG,1993,2.0,good
+711,Le samouraï,Drama,PG,1967,-6.0,okay
+712,Three Blind Mice,Comedy,PG,2008,-30.0,worst
+713,Christmas on Mars,Musical & Performing Arts,NR,2008,2.0,good
+714,City of Ghosts,Documentary,R,2017,-16.0,bad
+715,Special Treatment,Art House & International,NR,2011,-8.0,bad
+716,The Good Son,Drama,R,1993,28.0,best
+717,Housefull 4,Comedy,NR,2019,20.0,best
+718,I'm Going Home,Comedy,NR,2001,-28.0,worst
+719,Batman: Mask of the Phantasm,Action & Adventure,PG,1993,4.0,good
+720,"Fast, Cheap & Out of Control",Documentary,PG,1997,-7.0,okay
+721,BB King: The Life of Riley,Documentary,NR,2014,-1.0,okay
+722,She's the One,Comedy,R,1996,-20.0,worst
+723,Samehada otoko to momojiri onna (Shark Skin Man and Peach Hip Girl ),Action & Adventure,R,2003,55.0,best
+724,Edge Codes: The Art of Motion Picture Editing,Documentary,NR,2005,0.0,okay
+725,Red Joan,Drama,R,2019,29.0,best
+726,Skidoo,Comedy,R,1968,-2.0,okay
+727,The Persian Connection,Action & Adventure,NR,2017,12.0,good
+728,An American Rhapsody,Drama,PG-13,2001,11.0,good
+729,The Perfect Man,Comedy,PG,2005,52.0,best
+730,Belly,Action & Adventure,R,1998,75.0,best
+731,The Bling Ring,Drama,R,2013,-26.0,worst
+732,Tell It to the Bees,Drama,NR,2019,29.0,best
+733,Babes in Toyland,Kids & Family,G,1961,24.0,best
+734,Freezer,Action & Adventure,R,2014,-6.0,okay
+735,Halloween II,Drama,R,1981,35.0,best
+736,Mere Brother Ki Dulhan,Comedy,NR,2011,-3.0,okay
+737,The Lady Eve,Classics,NR,1941,-13.0,bad
+738,Witness for the Prosecution,Classics,NR,1957,-5.0,okay
+739,Blood Brother,Action & Adventure,R,2018,66.0,best
+740,5 Broken Cameras,Art House & International,NR,2012,-8.0,bad
+741,Voy a Explotar (I'm Gonna Explode),Art House & International,NR,2008,-14.0,bad
+742,Labyrinth,Action & Adventure,PG,1986,16.0,best
+743,Isle of Dogs,Action & Adventure,PG-13,2018,-3.0,okay
+744,The Last Suit (El último traje),Art House & International,NR,2018,11.0,good
+745,Carol Channing: Larger Than Life,Documentary,PG,2012,-3.0,okay
+746,Kon Tiki,Drama,PG-13,2013,-4.0,okay
+747,My Kingdom (Mi Reino),Drama,NR,2002,15.0,good
+748,Bill Cunningham New York,Documentary,NR,2011,-7.0,okay
+749,The Manitou,Horror,PG,1978,2.0,good
+750,War and Peace,Art House & International,PG,1956,20.0,best
+751,Bohemian Rhapsody,Drama,PG-13,2018,24.0,best
+752,The Eyes of Tammy Faye,Documentary,PG-13,2000,-14.0,bad
+753,Houseguest,Comedy,PG,1995,41.0,best
+754,The Perfect Date,Comedy,NR,2019,-31.0,worst
+755,Sex and the City,Comedy,R,2008,28.0,best
+756,The Mystery of the Wax Museum,Classics,NR,1933,-18.0,worst
+757,Wizards,Action & Adventure,PG,1977,8.0,good
+758,We're The Millers,Comedy,R,2013,25.0,best
+759,Rio 2,Animation,G,2014,10.0,good
+760,For Roseanna,Art House & International,PG-13,1997,44.0,best
+761,The Promise (Master of Crimson Armor) (Wu ji),Action & Adventure,PG-13,2005,13.0,good
+762,The Face of Another (I Have a Stranger's Face) (Tanin no kao),Art House & International,NR,1967,-9.0,bad
+763,The Hero,Drama,R,2017,-19.0,worst
+764,The Odd Couple II,Comedy,PG-13,1998,30.0,best
+765,Amreeka,Drama,PG-13,2009,-11.0,bad
+766,Iron Sky,Action & Adventure,R,2012,-2.0,okay
+767,Fire In The Blood,Documentary,NR,2013,-3.0,okay
+768,Ghost Bird,Documentary,NR,2009,-18.0,worst
+769,That's Entertainment,Classics,G,1973,-15.0,bad
+770,Police Beat,Art House & International,NR,2005,-12.0,bad
+771,Vanilla Sky,Drama,R,2001,30.0,best
+772,Dirty Sanchez: The Movie,Comedy,R,2007,34.0,best
+773,Standard Time (Anything But Love),Comedy,PG-13,2002,31.0,best
+774,Battle in Heaven,Art House & International,NR,2006,-3.0,okay
+775,The Waiting Room,Drama,NR,2007,-4.0,okay
+776,Symbiopsychotaxiplasm: Take One,Documentary,NR,1968,-13.0,bad
+777,Foolish Wives,Classics,NR,1922,-20.0,worst
+778,Romeo and Juliet,Drama,PG,1968,-20.0,worst
+779,Kubo and the Two Strings,Action & Adventure,PG,2016,-11.0,bad
+780,Love at First Bite,Comedy,PG,1979,-13.0,bad
+781,The Solid Gold Cadillac,Classics,NR,1956,-33.0,worst
+782,21 And Over,Comedy,R,2013,21.0,best
+783,Sputnik Fever (Sputnik Mania),Documentary,G,2007,-16.0,bad
+784,5x2,Art House & International,R,2004,4.0,good
+785,All About Eve,Classics,PG,1950,-6.0,okay
+786,The Night of the Hunter,Drama,PG,1955,-9.0,bad
+787,Dark Blue,Drama,R,2003,-6.0,okay
+788,American Guerrilla in the Philippines,Action & Adventure,NR,1950,-42.0,worst
+789,The Incredibly Strange Creatures...,Horror,NR,1963,-6.0,okay
+790,Four Friends,Comedy,R,1981,-6.0,okay
+791,Cash,Action & Adventure,NR,2007,18.0,best
+792,Dragon Inn (Long men ke zhen),Action & Adventure,NR,1966,-14.0,bad
+793,Supercop,Action & Adventure,R,1996,-22.0,worst
+794,Shivaay,Action & Adventure,NR,2016,53.0,best
+795,Weather Girl,Comedy,R,2009,3.0,good
+796,Percy Jackson: Sea of Monsters,Action & Adventure,PG,2013,13.0,good
+797,This Is Congo,Documentary,NR,2018,-12.0,bad
+798,Geronimo,Action & Adventure,NR,1962,-47.0,worst
+799,Beyond a Reasonable Doubt,Drama,PG-13,2009,29.0,best
+800,The Great Flood,Documentary,NR,2014,-37.0,worst
+801,Our Man in Havana,Classics,NR,1959,-17.0,bad
+802,Arizona Dream,Comedy,R,1993,-1.0,okay
+803,Being Ginger,Documentary,NR,2014,-15.0,bad
+804,Suddenly,Action & Adventure,PG,1954,-37.0,worst
+805,Kickboxer: Retaliation,Action & Adventure,R,2018,-20.0,worst
+806,Piccadilly,Classics,NR,1929,-11.0,bad
+807,Grbavica,Art House & International,NR,2007,-11.0,bad
+808,Donkey Skin (Peau d'âne),Art House & International,NR,1971,-11.0,bad
+809,Crossfire,Action & Adventure,NR,1947,-5.0,okay
+810,The Ghost Goes West,Classics,NR,1935,-47.0,worst
+811,Pain and Glory (Dolor y gloria),Drama,R,2019,-8.0,bad
+812,Up There,Comedy,NR,2012,-36.0,worst
+813,The Boy with Green Hair,Classics,NR,1948,-23.0,worst
+814,The Rescuers,Action & Adventure,G,1977,-12.0,bad
+815,Sweet Home Alabama,Comedy,PG-13,2002,40.0,best
+816,Metro,Action & Adventure,R,1997,11.0,good
+817,Iron Monkey,Action & Adventure,PG-13,2001,-4.0,okay
+818,Carrie,Horror,R,2013,-6.0,okay
+819,The First Power,Horror,R,1990,23.0,best
+820,Stephen King's 'The Langoliers',Horror,PG-13,1995,-4.0,okay
+821,Die Wand (The Wall),Drama,NR,2013,-8.0,bad
+822,Yogi Bear,Action & Adventure,PG,2010,21.0,best
+823,The Mole People,Horror,NR,1956,-16.0,bad
+824,Zarafa,Animation,NR,2015,-10.0,bad
+825,Spring Breakers,Action & Adventure,R,2013,-29.0,worst
+826,Four Rooms,Comedy,R,1996,55.0,best
+827,The Intended,Drama,R,2004,5.0,good
+828,Short Time,Action & Adventure,PG-13,1990,35.0,best
+829,Hideaway,Drama,R,1995,25.0,best
+830,The Animal,Comedy,PG-13,2001,-2.0,okay
+831,Dear Dictator,Comedy,NR,2018,29.0,best
+832,Donzoko (The Lower Depths),Art House & International,NR,1957,-3.0,okay
+833,Big Brown Eyes,Classics,NR,1936,-18.0,worst
+834,Titicut Follies,Documentary,NR,1967,-10.0,bad
+835,Beneath Hill 60,Art House & International,R,2010,-8.0,bad
+836,Dear America: Letters Home from Vietnam,Documentary,PG-13,1987,-8.0,bad
+837,Popcorn,Comedy,R,1989,3.0,good
+838,Murder at the Gallop,Action & Adventure,PG,1963,-28.0,worst
+839,Battle Beyond the Stars,Science Fiction & Fantasy,PG,1980,-3.0,okay
+840,Someone to Watch over Me,Action & Adventure,R,1987,-28.0,worst
+841,Fame,Drama,R,1980,-15.0,bad
+842,Support Your Local Gunfighter,Action & Adventure,G,1971,-2.0,okay
+843,Deep Rising,Action & Adventure,R,1998,14.0,good
+844,Baunsu ko gaurusu (Bounce KO Gals),Art House & International,NR,1997,24.0,best
+845,Hilary and Jackie,Drama,R,1998,-5.0,okay
+846,King of the Corner,Comedy,R,2005,-43.0,worst
+847,An Autumn Afternoon,Art House & International,NR,1964,-4.0,okay
+848,Things Change,Comedy,PG,1988,-4.0,okay
+849,Totally,Drama,NR,1993,-39.0,worst
+850,Kurt & Courtney,Documentary,R,1998,-17.0,bad
+851,Room For Rent,Comedy,NR,2017,-36.0,worst
+852,El Sol del membrillo (Dream of Light) (Quince Tree of the Sun),Documentary,NR,2000,5.0,good
+853,Brother of Sleep,Art House & International,R,1995,8.0,good
+854,The End Of The Tour,Drama,R,2015,-9.0,bad
+855,Theater of War,Documentary,NR,2008,8.0,good
+856,Chasing Asylum,Art House & International,NR,2016,-29.0,worst
+857,An Inconvenient Sequel: Truth To Power,Documentary,PG,2017,-29.0,worst
+858,An Ordinary Execution,Art House & International,NR,2010,-38.0,worst
+859,I'll Be Home for Christmas,Comedy,PG,1998,18.0,best
+860,Bad Seed,Horror,R,2001,27.0,best
+861,Just Jim,Drama,NR,2015,-52.0,worst
+862,Circle of Friends,Art House & International,PG-13,1994,-5.0,okay
+863,Bad Teacher,Comedy,R,2011,-8.0,bad
+864,Train of Life,Art House & International,R,1999,29.0,best
+865,Wisegirls,Action & Adventure,R,2002,25.0,best
+866,Celtic Pride,Comedy,PG-13,1996,22.0,best
+867,The Dead Pool,Action & Adventure,R,1988,-13.0,bad
+868,Village of the Damned,Horror,R,1960,-15.0,bad
+869,Lady Chatterley,Art House & International,R,2007,-17.0,bad
+870,A League of Their Own,Comedy,PG,1992,6.0,good
+871,Major Payne,Comedy,PG-13,1994,35.0,best
+872,Begin Again,Comedy,R,2014,-1.0,okay
+873,Dom Hemingway,Comedy,R,2014,-18.0,worst
+874,48 HRS,Action & Adventure,R,1982,-24.0,worst
+875,Altman,Documentary,G,2014,-2.0,okay
+876,Black Butterflies,Drama,NR,2012,-7.0,okay
+877,Been So Long,Drama,NR,2018,-14.0,bad
+878,The Clay Bird (Matir moina),Art House & International,NR,2002,-4.0,okay
+879,Holy Motors,Drama,NR,2012,-20.0,worst
+880,Secretariat,Drama,PG,2010,13.0,good
+881,The Holy Girl,Art House & International,R,2005,-19.0,worst
+882,Aferim!,Action & Adventure,NR,2016,-23.0,worst
+883,Goodbye World,Comedy,NR,2014,8.0,good
+884,Megane,Art House & International,NR,2008,48.0,best
+885,Submarine,Comedy,R,2011,-6.0,okay
+886,Housekeeping,Comedy,PG,1987,-16.0,bad
+887,Prelude to a Kiss,Comedy,PG-13,1992,-24.0,worst
+888,Five Easy Pieces,Classics,R,1970,-4.0,okay
+889,Where Hope Grows,Drama,PG-13,2015,29.0,best
+890,"The Prize Winner of Defiance, Ohio",Drama,PG-13,2005,16.0,best
+891,7 Days in Hell,Comedy,NR,2015,-17.0,bad
+892,11/8/16,Documentary,NR,2017,-14.0,bad
+893,Office Killer,Comedy,R,1997,39.0,best
+894,Woman Thou Art Loosed: On the 7th Day,Mystery & Suspense,PG-13,2012,49.0,best
+895,Twin Warriors (Tai ji zhang san feng) (The Tai-Chi Master),Action & Adventure,R,1984,-2.0,okay
+896,Divorce Italian Style (Divorzio all'italiana),Art House & International,NR,1962,-7.0,okay
+897,Malena,Art House & International,R,2000,30.0,best
+898,Rendezvous in Paris,Art House & International,NR,1996,-1.0,okay
+899,Footloose,Drama,PG,1984,20.0,best
+900,Highwater,Documentary,PG-13,2010,31.0,best
+901,Tuff Turf,Action & Adventure,R,1985,43.0,best
+902,Lenny Cooke,Documentary,NR,2013,-15.0,bad
+903,Muppet Treasure Island,Comedy,G,1996,4.0,good
+904,The Sterile Cuckoo (Pookie),Comedy,PG,1969,-24.0,worst
+905,Letters to Father Jacob (Postia pappi Jaakobille),Art House & International,NR,2010,6.0,good
+906,The Acid House,Art House & International,NR,1998,24.0,best
+907,Backstabbing for Beginners,Drama,R,2018,4.0,good
+908,Varieté (Variety) (Jealousy),Art House & International,NR,1925,-12.0,bad
+909,Resident Evil: Apocalypse,Horror,R,2004,40.0,best
+910,Ladrones,Comedy,PG-13,2015,4.0,good
+911,Saving Grace,Comedy,R,2000,21.0,best
+912,Whistle Down the Wind,Classics,NR,1961,-9.0,bad
+913,Homo Sapiens,Documentary,NR,2016,-44.0,worst
+914,Open Season,Action & Adventure,PG,2006,9.0,good
+915,Los Adioses,Drama,NR,2017,-27.0,worst
+916,Gascoigne,Documentary,NR,2015,-26.0,worst
+917,By The Sea,Drama,R,2015,-7.0,okay
+918,7 Days in Entebbe,Drama,PG-13,2018,14.0,good
+919,Cinema Paradiso (Nuovo Cinema Paradiso),Art House & International,R,1988,7.0,good
+920,Quartet,Art House & International,R,1981,-11.0,bad
+921,Room,Art House & International,R,2006,-46.0,worst
+922,East Palace West Palace (Dong gong xi gong) (Behind the Forbidden City),Art House & International,PG,1998,-1.0,okay
+923,The Golden Compass,Action & Adventure,PG-13,2007,9.0,good
+924,Late Bloomer,Art House & International,NR,2004,-25.0,worst
+925,Silent Movie,Classics,PG,1976,-7.0,okay
+926,Stand and Deliver,Drama,PG,1988,6.0,good
+927,Death Defying Acts,Drama,PG,2008,-16.0,bad
+928,The Lord of the Rings: The Two Towers,Action & Adventure,PG-13,2002,0.0,okay
+929,My Science Project,Comedy,PG,1985,42.0,best
+930,Words And Pictures,Comedy,PG-13,2014,7.0,good
+931,Strange Illusion,Classics,NR,1945,-53.0,worst
+932,Iron Man 2,Action & Adventure,PG-13,2010,-2.0,okay
+933,Cruising,Drama,R,1980,-3.0,okay
+934,The Horde (La Horde),Action & Adventure,NR,2009,-1.0,okay
+935,Imagine Me & You,Comedy,R,2006,40.0,best
+936,Fred Won't Move Out,Drama,NR,2012,-64.0,worst
+937,Hidden Figures,Drama,PG,2017,0.0,okay
+938,Long Time Coming: A 1955 Baseball Story,Documentary,NR,2018,-7.0,okay
+939,Splendor,Comedy,R,1999,5.0,good
+940,The View From Greenhaven,Comedy,NR,2008,-11.0,bad
+941,Flanders (Flandres),Action & Adventure,NR,2007,-9.0,bad
+942,Outland,Drama,R,1981,-2.0,okay
+943,The War Game,Action & Adventure,NR,1966,-3.0,okay
+944,The Hunger Games: Mockingjay - Part 1,Action & Adventure,PG-13,2014,2.0,good
+945,Bamako,Art House & International,NR,2006,-14.0,bad
+946,Iowa,Drama,NR,2005,3.0,good
+947,Galaxy of Terror (Mindwarp: An Infinity of Terror) (Planet of Horrors) (Quest),Action & Adventure,R,1981,-4.0,okay
+948,The Professor and the Madman,Drama,NR,2019,39.0,best
+949,Dark Night of the Scarecrow,Drama,NR,1981,14.0,good
+950,Mondays in the Sun (Los Lunes al sol),Comedy,R,2003,7.0,good
+951,Blue Ruin,Mystery & Suspense,R,2014,-17.0,bad
+952,American Gigolo,Drama,R,1980,-17.0,bad
+953,Sergio and Sergei,Drama,NR,2017,-36.0,worst
+954,Suite Française,Drama,NR,2015,-8.0,bad
+955,Jupiter Ascending,Action & Adventure,PG-13,2015,11.0,good
+956,"Rabin, the Last Day",Drama,NR,2016,-25.0,worst
+957,Standoff,Action & Adventure,R,2016,-13.0,bad
+958,Random Harvest,Classics,NR,1942,0.0,okay
+959,The Boy Who Harnessed the Wind,Art House & International,NR,2019,3.0,good
+960,Bananas,Classics,PG-13,1971,-14.0,bad
+961,Piranha Part Two: The Spawning,Drama,R,1981,5.0,good
+962,Down and Derby,Comedy,PG,2005,29.0,best
+963,Drunken Angel,Art House & International,NR,1948,-4.0,okay
+964,Saw 3D,Horror,R,2010,32.0,best
+965,Stray Dog,Documentary,NR,2015,-36.0,worst
+966,The Hunting of the President,Documentary,NR,2004,-21.0,worst
+967,Thor: Ragnarok,Action & Adventure,PG-13,2017,-6.0,okay
+968,Poor Boy's Game,Art House & International,R,2007,-17.0,bad
+969,One Track Heart: The Story of Krishna Das,Documentary,NR,2013,-15.0,bad
+970,Under Suspicion,Art House & International,R,2000,0.0,okay
+971,American Gun,Art House & International,R,2006,4.0,good
+972,Western,Documentary,NR,2015,-38.0,worst
+973,The Freshman (College Days),Classics,NR,1925,-14.0,bad
+974,Escobar: Paradise Lost,Drama,R,2015,-6.0,okay
+975,Kumaré,Documentary,NR,2012,24.0,best
+976,The World Before Her,Art House & International,NR,2013,-21.0,worst
+977,Wild America,Action & Adventure,PG,1997,32.0,best
+978,Lola Montès,Drama,NR,1955,-4.0,okay
+979,Gypsy,Art House & International,NR,2012,-13.0,bad
+980,Prime Cut,Action & Adventure,R,1972,3.0,good
+981,Cut Snake,Mystery & Suspense,R,2015,-25.0,worst
+982,Please Don't Eat the Daisies,Classics,PG,1960,3.0,good
+983,Armageddon,Action & Adventure,PG-13,1998,35.0,best
+984,High School Musical 2,Comedy,G,2007,-10.0,bad
+985,David Bowie Is Happening Now,Musical & Performing Arts,NR,2014,7.0,good
+986,Lift,Drama,R,2001,20.0,best
+987,Psychomania,Action & Adventure,PG,1971,-30.0,worst
+988,Deep Red (Profondo rosso),Art House & International,R,1975,-10.0,bad
+989,Tales of Halloween,Horror,NR,2015,-37.0,worst
+990,Blast From the Past,Comedy,PG-13,1999,-1.0,okay
+991,Incident at Loch Ness,Comedy,PG-13,2004,4.0,good
+992,Island,Art House & International,NR,2010,14.0,good
+993,Beyond the Lights,Drama,PG-13,2014,-8.0,bad
+994,My Week with Marilyn,Drama,R,2011,-12.0,bad
+995,The Imposter,Documentary,R,2012,-17.0,bad
+996,The Great Escape,Action & Adventure,NR,1963,1.0,okay
+997,The Wall,Drama,R,2017,-23.0,worst
+998,Soom (Breath),Art House & International,NR,2007,9.0,good
+999,The Animatrix,Action & Adventure,PG-13,2003,-11.0,bad
+1000,St Trinian's II: The Legend of Fritton's Gold,Action & Adventure,NR,2009,31.0,best
+1001,Hellraiser: Judgment,Horror,NR,2018,-24.0,worst
+1002,Belle's Magical World,Animation,G,1998,56.0,best
+1003,Trick,Comedy,R,1999,5.0,good
+1004,Go Now,Drama,R,1998,13.0,good
+1005,No Way to Treat a Lady,Classics,NR,1968,-15.0,bad
+1006,Kin,Action & Adventure,PG-13,2018,22.0,best
+1007,Memories of Tomorrow (Ashita no kioku),Art House & International,NR,2007,4.0,good
+1008,House of Pleasures,Drama,NR,2011,-21.0,worst
+1009,Turistas (Paradise Lost),Drama,R,2006,10.0,good
+1010,Support the Girls,Comedy,R,2018,-26.0,worst
+1011,Cobra Verde,Action & Adventure,NR,1987,-12.0,bad
+1012,Simone,Comedy,PG-13,2002,-16.0,bad
+1013,The Bone Collector,Mystery & Suspense,R,1999,35.0,best
+1014,House Arrest,Comedy,PG,1996,35.0,best
+1015,Michael Clayton,Drama,R,2007,-22.0,worst
+1016,Chicken with Plums,Art House & International,PG-13,2012,-3.0,okay
+1017,The Cure,Drama,PG-13,1995,40.0,best
+1018,Homicidal,Classics,NR,1961,-13.0,bad
+1019,This Is Elvis,Documentary,PG,1981,1.0,okay
+1020,The Keeper: The Legend of Omar Khayyam,Action & Adventure,PG,2005,3.0,good
+1021,The Misandrists,Comedy,NR,2018,-27.0,worst
+1022,Who's That Knocking at My Door?,Action & Adventure,R,1967,-7.0,okay
+1023,Spotlight,Drama,R,2015,-4.0,okay
+1024,Lavender,Drama,NR,2017,-10.0,bad
+1025,Oliver Sherman,Drama,NR,2010,-4.0,okay
+1026,Urban Legend,Horror,R,1998,18.0,best
+1027,Another Evil,Comedy,NR,2017,-31.0,worst
+1028,What Haunts Us,Documentary,NR,2018,-25.0,worst
+1029,The People Under The Stairs,Comedy,R,1991,-5.0,okay
+1030,Jhoom Barabar Jhoom,Art House & International,NR,2007,-7.0,okay
+1031,Caddyshack,Comedy,R,1980,13.0,good
+1032,The Cemetery Club,Comedy,PG-13,1993,-26.0,worst
+1033,MacKenna's Gold,Action & Adventure,PG,1969,50.0,best
+1034,Jump In!,Comedy,G,2007,-2.0,okay
+1035,On the Beach,Classics,NR,1959,-7.0,okay
+1036,Come Blow Your Horn,Classics,NR,1963,-12.0,bad
+1037,Wag the Dog,Comedy,R,1997,-9.0,bad
+1038,Guilty (Talvar),Art House & International,NR,2015,2.0,good
+1039,Tonnerre,Comedy,NR,2014,-12.0,bad
+1040,Alone in the Dark,Horror,R,1982,-38.0,worst
+1041,Viva Zapatero!,Art House & International,NR,2006,-10.0,bad
+1042,Curvature,Drama,NR,2018,16.0,best
+1043,Americons,Action & Adventure,R,2015,66.0,best
+1044,The Four Times (Le Quattro Volte),Art House & International,NR,2011,-18.0,worst
+1045,The Social Network,Drama,PG-13,2010,-10.0,bad
+1046,Up at the Villa,Drama,PG-13,2000,-11.0,bad
+1047,Southie,Action & Adventure,R,1998,12.0,good
+1048,Bailey's Billion$ (Bailey's Billions),Comedy,G,2005,27.0,best
+1049,The Strongest Man,Comedy,NR,2015,26.0,best
+1050,Gerontophilia,Comedy,NR,2015,-5.0,okay
+1051,Tim's Vermeer,Documentary,PG-13,2014,-3.0,okay
+1052,Shining Through,Action & Adventure,R,1992,29.0,best
+1053,Menashe,Drama,PG,2017,-33.0,worst
+1054,Les Rendez-vous d'Anna (The Meetings of Anna),Art House & International,NR,1978,14.0,good
+1055,Private Life,Drama,R,2018,-18.0,worst
+1056,Everybody's All-American,Drama,R,1988,4.0,good
+1057,The Sheik and I,Art House & International,NR,2012,-9.0,bad
+1058,Motorpsycho,Action & Adventure,NR,1965,-4.0,okay
+1059,Into The Storm,Mystery & Suspense,PG-13,2014,21.0,best
+1060,The Real McCoy,Action & Adventure,PG-13,1993,10.0,good
+1061,Joan of Arc,Drama,NR,1999,47.0,best
+1062,A Zed and Two Noughts,Comedy,R,1990,6.0,good
+1063,The Petrified Forest,Classics,NR,1936,-20.0,worst
+1064,A People Uncounted,Documentary,NR,2014,-28.0,worst
+1065,Deadpool 2,Action & Adventure,R,2018,1.0,okay
+1066,Sex and Death 101,Comedy,R,2007,15.0,good
+1067,The Human Resources Manager,Comedy,NR,2011,-13.0,bad
+1068,Equus,Drama,R,1977,15.0,good
+1069,A Dry White Season,Drama,R,1989,-6.0,okay
+1070,Power,Drama,R,1986,-6.0,okay
+1071,Persuasion,Drama,PG,1995,-3.0,okay
+1072,The Stray,Drama,PG,2017,29.0,best
+1073,A Patch Of Fog,Art House & International,NR,2017,-13.0,bad
+1074,Sheitan,Art House & International,NR,2007,-1.0,okay

@@ -1,10 +1,11 @@
 CREATE TABLE df_final
 (
   id serial NOT NULL,
-  url character varying(150),
   title character varying(100),
-  tomatoScore float,
-  popcornScore float,
-  squidScore float, 
+  genre character varying(100),
+  cag_rating character varying(5),
+  cag_release int,
+  sScore float,
+  sScore_qcut character varying(50),
   PRIMARY KEY (id)
 );
