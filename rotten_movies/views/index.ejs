@@ -7,44 +7,9 @@
   <title>The Best Most Rotten of Tomatoes</title>
 
   <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.5.3/dist/css/foundation.min.css" integrity="sha256-GSio8qamaXapM8Fq9JYdGNTvk/dgs+cMLgPeevOYEx0= sha384-wAweiGTn38CY2DSwAaEffed6iMeflc0FMiuptanbN4J+ib+342gKGpvYRWubPd/+ sha512-QHEb6jOC8SaGTmYmGU19u2FhIfeG+t/hSacIWPpDzOp5yygnthL3JwnilM7LM1dOAbJv62R+/FICfsrKUqv4Gg==" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.5.3/dist/js/foundation.min.js" integrity="sha256-mRYlCu5EG+ouD07WxLF8v4ZAZYCA6WrmdIXyn1Bv9Vk= sha384-KzKofw4qqetd3kvuQ5AdapWPqV1ZI+CnfyfEwZQgPk8poOLWaabfgJOfmW7uI+AV sha512-0gHfaMkY+Do568TgjJC2iMAV0dQlY4NqbeZ4pr9lVUTXQzKu8qceyd6wg/3Uql9qA2+3X5NHv3IMb05wb387rA==" crossorigin="anonymous"></script>
 
-  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-
-  <!--- Javascript --> 
- <script>
-
-  $(function() {
-  	var steps = {
-  	1: "Almost Erudite, Just Moderate Level of Trash",
-  	2: "Increasingly Challenging Levels of Trash",
-  	3: "Worrisomely Trashy, Will Need To Read A Book Later",
-  	4: "What The Fuck, Why Would You Want That",
-  	5: "Bottom Of The Barrel, Are You At Home In Your Underwear?"
-  	}; 
-
-    $( "#slider" )
-
-     .slider({
-      value:1,
-      min: 1,
-      max: 5,
-      step: 1,
-      slide: function( event, ui ) {
-        $( "#amount" ).val( steps[ui.value] );
-      }
-    });
-    $( "#amount" ).val($( "#slider" ).slider("values"));
-
-    var selection = $( "#slider" ).slider("values");
-
-  } );
-
-  function notification() {
-  	alert("Form was submitted");
-  }
-
- </script>
 </head>
 <body>
 
@@ -58,13 +23,70 @@
     	<h1> How trashy do you want it? </h1>
       
     <fieldset>
-    <form method=post action="/"> 
-    	<input name="city" type="text" class="ghost-input" placeholder="Enter a City" required>
-      <input type="submit" class="ghost-button" value="Get Weather">
+    <form method=post action="/">
+
+      <input name="city" type="text" class="ghost-input" placeholder="Enter a City" required>
+      <input type="submit" class="ghost-button" value="Get Movie">
+
     </form> 
-    </fieldset> 
+    </fieldset>
+
     </div>
-  </div>
+
+    <div id="inner-content">
+
+    <input
+    type="range"
+    min="1"                    // default 0
+    max="5"                  // default 100
+    step="1"                   // default 1
+    value="2"                 // default min + (max-min)/2
+    data-orientation="horizontal" // default horizontal
+    >
+
+    $('input[type="range"]').rangeslider({
+
+    // Feature detection the default is `true`.
+    // Set this to `false` if you want to use
+    // the polyfill also in Browsers which support
+    // the native <input type="range"> element.
+    polyfill: true,
+
+    // Default CSS classes
+    rangeClass: 'rangeslider',
+    disabledClass: 'rangeslider--disabled',
+    horizontalClass: 'rangeslider--horizontal',
+    verticalClass: 'rangeslider--vertical',
+    fillClass: 'rangeslider__fill',
+    handleClass: 'rangeslider__handle',
+
+    // Callback function
+    onInit: function() {},
+
+    // Callback function
+    onSlide: function(position, value) {},
+
+    // Callback function
+    onSlideEnd: function(position, value) {}
+    });
+
+    <script src="jquery.min.js"></script>
+    <script src="rangeslider.min.js"></script>
+    <script>
+        // Initialize a new plugin instance for all
+        // e.g. $('input[type="range"]') elements.
+        $('input[type="range"]').rangeslider();
+
+        // Destroy all plugin instances created from the
+        // e.g. $('input[type="range"]') elements.
+        $('input[type="range"]').rangeslider('destroy');
+
+        // Update all rangeslider instances for all
+        // e.g. $('input[type="range"]') elements.
+        // Usefull if you changed some attributes e.g. `min` or `max` etc.
+        $('input[type="range"]').rangeslider('update', true);
+    </script>
+    </div>
   <div id="right-sidebar"></div>
   <div id="footer"></div>
 </div>

@@ -3,10 +3,10 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res) {
-  res.render('index', { title: 'Rotten Movies Test' });
+  res.render('index', { title: 'Rotten Movies' });
 });
 
-router.post('/', function(re, res) {
+router.post('/', function(req, res) {
 	let city = req.body.city; 
 	let url = 
 	res.render('index');
