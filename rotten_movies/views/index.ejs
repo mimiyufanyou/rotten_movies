@@ -5,10 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Best Most Rotten of Tomatoes</title>
-
   <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.5.3/dist/css/foundation.min.css" integrity="sha256-GSio8qamaXapM8Fq9JYdGNTvk/dgs+cMLgPeevOYEx0= sha384-wAweiGTn38CY2DSwAaEffed6iMeflc0FMiuptanbN4J+ib+342gKGpvYRWubPd/+ sha512-QHEb6jOC8SaGTmYmGU19u2FhIfeG+t/hSacIWPpDzOp5yygnthL3JwnilM7LM1dOAbJv62R+/FICfsrKUqv4Gg==" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.5.3/dist/js/foundation.min.js" integrity="sha256-mRYlCu5EG+ouD07WxLF8v4ZAZYCA6WrmdIXyn1Bv9Vk= sha384-KzKofw4qqetd3kvuQ5AdapWPqV1ZI+CnfyfEwZQgPk8poOLWaabfgJOfmW7uI+AV sha512-0gHfaMkY+Do568TgjJC2iMAV0dQlY4NqbeZ4pr9lVUTXQzKu8qceyd6wg/3Uql9qA2+3X5NHv3IMb05wb387rA==" crossorigin="anonymous"></script>
 
 </head>
 <body>
@@ -21,28 +18,20 @@
   <div id="content">
     <div id="inner-content">
     	<h1> How trashy do you want it? </h1>
-      
+
     <fieldset>
-    <form method=post action="/">
+    <form method=get action="/movies/">
 
       <input name="city" type="text" class="ghost-input" placeholder="Enter a City" required>
       <input type="submit" class="ghost-button" value="Get Movie">
 
-    </form> 
+    </form>
     </fieldset>
 
     </div>
-
     <div id="inner-content">
 
-    <input
-    type="range"
-    min="1"                    // default 0
-    max="5"                  // default 100
-    step="1"                   // default 1
-    value="2"                 // default min + (max-min)/2
-    data-orientation="horizontal" // default horizontal
-    >
+    <input type="range" min="1" max="5" step="1" value="2" data-orientation="horizontal">
 
     $('input[type="range"]').rangeslider({
 
@@ -92,3 +81,6 @@
 </div>
 </body>
 </html>
+
+
+// fetch data from endpoint based on what user inputs

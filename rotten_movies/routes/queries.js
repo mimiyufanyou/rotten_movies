@@ -1,25 +1,41 @@
 const Pool = require('pg').Pool
 
 const pool = new Pool({
-    user: 'squiduser',
+    user: 'mimiyufanyou',
     host: 'localhost',
     database: 'rotten_movies',
-    password: 'password',
+    password: '',
     port: 5432,
-})
+});
 
 const getMovies = (request, response) => {
-    pool.query('select * from df_final', (results) => {
-        response.status(200).json(results.rows)
-      })
+    pool.connect((err, client, done) => {
+        if (err) return response.status(500).json(err);
+
+        client.query('select * from df_final', (err, results) => {
+            if (err) return response.status(500).json(err);
+
+            response.status(200).json(results.rows);
+
+            done();
+        });
+    });
 }
 
 const getMovieById = (request, response) => {
-    const id = parseInt(req.params.id)
+    const id = parseInt(request.params.id)
 
-    pool.query('select * from df_final where id = $1', [id], (results) => {
-        response.status(200).json(results.rows)
-    })
+    pool.connect((err, client, done) => {
+        if (err) return response.status(500).json(err);
+
+        client.query('select * from df_final where id = $1', [id], (err, results) => {
+            if (err) return response.status(500).json(err);
+
+            response.status(200).json(results.rows);
+
+            done();
+        });
+    });
 }
 
 module.exports = {
