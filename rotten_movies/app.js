@@ -5,12 +5,9 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var bodyParser = require('body-parser');
 var port = 5000
+var fs = require('fs')
 
 var app = express();
-
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
-var queriesRouter = require('./routes/queries');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -24,11 +21,40 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
 
-app.use('/', indexRouter);
-app.use('/users', usersRouter);
+const Pool = require('pg').Pool
 
-app.get('/movies', queriesRouter.getMovies)
-app.get('/movies/:id', queriesRouter.getMovieById)
+const pool = new Pool({
+    user: 'mimiyufanyou',
+    host: 'localhost',
+    database: 'rotten_movies',
+    password: '',
+    port: 5432,
+});
+
+app.get('/', function(req, res) {
+  var tagline = 'all of this code is a tagline!!!'
+  res.render('index', { movieName: 'movieName Holder', movieScore: 'movieScore Holder', tagline: tagline });
+
+});
+
+app.get('/movies/:id', function(request, response) {
+    const score = request.params.id
+
+    console.log(request.params.id)
+
+    pool.connect((err, client, done) => {
+        if (err) return response.status(500).json(err);
+
+        client.query('select * from df_final where sscore_qcut = $1 limit 1', [score], (err, results) => {
+            if (err) return response.status(500).json(err);
+
+            response.status(200).json(results.rows);
+
+            done();
+        });
+    });
+});
+
 
 app.listen(port, () => {
     console.log(`App running on port ${port}.`)
