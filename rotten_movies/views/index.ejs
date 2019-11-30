@@ -5,45 +5,29 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Best Most Rotten of Tomatoes</title>
-  <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+  <link rel="stylesheet" type="text/css" href="./stylesheets/style.css">
 </head>
 <body>
-
 <div id="wrapper">
   <div id="header">
-  Yes, I would like some trash for my brain
+  Yes, I would like some trash <img src="splat.png" alt="Splat" class="responsive"> for my brain
+
   </div>
   <div id="left-sidebar"></div>
   <div id="content">
     <div id="inner-content">
+
     	<h1> How trashy do you want it? </h1>
-        <div id="inner content">
-        <form id="movieform" action="/movies/" method="get">
-          Level of Trash: <input type="text" name="id"><br>
-          <input type="button" onclick="getMovie()" value="Submit">
-        </form>
+        <input type="text" id="requestInput">
+        <button onclick="formChanged()" value="Gimme"/>
 
-        <script type="text/javascript">
-            var apiUrl = "/movies/good/";
-            fetch(apiUrl).then(response => {
-                return response.json(results.rows);
-            }).then(data => {
-                console.log(data);
-            }).catch(err => {
-                console.log('fuck');
-            });
-        </script>
+            <p id="demo"></p>
 
-
-          <p> <%= tagline %></p>
-          <p> <%= movieName %></p>
-          <p> <%= movieScore %></p>
-        </div>
+        <script src="/scripts.js"></script>
+    </div>
   <div id="right-sidebar"></div>
   <div id="footer"></div>
 </div>
 </body>
 </html>
 
-
-// fetch data from endpoint based on what user inputs
