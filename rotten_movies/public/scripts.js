@@ -5,20 +5,17 @@ container.setAttribute('class', 'container')
 
 app.appendChild(container)
 
-var inputX = document.getElementById('requestInput');
-console.log(document.getElementById('requestInput'));
-
 function formChanged() {
     var inputX = document.getElementById('requestInput').value;
     document.getElementById('demo').innerHTML = inputX;
-};
 
-var request = new XMLHttpRequest()
-var apiUrl = 'http://localhost:5000/movies/good'
+    var request = new XMLHttpRequest()
+    var apiUrl = 'http://localhost:5000/movies/'+inputX
 
-request.open('GET', apiUrl, true);
 
-request.onload = function() {
+    request.open('GET', apiUrl, true);
+
+    request.onload = function() {
     var data = JSON.parse(this.response);
 
     data.forEach(movie => {
@@ -41,10 +38,11 @@ request.onload = function() {
     card.appendChild(h2)
     card.appendChild(h3)
 
-})
-}
+    })
+   }
+    request.send()
+};
 
-request.send()
 
 // fetch data from endpoint based on what user inputs
 
