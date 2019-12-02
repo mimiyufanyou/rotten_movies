@@ -45,7 +45,7 @@ app.get('/movies/:id', function(request, response) {
     pool.connect((err, client, done) => {
         if (err) return response.status(500).json(err);
 
-        client.query('select * from df_final where sscore_qcut = $1 limit 1', [score], (err, results) => {
+        client.query('select * from df_final where sscore_qcut = $1 order by random() limit 1', [score], (err, results) => {
             if (err) return response.status(500).json(err);
 
             response.status(200).json(results.rows);

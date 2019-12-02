@@ -7,24 +7,33 @@
   <title>The Best Most Rotten of Tomatoes</title>
   <link rel="stylesheet" type="text/css" href="./stylesheets/style.css">
 </head>
+
 <body>
 <div id="wrapper">
   <div id="header">
   Yes, I would like some trash <img src="splat.png" alt="Splat" class="responsive"> for my brain
-
+    <br>
+    <br>
+  <img src="arrows.png" alt="Arrows" class="arrows">
   </div>
   <div id="left-sidebar"></div>
   <div id="content">
     <div id="inner-content">
 
-    	<h1> How trashy do you want it? </h1>
-        <input type="text" id="requestInput">
-        <button onclick="formChanged()" value="Gimme"/>
+    <h1> How trashy do you want it? </h1>
 
-            <p id="demo"></p>
+      <input type="range" class="input_res" id="rangeInput" min="1" max="5" step="1" onchange="updateTextInput(this.value);">
+      <br>
+      <br>
+      <input type="text" class="input_res" id="textInput" value=""/>
+      <input type="hidden" id="callInput" value=""/>
+      <br>
+      <br>
+        <button type="button" onclick="formChanged();" class="form-submit-button">OKAY</button>
 
-        <script src="/scripts.js"></script>
-    </div>
+    <script src="/scripts.js"></script>
+  </div>
+  </div>
   <div id="right-sidebar"></div>
   <div id="footer"></div>
 </div>
