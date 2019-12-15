@@ -1,0 +1,1076 @@
+id,id,url,title,genre,cag_rating,cag_release,tomatoScore,popcornScore,abs_squidScore,tScore_qcut,pScore_qcut,tScore_rnd,pScore_rnd,sScore_rnd,sScore_multi,sScore_Output,sScore,sScore_qcut
+0,0,/m/grave_encounters,Grave Encounters,Horror,NR,2011,64.0,49,15.0,2,1,6,4,1,2,no-one should,-15.0,bad
+1,2,/m/keeping_up_with_the_joneses,Keeping Up With The Joneses,Comedy,PG-13,2016,19.0,37,18.0,0,0,1,3,1,0,no-one should,18.0,best
+2,4,/m/division_19,Division 19,Drama,NR,2019,8.0,69,61.0,0,2,8,6,6,0,no-one should,61.0,best
+3,6,/m/water_for_elephants,Water for Elephants,Drama,PG-13,2011,60.0,70,10.0,1,2,6,7,1,2,no-one should,10.0,good
+4,8,/m/michael_h_profession_director,Michael H. Profession: Director,Documentary,NR,2013,91.0,65,26.0,4,2,9,6,2,8,critic dominant - risky,-26.0,worst
+5,10,/m/tumhari_sulu,Tumhari Sulu,Art House & International,NR,2017,86.0,69,17.0,3,2,8,6,1,6,no-one should,-17.0,bad
+6,11,/m/nuts,Nuts,Drama,R,1987,35.0,72,37.0,0,3,3,7,3,0,no-one should,37.0,best
+7,12,/m/strange_nature,Strange Nature,Mystery & Suspense,NR,2018,43.0,58,15.0,1,1,4,5,1,1,no-one should,15.0,good
+8,13,/m/death_by_china,Death by China,Documentary,NR,2012,33.0,72,39.0,0,3,3,7,3,0,no-one should,39.0,best
+9,14,/m/styx_2018,Styx,Drama,NR,2019,94.0,68,26.0,4,2,9,6,2,8,critic dominant - risky,-26.0,worst
+10,15,/m/mrs_palfrey_at_the_claremont,Mrs. Palfrey at the Claremont,Comedy,G,2005,70.0,82,12.0,2,3,7,8,1,6,no-one should,12.0,good
+11,16,/m/1053613-pickpocket,Pickpocket,Art House & International,NR,1959,97.0,86,11.0,4,4,9,8,1,16,universal,-11.0,bad
+12,17,/m/el_topo,El Topo,Art House & International,NR,1970,78.0,84,6.0,2,4,7,8,6,8,peanut dominant - risky,6.0,good
+13,18,/m/yol,Yol (The Way),Art House & International,PG,1982,73.0,95,22.0,2,4,7,9,2,8,peanut dominant - risky,22.0,best
+14,19,/m/bad_boys_ii,Bad Boys II,Action & Adventure,R,2003,23.0,78,55.0,0,3,2,7,5,0,no-one should,55.0,best
+15,21,/m/kaleidoscope_2017,Kaleidoscope,Drama,NR,2017,62.0,38,24.0,2,0,6,3,2,0,no-one should,-24.0,worst
+16,22,/m/hwal_2005,Hwal (The Bow),Art House & International,NR,2007,86.0,78,8.0,3,3,8,7,8,9,no-one should,-8.0,bad
+17,23,/m/felicias_journey,Felicia's Journey,Drama,PG-13,1999,88.0,71,17.0,3,2,8,7,1,6,no-one should,-17.0,bad
+18,24,/m/1178221-final_season,The Final Season,Art House & International,PG,2007,26.0,68,42.0,0,2,2,6,4,0,no-one should,42.0,best
+19,25,/m/come_see_the_paradise,Come See the Paradise,Drama,R,1990,64.0,74,10.0,2,3,6,7,1,6,no-one should,10.0,good
+20,26,/m/the_red_tent,The Red Tent,Action & Adventure,G,1971,88.0,66,22.0,3,2,8,6,2,6,no-one should,-22.0,worst
+21,27,/m/black_rose_2017,Black Rose,Action & Adventure,NR,2017,13.0,17,4.0,0,0,1,1,4,0,no-one should,4.0,good
+22,28,/m/stealing_home,Stealing Home,Drama,PG-13,1988,20.0,78,58.0,0,3,2,7,5,0,no-one should,58.0,best
+23,30,/m/visiting_hours,Visiting Hours,Horror,R,1982,15.0,24,9.0,0,0,1,2,9,0,no-one should,9.0,good
+24,31,/m/tokyo_ga,Tokyo-Ga,Art House & International,NR,2003,60.0,78,18.0,1,3,6,7,1,3,no-one should,18.0,best
+25,32,/m/fissures,Fissures (Écoute le temps),Art House & International,NR,2006,75.0,40,35.0,2,0,7,4,3,0,no-one should,-35.0,worst
+26,33,/m/run_the_race,Run the Race,Drama,PG,2019,40.0,84,44.0,1,4,4,8,4,4,peanut dominant - risky,44.0,best
+27,34,/m/lord-jim,Lord Jim,Action & Adventure,NR,1965,57.0,57,0.0,1,1,5,5,0,1,no-one should,0.0,okay
+28,41,/m/forget_paris,Forget Paris,Comedy,PG-13,1995,50.0,56,6.0,1,1,5,5,6,1,no-one should,6.0,good
+29,42,/m/mystic_india,Mystic India,Art House & International,NR,2003,86.0,76,10.0,3,3,8,7,1,9,no-one should,-10.0,bad
+30,46,/m/eddie_and_the_cruisers,Eddie and the Cruisers,Cult Movies,PG,1983,38.0,73,35.0,0,3,3,7,3,0,no-one should,35.0,best
+31,47,/m/red_cliff,Red Cliff (Chi Bi),Action & Adventure,R,2009,91.0,78,13.0,4,3,9,7,1,12,toss up,-13.0,bad
+32,49,/m/eyes_without_a_face_1962,Eyes Without a Face,Art House & International,NR,1962,98.0,87,11.0,4,4,9,8,1,16,universal,-11.0,bad
+33,50,/m/innocent_voices,Innocent Voices (Voces inocentes),Art House & International,R,2005,71.0,93,22.0,2,4,7,9,2,8,peanut dominant - risky,22.0,best
+34,54,/m/clan_of_the_cave_bear,The Clan of the Cave Bear,Action & Adventure,R,1986,10.0,47,37.0,0,1,1,4,3,0,no-one should,37.0,best
+35,55,/m/war-2007,War (Rogue Assassin),Action & Adventure,R,2007,14.0,51,37.0,0,1,1,5,3,0,no-one should,37.0,best
+36,56,/m/johnny_got_his_gun,Johnny Got His Gun,Classics,PG,1971,67.0,87,20.0,2,4,6,8,2,8,peanut dominant - risky,20.0,best
+37,57,/m/smoke_signals,Smoke Signals,Comedy,PG-13,1998,83.0,82,1.0,3,3,8,8,1,9,no-one should,-1.0,okay
+38,58,/m/gates,The Gates,Documentary,NR,2008,83.0,60,23.0,3,1,8,6,2,3,no-one should,-23.0,worst
+39,59,/m/fast_girls_2012,Fast Girls,Art House & International,G,2012,83.0,59,24.0,3,1,8,5,2,3,no-one should,-24.0,worst
+40,61,/m/ghostbox_cowboy,Ghostbox Cowboy,Comedy,NR,2018,91.0,50,41.0,4,1,9,5,4,4,critic dominant - risky,-41.0,worst
+41,62,/m/blame_it_on_fidel,Blame It on Fidel (La Faute a Fidel),Drama,NR,2006,93.0,91,2.0,4,4,9,9,2,16,universal,-2.0,okay
+42,65,/m/mubarakan,Mubarakan,Comedy,PG-13,2017,33.0,53,20.0,0,1,3,5,2,0,no-one should,20.0,best
+43,69,/m/priceless_2016,Priceless,Drama,PG-13,2016,40.0,77,37.0,1,3,4,7,3,3,no-one should,37.0,best
+44,70,/m/lola_1961,Lola,Art House & International,PG,1961,100.0,80,20.0,4,3,1,8,2,12,toss up,-20.0,worst
+45,72,/m/amazing_transparent_man,The Amazing Transparent Man,Classics,NR,1960,40.0,16,24.0,1,0,4,1,2,0,no-one should,-24.0,worst
+46,73,/m/fanney_khan,Fanney Khan,Drama,NR,2018,56.0,50,6.0,1,1,5,5,6,1,no-one should,-6.0,okay
+47,74,/m/fake_it_so_real_2011,Fake It So Real,Documentary,NR,2012,91.0,49,42.0,4,1,9,4,4,4,critic dominant - risky,-42.0,worst
+48,75,/m/1040484-wind,Wind,Action & Adventure,PG-13,1992,50.0,82,32.0,1,3,5,8,3,3,no-one should,32.0,best
+49,76,/m/ritz,The Ritz,Art House & International,R,1976,56.0,81,25.0,1,3,5,8,2,3,no-one should,25.0,best
+50,77,/m/attenberg_2010,Attenberg,Art House & International,NR,2012,77.0,52,25.0,2,1,7,5,2,2,no-one should,-25.0,worst
+51,81,/m/deadpool,Deadpool,Action & Adventure,R,2016,85.0,90,5.0,3,4,8,9,5,12,toss up,5.0,good
+52,84,/m/willow,Willow,Action & Adventure,PG,1988,50.0,79,29.0,1,3,5,7,2,3,no-one should,29.0,best
+53,85,/m/mighty_fine,Mighty Fine,Comedy,R,2012,19.0,51,32.0,0,1,1,5,3,0,no-one should,32.0,best
+54,86,/m/altiplano,Altiplano (Fragments of Grace),Art House & International,NR,2010,70.0,71,1.0,2,2,7,7,1,4,no-one should,1.0,okay
+55,90,/m/1113658-joshua,Joshua,Drama,G,2002,22.0,76,54.0,0,3,2,7,5,0,no-one should,54.0,best
+56,91,/m/fight_church,Fight Church,Documentary,NR,2014,100.0,64,36.0,4,2,1,6,3,8,critic dominant - risky,-36.0,worst
+57,92,/m/the_wolf_of_wall_street_2013,The Wolf of Wall Street,Drama,R,2013,79.0,82,3.0,3,3,7,8,3,9,no-one should,3.0,good
+58,93,/m/chuck,Chuck,Drama,R,2017,80.0,63,17.0,3,2,8,6,1,6,no-one should,-17.0,bad
+59,94,/m/fall_to_grace,Fall to Grace,Drama,NR,2006,56.0,20,36.0,1,0,5,2,3,0,no-one should,-36.0,worst
+60,95,/m/searching_for_sugar_man,Searching for Sugar Man,Documentary,PG-13,2012,94.0,92,2.0,4,4,9,9,2,16,universal,-2.0,okay
+61,97,/m/extraordinary_stories,Extraordinary Stories,Classics,NR,2011,100.0,96,4.0,4,4,1,9,4,16,universal,-4.0,okay
+62,99,/m/you_might_as_well_live,You Might as Well Live,Comedy,R,2009,67.0,57,10.0,2,1,6,5,1,2,no-one should,-10.0,bad
+63,101,/m/big_significant_things,Big Significant Things,Comedy,NR,2015,20.0,43,23.0,0,0,2,4,2,0,no-one should,23.0,best
+64,104,/m/donovans_reef,Donovan's Reef,Action & Adventure,NR,1963,55.0,77,22.0,1,3,5,7,2,3,no-one should,22.0,best
+65,105,/m/butter_2011,Butter,Comedy,R,2012,34.0,44,10.0,0,0,3,4,1,0,no-one should,10.0,good
+66,106,/m/1136058-hillside_strangler,The Hillside Strangler,Drama,R,2004,15.0,32,17.0,0,0,1,3,1,0,no-one should,17.0,best
+67,107,/m/daredevil,Daredevil,Action & Adventure,PG-13,2003,44.0,35,9.0,1,0,4,3,9,0,no-one should,-9.0,bad
+68,109,/m/kissed,Kissed,Drama,R,1997,70.0,67,3.0,2,2,7,6,3,4,no-one should,-3.0,okay
+69,111,/m/cats_meow,The Cat's Meow,Comedy,PG-13,2001,75.0,51,24.0,2,1,7,5,2,2,no-one should,-24.0,worst
+70,112,/m/crush_2002,Crush,Comedy,R,2002,36.0,58,22.0,0,1,3,5,2,0,no-one should,22.0,best
+71,115,/m/drumline,Drumline,Comedy,PG-13,2002,82.0,70,12.0,3,2,8,7,1,6,no-one should,-12.0,bad
+72,116,/m/1158404-nathalie,Nathalie,Art House & International,NR,2003,71.0,54,17.0,2,1,7,5,1,2,no-one should,-17.0,bad
+73,117,/m/curse_of_the_golden_flower,Curse of the Golden Flower,Action & Adventure,R,2006,65.0,65,0.0,2,2,6,6,0,4,no-one should,0.0,okay
+74,121,/m/10008992-meeting_resistance,Meeting Resistance,Documentary,NR,2007,82.0,47,35.0,3,1,8,4,3,3,no-one should,-35.0,worst
+75,122,/m/accidental_tourist,The Accidental Tourist,Comedy,PG,1988,81.0,60,21.0,3,1,8,6,2,3,no-one should,-21.0,worst
+76,123,/m/rosa_luxemburg,Die Geduld der Rosa Luxemburg,Art House & International,NR,1986,100.0,51,49.0,4,1,1,5,4,4,critic dominant - risky,-49.0,worst
+77,124,/m/summer_2018,Leto,Drama,NR,2019,78.0,82,4.0,2,3,7,8,4,6,no-one should,4.0,good
+78,125,/m/a_dark_place,A Dark Place (Steel Country),Drama,R,2019,48.0,75,27.0,1,3,4,7,2,3,no-one should,27.0,best
+79,126,/m/national_lampoon_presents_the_beach_party_at_the_threshold_of_hell,National Lampoon Presents The Beach Party at the Threshold of Hell,Comedy,R,2006,67.0,45,22.0,2,1,6,4,2,2,no-one should,-22.0,worst
+80,127,/m/dude_wheres_the_party,"Dude, Where's the Party?",Comedy,PG-13,2003,69.0,62,7.0,2,2,6,6,7,4,no-one should,-7.0,okay
+81,129,/m/the_beautiful_person,The Beautiful Person (La Belle Personne),Art House & International,NR,2008,50.0,58,8.0,1,1,5,5,8,1,no-one should,8.0,good
+82,130,/m/beijing_love_story,Beijing Love Story,Drama,NR,2014,33.0,53,20.0,0,1,3,5,2,0,no-one should,20.0,best
+83,135,/m/seed_the_untold_story,SEED: The Untold Story,Documentary,NR,2016,92.0,83,9.0,4,4,9,8,9,16,universal,-9.0,bad
+84,137,/m/wilderness_survival_for_girls,Wilderness Survival For Girls,Drama,R,2004,50.0,37,13.0,1,0,5,3,1,0,no-one should,-13.0,bad
+85,139,/m/casper_meets_wendy,Casper Meets Wendy,Animation,PG,1998,17.0,46,29.0,0,1,1,4,2,0,no-one should,29.0,best
+86,140,/m/unlikely_weapon,An Unlikely Weapon,Documentary,NR,2008,79.0,73,6.0,3,3,7,7,6,9,no-one should,-6.0,okay
+87,141,/m/horses_mouth,The Horse's Mouth,Classics,NR,1958,94.0,76,18.0,4,3,9,7,1,12,toss up,-18.0,worst
+88,144,/m/designated_mourner,The Designated Mourner,Art House & International,R,1997,65.0,73,8.0,2,3,6,7,8,6,no-one should,8.0,good
+89,145,/m/ferrell_takes_the_field,Ferrell Takes The Field,Comedy,NR,2015,71.0,36,35.0,2,0,7,3,3,0,no-one should,-35.0,worst
+90,148,/m/1127803-highwaymen,Highwaymen,Action & Adventure,R,2004,13.0,37,24.0,0,0,1,3,2,0,no-one should,24.0,best
+91,149,/m/to_save_a_life,To Save a Life,Drama,PG-13,2010,36.0,82,46.0,0,3,3,8,4,0,no-one should,46.0,best
+92,150,/m/papi_chulo_2018,Papi Chulo,Comedy,R,2019,74.0,79,5.0,2,3,7,7,5,6,no-one should,5.0,good
+93,151,/m/species_iii,Species III,Drama,R,2004,33.0,17,16.0,0,0,3,1,1,0,no-one should,-16.0,bad
+94,152,/m/admission,Admission,Comedy,PG-13,2013,38.0,32,6.0,0,0,3,3,6,0,no-one should,-6.0,okay
+95,153,/m/the_flying_deuces,The Flying Deuces,Comedy,G,1939,83.0,66,17.0,3,2,8,6,1,6,no-one should,-17.0,bad
+96,154,/m/the_piano_tuner_of_earthquakes,The Piano Tuner of Earthquakes,Art House & International,NR,2006,45.0,58,13.0,1,1,4,5,1,1,no-one should,13.0,good
+97,155,/m/1032808-partner,Partner,Art House & International,NR,1968,89.0,59,30.0,3,1,8,5,3,3,no-one should,-30.0,worst
+98,158,/m/living_wake,The Living Wake,Art House & International,PG-13,2010,50.0,70,20.0,1,2,5,7,2,2,no-one should,20.0,best
+99,160,/m/going_in_style_2017,Going in Style,Comedy,PG-13,2017,48.0,57,9.0,1,1,4,5,9,1,no-one should,9.0,good
+100,162,/m/repo_the_genetic_opera,Repo! The Genetic Opera,Horror,R,2008,40.0,73,33.0,1,3,4,7,3,3,no-one should,33.0,best
+101,163,/m/harvard_man,Harvard Man,Comedy,R,2002,33.0,33,0.0,0,0,3,3,0,0,no-one should,0.0,okay
+102,164,/m/jojo_rabbit,Jojo Rabbit,Comedy,PG-13,2019,79.0,94,15.0,3,4,7,9,1,12,toss up,15.0,good
+103,165,/m/blues_brothers_2000,Blues Brothers 2000,Comedy,PG-13,1997,46.0,38,8.0,1,0,4,3,8,0,no-one should,-8.0,bad
+104,166,/m/phantom_of_the_theatre,Phantom of the Theatre,Art House & International,NR,2016,45.0,29,16.0,1,0,4,2,1,0,no-one should,-16.0,bad
+105,169,/m/when_i_saw_you,When I Saw You,Drama,NR,2012,82.0,72,10.0,3,3,8,7,1,9,no-one should,-10.0,bad
+106,172,/m/long_gray_line,The Long Gray Line,Classics,NR,1955,100.0,77,23.0,4,3,1,7,2,12,toss up,-23.0,worst
+107,174,/m/scandal_in_paris,A Scandal in Paris,Action & Adventure,NR,1946,71.0,64,7.0,2,2,7,6,7,4,no-one should,-7.0,okay
+108,175,/m/delicate_balance,A Delicate Balance,Classics,PG,1973,71.0,63,8.0,2,2,7,6,8,4,no-one should,-8.0,bad
+109,178,/m/lisztomania,Lisztomania,Comedy,R,1975,50.0,64,14.0,1,2,5,6,1,2,no-one should,14.0,good
+110,179,/m/la_ronde,La Ronde,Art House & International,NR,1950,100.0,84,16.0,4,4,1,8,1,16,universal,-16.0,bad
+111,181,/m/10002076-black_and_white,Black and White,Drama,NR,2002,43.0,56,13.0,1,1,4,5,1,1,no-one should,13.0,good
+112,182,/m/crime_and_punishment_in_suburbia,Crime & Punishment in Suburbia,Art House & International,R,2000,21.0,58,37.0,0,1,2,5,3,0,no-one should,37.0,best
+113,188,/m/pete_seeger_the_power_of_song,Pete Seeger: The Power of Song,Documentary,PG,2007,95.0,92,3.0,4,4,9,9,3,16,universal,-3.0,okay
+114,189,/m/the_female_brain,The Female Brain,Comedy,NR,2018,37.0,51,14.0,0,1,3,5,1,0,no-one should,14.0,good
+115,190,/m/leopard_man,The Leopard Man,Drama,PG,1943,89.0,64,25.0,3,2,8,6,2,6,no-one should,-25.0,worst
+116,191,/m/the-missing-gun,The Missing Gun,Art House & International,PG-13,2003,38.0,67,29.0,0,2,3,6,2,0,no-one should,29.0,best
+117,192,/m/dhanak,Dhanak,Drama,NR,2015,73.0,76,3.0,2,3,7,7,3,6,no-one should,3.0,good
+118,193,/m/the_whole_gritty_city,The Whole Gritty City,Documentary,NR,2013,100.0,93,7.0,4,4,1,9,7,16,universal,-7.0,okay
+119,194,/m/macGruber,MacGruber,Action & Adventure,R,2010,48.0,35,13.0,1,0,4,3,1,0,no-one should,-13.0,bad
+120,197,/m/happy_hunting,Happy Hunting,Art House & International,NR,2017,100.0,46,54.0,4,1,1,4,5,4,critic dominant - risky,-54.0,worst
+121,199,/m/monrovia_indiana,"Monrovia, Indiana",Documentary,NR,2018,84.0,59,25.0,3,1,8,5,2,3,no-one should,-25.0,worst
+122,200,/m/1156352-adam_and_steve,Adam & Steve,Comedy,R,2005,54.0,56,2.0,1,1,5,5,2,1,no-one should,2.0,good
+123,201,/m/bride_flight,Bride Flight,Art House & International,R,2011,67.0,75,8.0,2,3,6,7,8,6,no-one should,8.0,good
+124,202,/m/how_murray_saved_christmas,How Murray Saved Christmas,Animation,NR,2014,50.0,62,12.0,1,2,5,6,1,2,no-one should,12.0,good
+125,203,/m/1005194-dangerous,Dangerous,Classics,G,1935,80.0,61,19.0,3,2,8,6,1,6,no-one should,-19.0,worst
+126,204,/m/1053321-adventures_of_prince_achmed,The Adventures of Prince Achmed,Animation,NR,1926,100.0,90,10.0,4,4,1,9,1,16,universal,-10.0,bad
+127,205,/m/the_king_of_masks_1999,The King of Masks,Art House & International,NR,1999,89.0,91,2.0,3,4,8,9,2,12,toss up,2.0,good
+128,206,/m/one_mile_away_2012,One Mile Away,Documentary,NR,2013,75.0,100,25.0,2,4,7,1,2,8,peanut dominant - risky,25.0,best
+129,208,/m/tashan,Tashan,Action & Adventure,NR,2008,50.0,19,31.0,1,0,5,1,3,0,no-one should,-31.0,worst
+130,214,/m/xxx,XXX,Action & Adventure,PG-13,2002,48.0,58,10.0,1,1,4,5,1,1,no-one should,10.0,good
+131,216,/m/half_moon,Half Moon,Drama,NR,2007,100.0,77,23.0,4,3,1,7,2,12,toss up,-23.0,worst
+132,217,/m/1004552-comfort_and_joy,Comfort and Joy,Comedy,PG,1984,100.0,81,19.0,4,3,1,8,1,12,toss up,-19.0,worst
+133,218,/m/the_day_the_earth_caught_fire,The Day the Earth Caught Fire,Drama,NR,1962,78.0,84,6.0,2,4,7,8,6,8,peanut dominant - risky,6.0,good
+134,220,/m/darlin,Darlin',Horror,NR,2019,70.0,57,13.0,2,1,7,5,1,2,no-one should,-13.0,bad
+135,222,/m/diary-of-the-dead2007,Diary of the Dead,Horror,R,2007,62.0,41,21.0,2,0,6,4,2,0,no-one should,-21.0,worst
+136,224,/m/teacher_2019,Teacher,Drama,NR,2019,100.0,69,31.0,4,2,1,6,3,8,critic dominant - risky,-31.0,worst
+137,226,/m/hey_is_dee_dee_home,Hey is Dee Dee Home,Documentary,NR,2003,80.0,62,18.0,3,2,8,6,1,6,no-one should,-18.0,worst
+138,227,/m/new_in_town,New In Town,Comedy,PG,2009,28.0,37,9.0,0,0,2,3,9,0,no-one should,9.0,good
+139,228,/m/nativity_2,Nativity 2,Comedy,NR,2013,36.0,49,13.0,0,1,3,4,1,0,no-one should,13.0,good
+140,229,/m/the_housemaid,The Housemaid,Art House & International,NR,2011,70.0,53,17.0,2,1,7,5,1,2,no-one should,-17.0,bad
+141,230,/m/the_ballad_of_lefty_brown,The Ballad of Lefty Brown,Western,R,2017,77.0,52,25.0,2,1,7,5,2,2,no-one should,-25.0,worst
+142,231,/m/seducing_doctor_lewis_2004,Seducing Doctor Lewis (La grande séduction),Art House & International,NR,2004,68.0,86,18.0,2,4,6,8,1,8,peanut dominant - risky,18.0,best
+143,232,/m/dangerous_liaisons_2012,Dangerous Liaisons,Art House & International,NR,2012,68.0,53,15.0,2,1,6,5,1,2,no-one should,-15.0,bad
+144,234,/m/the_other_man_fw_de_klerk_and_the_end_of_apartheid,The Other Man: F.W. de Klerk and the End of Apartheid,Documentary,NR,2015,50.0,33,17.0,1,0,5,3,1,0,no-one should,-17.0,bad
+145,235,/m/storks,Storks,Animation,PG,2016,66.0,62,4.0,2,2,6,6,4,4,no-one should,-4.0,okay
+146,236,/m/a_pas_de_loup_2012,À pas de loup (On the Sly),Art House & International,NR,2012,100.0,62,38.0,4,2,1,6,3,8,critic dominant - risky,-38.0,worst
+147,237,/m/slackers,Slackers,Comedy,R,2002,10.0,50,40.0,0,1,1,5,4,0,no-one should,40.0,best
+148,239,/m/fiorile,Fiorile (Wild Flower),Art House & International,PG-13,1993,57.0,59,2.0,1,1,5,5,2,1,no-one should,2.0,good
+149,240,/m/tito_and_the_birds,Tito and the Birds (Tito e os Pássaros),Action & Adventure,NR,2018,90.0,89,1.0,3,4,9,8,1,12,toss up,-1.0,okay
+150,241,/m/girlfriend_boyfriend,Girlfriend Boyfriend,Comedy,NR,2012,62.0,73,11.0,2,3,6,7,1,6,no-one should,11.0,good
+151,242,/m/pepi-luci-bom-y-otras-chicas-del-monton-pepi-luci-bom-and-other-girls-like-mom,"Pepi, Luci, Bom and Other Girls Like Mom (Pepi, Luci, Bom y otras chicas del montón)",Art House & International,NR,1980,50.0,64,14.0,1,2,5,6,1,2,no-one should,14.0,good
+152,245,/m/fargo,Fargo,Drama,R,1996,93.0,93,0.0,4,4,9,9,0,16,universal,0.0,okay
+153,246,/m/10009426-guitar,The Guitar,Drama,R,2008,33.0,55,22.0,0,1,3,5,2,0,no-one should,22.0,best
+154,247,/m/then_she_found_me,Then She Found Me,Comedy,R,2007,50.0,44,6.0,1,0,5,4,6,0,no-one should,-6.0,okay
+155,249,/m/innocence_2014,Innocence,Action & Adventure,PG-13,2014,19.0,34,15.0,0,0,1,3,1,0,no-one should,15.0,good
+156,251,/m/meditation_park,Meditation Park,Drama,NR,2017,89.0,100,11.0,3,4,8,1,1,12,toss up,11.0,good
+157,252,/m/the_blossoming_of_maximo_oliveros,The Blossoming of Maximo Oliveros,Art House & International,NR,2006,89.0,81,8.0,3,3,8,8,8,9,no-one should,-8.0,bad
+158,253,/m/hell_night,Hell Night,Horror,R,1981,56.0,45,11.0,1,1,5,4,1,1,no-one should,-11.0,bad
+159,254,/m/pope_francis_a_man_of_his_word,Pope Francis - A Man of His Word,Documentary,PG,2018,82.0,76,6.0,3,3,8,7,6,9,no-one should,-6.0,okay
+160,256,/m/1014536-my_man_godfrey,My Man Godfrey,Classics,G,1936,97.0,90,7.0,4,4,9,9,7,16,universal,-7.0,okay
+161,257,/m/1167811-ballets_russes,Ballets Russes,Documentary,NR,2005,92.0,81,11.0,4,3,9,8,1,12,toss up,-11.0,bad
+162,259,/m/color_purple,The Color Purple,Drama,PG-13,1985,80.0,94,14.0,3,4,8,9,1,12,toss up,14.0,good
+163,260,/m/house_on_carroll_street,The House on Carroll Street,Action & Adventure,PG,1988,67.0,29,38.0,2,0,6,2,3,0,no-one should,-38.0,worst
+164,261,/m/despair,Despair (Despair - Eine Reise ins Licht),Art House & International,NR,1978,65.0,76,11.0,2,3,6,7,1,6,no-one should,11.0,good
+165,262,/m/the_guatemalan_handshake,The Guatemalan Handshake,Art House & International,NR,2006,71.0,52,19.0,2,1,7,5,1,2,no-one should,-19.0,worst
+166,263,/m/marvins_room,Marvin's Room,Drama,PG-13,1996,84.0,63,21.0,3,2,8,6,2,6,no-one should,-21.0,worst
+167,265,/m/powaqqatsi,Powaqqatsi,Art House & International,G,1988,56.0,81,25.0,1,3,5,8,2,3,no-one should,25.0,best
+168,268,/m/manufactured_landscapes,Manufactured Landscapes,Documentary,G,2007,84.0,80,4.0,3,3,8,8,4,9,no-one should,-4.0,okay
+169,270,/m/honey_boy,Honey Boy,Drama,R,2019,94.0,91,3.0,4,4,9,9,3,16,universal,-3.0,okay
+170,272,/m/rudolph_the_red_nosed_reindeer_the_movie,Rudolph the Red-Nosed Reindeer: The Movie,Animation,G,1998,40.0,58,18.0,1,1,4,5,1,1,no-one should,18.0,best
+171,275,/m/pay_2_play_democracys_high_stakes,Pay 2 Play: Democracy's High Stakes,Comedy,NR,2014,80.0,94,14.0,3,4,8,9,1,12,toss up,14.0,good
+172,278,/m/ultrasuede_in_search_of_halston,Ultrasuede: In Search of Halston,Documentary,PG-13,2012,35.0,40,5.0,0,0,3,4,5,0,no-one should,5.0,good
+173,279,/m/1067987-casino,Casino,Drama,R,1995,80.0,93,13.0,3,4,8,9,1,12,toss up,13.0,good
+174,282,/m/1010004-hound_of_the_baskervilles,The Hound of the Baskervilles,Art House & International,R,1959,94.0,72,22.0,4,3,9,7,2,12,toss up,-22.0,worst
+175,285,/m/the_rundown,The Rundown,Action & Adventure,PG-13,2003,69.0,66,3.0,2,2,6,6,3,4,no-one should,-3.0,okay
+176,286,/m/p2,P2,Drama,R,2007,33.0,36,3.0,0,0,3,3,3,0,no-one should,3.0,good
+177,287,/m/1029042-henry_v,Henry V,Action & Adventure,PG-13,1989,100.0,89,11.0,4,4,1,8,1,16,universal,-11.0,bad
+178,288,/m/guru,Guru,Art House & International,NR,2007,83.0,84,1.0,3,4,8,8,1,12,toss up,1.0,okay
+179,289,/m/it_had_to_be_you_2016,It Had to Be You,Comedy,R,2016,60.0,42,18.0,1,0,6,4,1,0,no-one should,-18.0,worst
+180,290,/m/prospect_2018,Prospect,Science Fiction & Fantasy,R,2018,89.0,69,20.0,3,2,8,6,2,6,no-one should,-20.0,worst
+181,291,/m/farmingville,POV,Documentary,NR,2004,79.0,74,5.0,3,3,7,7,5,9,no-one should,-5.0,okay
+182,294,/m/father_goose,Father Goose,Action & Adventure,NR,1964,79.0,86,7.0,3,4,7,8,7,12,toss up,7.0,good
+183,295,/m/1012861-loverboy,Loverboy,Comedy,PG-13,1989,44.0,56,12.0,1,1,4,5,1,1,no-one should,12.0,good
+184,296,/m/down_in_the_delta,Down in the Delta,Drama,PG-13,1998,79.0,70,9.0,3,2,7,7,9,6,no-one should,-9.0,bad
+185,297,/m/heartbreak_kid,The Heartbreak Kid,Classics,PG,1972,92.0,73,19.0,4,3,9,7,1,12,toss up,-19.0,worst
+186,298,/m/tehran_taboo,Tehran Taboo,Animation,NR,2018,97.0,81,16.0,4,3,9,8,1,12,toss up,-16.0,bad
+187,299,/m/spiderwick_chronicles,The Spiderwick Chronicles,Action & Adventure,PG,2008,80.0,63,17.0,3,2,8,6,1,6,no-one should,-17.0,bad
+188,300,/m/wild_wild_west,Wild Wild West,Action & Adventure,PG-13,1999,17.0,28,11.0,0,0,1,2,1,0,no-one should,11.0,good
+189,301,/m/mimic_2,Mimic 2,Horror,R,2001,8.0,12,4.0,0,0,8,1,4,0,no-one should,4.0,good
+190,302,/m/whats_the_matter_with_kansas,What's the Matter with Kansas?,Documentary,NR,2009,60.0,59,1.0,1,1,6,5,1,1,no-one should,-1.0,okay
+191,306,/m/1176223-mistress_of_spices,The Mistress of Spices,Drama,PG-13,2006,11.0,42,31.0,0,0,1,4,3,0,no-one should,31.0,best
+192,307,/m/on_the_seventh_day,On the Seventh Day (En el Séptimo Día),Drama,NR,2018,100.0,69,31.0,4,2,1,6,3,8,critic dominant - risky,-31.0,worst
+193,308,/m/1200743-wrecking_crew,The Wrecking Crew,Documentary,PG,2015,94.0,84,10.0,4,4,9,8,1,16,universal,-10.0,bad
+194,310,/m/white-wedding,White Wedding,Art House & International,PG-13,2010,56.0,52,4.0,1,1,5,5,4,1,no-one should,-4.0,okay
+195,311,/m/sint,Saint,Art House & International,NR,2011,50.0,29,21.0,1,0,5,2,2,0,no-one should,-21.0,worst
+196,313,/m/1083461-avengers,The Avengers,Action & Adventure,PG-13,1998,5.0,15,10.0,0,0,5,1,1,0,no-one should,10.0,good
+197,314,/m/my_love_dont_cross_that_river,"My Love, Don't Cross That River",Documentary,NR,2016,77.0,65,12.0,2,2,7,6,1,4,no-one should,-12.0,bad
+198,315,/m/beauty_and_the_beast_2017,Beauty and the Beast,Drama,PG,2017,71.0,80,9.0,2,3,7,8,9,6,no-one should,9.0,good
+199,318,/m/every_act_of_life,Every Act of Life,Documentary,NR,2017,89.0,100,11.0,3,4,8,1,1,12,toss up,11.0,good
+200,319,/m/dreaming_of_joseph_lees,Dreaming of Joseph Lees,Drama,R,1999,36.0,56,20.0,0,1,3,5,2,0,no-one should,20.0,best
+201,323,/m/the_quietude,The Quietude (La quietud),Drama,NR,2018,60.0,89,29.0,1,4,6,8,2,4,peanut dominant - risky,29.0,best
+202,328,/m/black_balloon,The Black Balloon,Drama,PG-13,2008,85.0,84,1.0,3,4,8,8,1,12,toss up,-1.0,okay
+203,329,/m/cowboy_del_amor,Cowboy del Amor,Documentary,G,2006,70.0,47,23.0,2,1,7,4,2,2,no-one should,-23.0,worst
+204,333,/m/liam_as_it_was,Liam Gallagher: As It Was,Documentary,NR,2019,62.0,62,0.0,2,2,6,6,0,4,no-one should,0.0,okay
+205,334,/m/time_crimes,Los Cronocrímenes (Timecrimes),Action & Adventure,R,2007,89.0,79,10.0,3,3,8,7,1,9,no-one should,-10.0,bad
+206,335,/m/accompanist,The Accompanist (L' Accompagnatrice),Art House & International,PG,1992,75.0,73,2.0,2,3,7,7,2,6,no-one should,-2.0,okay
+207,337,/m/steel_helmet,The Steel Helmet,Action & Adventure,NR,1951,100.0,86,14.0,4,4,1,8,1,16,universal,-14.0,bad
+208,338,/m/rift,Rift (Rökkur),Drama,NR,2017,92.0,57,35.0,4,1,9,5,3,4,critic dominant - risky,-35.0,worst
+209,339,/m/the-lightkeepers,The Lightkeepers,Comedy,PG,2010,20.0,47,27.0,0,1,2,4,2,0,no-one should,27.0,best
+210,340,/m/1007110-farewell_my_lovely,"Farewell, My Lovely",Classics,R,1975,80.0,74,6.0,3,3,8,7,6,9,no-one should,-6.0,okay
+211,342,/m/breaking_and_entering,Breaking and Entering,Drama,R,2007,34.0,52,18.0,0,1,3,5,1,0,no-one should,18.0,best
+212,343,/m/jurassic_world,Jurassic World,Action & Adventure,PG-13,2015,72.0,78,6.0,2,3,7,7,6,6,no-one should,6.0,good
+213,344,/m/city_streets,City Streets,Drama,NR,1931,80.0,81,1.0,3,3,8,8,1,9,no-one should,1.0,okay
+214,345,/m/not_of_this_earth_1988,Not of this Earth,Comedy,R,1988,40.0,21,19.0,1,0,4,2,1,0,no-one should,-19.0,worst
+215,348,/m/starting_over,Starting Over,Comedy,R,1979,100.0,58,42.0,4,1,1,5,4,4,critic dominant - risky,-42.0,worst
+216,349,/m/love_and_honor,Love and Honor,Art House & International,PG-13,2007,80.0,84,4.0,3,4,8,8,4,12,toss up,4.0,good
+217,350,/m/irina_palm,Irina Palm,Art House & International,R,2008,67.0,77,10.0,2,3,6,7,1,6,no-one should,10.0,good
+218,351,/m/changing_lanes,Changing Lanes,Action & Adventure,R,2002,77.0,53,24.0,2,1,7,5,2,2,no-one should,-24.0,worst
+219,353,/m/saints_and_soldiers,Saints and Soldiers,Action & Adventure,PG-13,2004,66.0,77,11.0,2,3,6,7,1,6,no-one should,11.0,good
+220,354,/m/i_got_life,Aurore (I Got Life!),Art House & International,NR,2017,94.0,67,27.0,4,2,9,6,2,8,critic dominant - risky,-27.0,worst
+221,355,/m/1188347-mad_money,Mad Money,Comedy,PG-13,2008,22.0,48,26.0,0,1,2,4,2,0,no-one should,26.0,best
+222,356,/m/five_obstructions,The Five Obstructions,Art House & International,NR,2003,88.0,85,3.0,3,4,8,8,3,12,toss up,-3.0,okay
+223,358,/m/american_violet,American Violet,Drama,PG-13,2009,75.0,79,4.0,2,3,7,7,4,6,no-one should,4.0,good
+224,359,/m/bride_of_the_wind,Bride of the Wind,Drama,R,2001,11.0,40,29.0,0,0,1,4,2,0,no-one should,29.0,best
+225,363,/m/the_brink_2019,The Brink,Documentary,NR,2019,84.0,58,26.0,3,1,8,5,2,3,no-one should,-26.0,worst
+226,364,/m/what_a_man_2011,What A Man,Art House & International,R,2012,50.0,33,17.0,1,0,5,3,1,0,no-one should,-17.0,bad
+227,365,/m/plagues_and_pleasures_on_the_salton_sea,Plagues & Pleasures on the Salton Sea,Documentary,NR,2004,96.0,86,10.0,4,4,9,8,1,16,universal,-10.0,bad
+228,366,/m/firelight,Firelight,Art House & International,R,1997,50.0,83,33.0,1,4,5,8,3,4,peanut dominant - risky,33.0,best
+229,367,/m/dora_and_the_lost_city_of_gold,Dora and the Lost City of Gold,Action & Adventure,PG,2019,84.0,84,0.0,3,4,8,8,0,12,toss up,0.0,okay
+230,369,/m/loves_of_a_blonde,Loves of a Blonde (Lásky jedné plavovlásky),Art House & International,NR,1966,93.0,85,8.0,4,4,9,8,8,16,universal,-8.0,bad
+231,370,/m/tank_girl,Tank Girl,Action & Adventure,R,1995,38.0,63,25.0,0,2,3,6,2,0,no-one should,25.0,best
+232,371,/m/blooded,Blooded,Art House & International,NR,2010,22.0,23,1.0,0,0,2,2,1,0,no-one should,1.0,okay
+233,373,/m/the_tall_man_2012,The Tall Man,Horror,R,2012,43.0,38,5.0,1,0,4,3,5,0,no-one should,-5.0,okay
+234,374,/m/change_in_the_air_2018,Change in the Air,Drama,PG,2018,11.0,71,60.0,0,2,1,7,6,0,no-one should,60.0,best
+235,376,/m/whats_in_a_name_2013,What's In A Name?,Comedy,NR,2013,71.0,74,3.0,2,3,7,7,3,6,no-one should,3.0,good
+236,377,/m/dukes,The Dukes,Comedy,PG-13,2007,57.0,34,23.0,1,0,5,3,2,0,no-one should,-23.0,worst
+237,384,/m/looking_for_eric,Looking for Eric,Art House & International,G,2010,85.0,78,7.0,3,3,8,7,7,9,no-one should,-7.0,okay
+238,385,/m/kikis_delivery_service,Kiki's Delivery Service,Action & Adventure,G,1989,97.0,88,9.0,4,4,9,8,9,16,universal,-9.0,bad
+239,386,/m/metallica_some_kind_of_monster,Metallica: Some Kind of Monster,Documentary,R,2004,89.0,83,6.0,3,4,8,8,6,12,toss up,-6.0,okay
+240,389,/m/the_great_wall_2017,The Great Wall,Action & Adventure,PG-13,2017,36.0,42,6.0,0,0,3,4,6,0,no-one should,6.0,good
+241,390,/m/grown_ups,Grown Ups,Comedy,PG-13,2010,10.0,62,52.0,0,2,1,6,5,0,no-one should,52.0,best
+242,391,/m/50_to_1,50 to 1,Drama,PG-13,2014,17.0,70,53.0,0,2,1,7,5,0,no-one should,53.0,best
+243,392,/m/patch_of_blue,A Patch of Blue,Classics,NR,2000,100.0,91,9.0,4,4,1,9,9,16,universal,-9.0,bad
+244,393,/m/the_real_dirt_on_farmer_john_2007,The Real Dirt on Farmer John,Documentary,NR,2007,88.0,78,10.0,3,3,8,7,1,9,no-one should,-10.0,bad
+245,394,/m/the_apostate_2016,The Apostate (El Apóstata),Comedy,NR,2016,78.0,34,44.0,2,0,7,3,4,0,no-one should,-44.0,worst
+246,395,/m/galaxina,Galaxina,Comedy,R,1980,17.0,24,7.0,0,0,1,2,7,0,no-one should,7.0,good
+247,396,/m/summer-wars,Summer Wars (Sama Wozu),Action & Adventure,PG,2010,77.0,88,11.0,2,4,7,8,1,8,peanut dominant - risky,11.0,good
+248,398,/m/pulse,Pulse,Horror,PG-13,2006,11.0,27,16.0,0,0,1,2,1,0,no-one should,16.0,best
+249,399,/m/ride_2018,Ride,Mystery & Suspense,PG-13,2018,33.0,38,5.0,0,0,3,3,5,0,no-one should,5.0,good
+250,406,/m/darkon,Darkon,Documentary,NR,2006,89.0,65,24.0,3,2,8,6,2,6,no-one should,-24.0,worst
+251,408,/m/the_look_of_love_2013,The Look of Love,Comedy,NR,2013,54.0,35,19.0,1,0,5,3,1,0,no-one should,-19.0,worst
+252,409,/m/1135754-bushs_brain,Bush's Brain,Documentary,PG-13,2004,63.0,58,5.0,2,1,6,5,5,2,no-one should,-5.0,okay
+253,410,/m/knife_in_the_water,Knife in the Water,Art House & International,NR,1962,100.0,85,15.0,4,4,1,8,1,16,universal,-15.0,bad
+254,412,/m/goodbye_to_all_that,Goodbye to All That,Comedy,NR,2014,62.0,31,31.0,2,0,6,3,3,0,no-one should,-31.0,worst
+255,413,/m/san_francisco,San Francisco,Classics,NR,1936,100.0,71,29.0,4,2,1,7,2,8,critic dominant - risky,-29.0,worst
+256,416,/m/jack_smith_and_the_destruction_of_atlantis,Jack Smith and the Destruction of Atlantis,Documentary,NR,2006,85.0,86,1.0,3,4,8,8,1,12,toss up,1.0,okay
+257,417,/m/chan_is_missing,Chan Is Missing,Art House & International,R,1982,100.0,75,25.0,4,3,1,7,2,12,toss up,-25.0,worst
+258,419,/m/jesse_james_meets_frankensteins_daughter,Jesse James Meets Frankenstein's Daughter,Horror,NR,1965,14.0,11,3.0,0,0,1,1,3,0,no-one should,-3.0,okay
+259,422,/m/beatles_the_yellow_submarine,Yellow Submarine,Action & Adventure,G,1968,97.0,84,13.0,4,4,9,8,1,16,universal,-13.0,bad
+260,424,/m/off_limits,Off Limits,Action & Adventure,R,1988,50.0,32,18.0,1,0,5,3,1,0,no-one should,-18.0,worst
+261,426,/m/1010685-invasion_usa,Invasion U.S.A.,Action & Adventure,PG,1985,18.0,51,33.0,0,1,1,5,3,0,no-one should,33.0,best
+262,428,/m/flying_blind_2012,Flying Blind,Drama,NR,2013,50.0,45,5.0,1,1,5,4,5,1,no-one should,-5.0,okay
+263,432,/m/america_brown,America Brown,Art House & International,NR,2004,80.0,50,30.0,3,1,8,5,3,3,no-one should,-30.0,worst
+264,434,/m/relentless,Relentless,Action & Adventure,R,1989,40.0,34,6.0,1,0,4,3,6,0,no-one should,-6.0,okay
+265,437,/m/jiminy_glick_in_lalawood,Jiminy Glick in Lalawood,Action & Adventure,R,2005,22.0,32,10.0,0,0,2,3,1,0,no-one should,10.0,good
+266,438,/m/unmarried_woman,An Unmarried Woman,Comedy,R,1978,91.0,72,19.0,4,3,9,7,1,12,toss up,-19.0,worst
+267,439,/m/mighty_wind,A Mighty Wind,Comedy,PG-13,2003,87.0,75,12.0,3,3,8,7,1,9,no-one should,-12.0,bad
+268,441,/m/snowflake,Snowflake (Schneeflöckchen),Action & Adventure,NR,2017,100.0,91,9.0,4,4,1,9,9,16,universal,-9.0,bad
+269,442,/m/jolene,Jolene,Drama,R,2008,48.0,44,4.0,1,0,4,4,4,0,no-one should,-4.0,okay
+270,443,/m/jonestown_the_life_and_death_of_peoples_temple,American Experience,Documentary,NR,2006,94.0,89,5.0,4,4,9,8,5,16,universal,-5.0,okay
+271,444,/m/grumpier_old_men,Grumpier Old Men,Comedy,PG-13,1995,17.0,62,45.0,0,2,1,6,4,0,no-one should,45.0,best
+272,446,/m/the_two_jakes,The Two Jakes,Comedy,R,1990,68.0,38,30.0,2,0,6,3,3,0,no-one should,-30.0,worst
+273,448,/m/1068461-heavy_metal,Heavy Metal,Action & Adventure,R,1981,60.0,67,7.0,1,2,6,6,7,2,no-one should,7.0,good
+274,450,/m/district_13_ultimatum,Banlieue 13 - Ultimatum (District 13: Ultimatum),Action & Adventure,R,2009,74.0,55,19.0,2,1,7,5,1,2,no-one should,-19.0,worst
+275,451,/m/paper_moon,Paper Moon,Classics,PG,1973,92.0,94,2.0,4,4,9,9,2,16,universal,2.0,good
+276,452,/m/an-evening-with-kevin-smith,An Evening with Kevin Smith,Comedy,NR,2001,100.0,92,8.0,4,4,1,9,8,16,universal,-8.0,bad
+277,455,/m/the_nightingale_2018,The Nightingale,Drama,R,2019,86.0,80,6.0,3,3,8,8,6,9,no-one should,-6.0,okay
+278,456,/m/bandit_queen,Bandit Queen,Art House & International,R,1995,100.0,83,17.0,4,4,1,8,1,16,universal,-17.0,bad
+279,457,/m/a_bread_factory_part_two_walk_with_me_a_while,"A Bread Factory, Part Two: Walk with Me a While",Drama,NR,2018,100.0,83,17.0,4,4,1,8,1,16,universal,-17.0,bad
+280,459,/m/summer_of_sam,Summer of Sam,Drama,R,1999,51.0,60,9.0,1,1,5,6,9,1,no-one should,9.0,good
+281,460,/m/marc_pease_experience,The Marc Pease Experience,Comedy,PG-13,2009,18.0,14,4.0,0,0,1,1,4,0,no-one should,-4.0,okay
+282,461,/m/repentance_2014,Repentance,Horror,R,2014,20.0,42,22.0,0,0,2,4,2,0,no-one should,22.0,best
+283,462,/m/loitering_with_intent,Loitering With Intent,Comedy,NR,2015,33.0,26,7.0,0,0,3,2,7,0,no-one should,-7.0,okay
+284,463,/m/mon_mon_mon_monsters,Mon Mon Mon Monsters,Art House & International,NR,2017,78.0,53,25.0,2,1,7,5,2,2,no-one should,-25.0,worst
+285,465,/m/1112553-risk,Risk,Action & Adventure,R,2000,80.0,50,30.0,3,1,8,5,3,3,no-one should,-30.0,worst
+286,466,/m/desperate_remedies,Desperate Remedies,Drama,R,1993,40.0,73,33.0,1,3,4,7,3,3,no-one should,33.0,best
+287,467,/m/the-evil-dead,The Evil Dead,Horror,R,1981,95.0,84,11.0,4,4,9,8,1,16,universal,-11.0,bad
+288,469,/m/chorus_line,A Chorus Line,Comedy,PG-13,1985,40.0,62,22.0,1,2,4,6,2,2,no-one should,22.0,best
+289,470,/m/1004329-cleopatra,Cleopatra,Classics,NR,1934,82.0,66,16.0,3,2,8,6,1,6,no-one should,-16.0,bad
+290,471,/m/sunflower_2007,Sunflower,Art House & International,NR,2007,69.0,74,5.0,2,3,6,7,5,6,no-one should,5.0,good
+291,475,/m/the_whisperer_in_darkness_2011,The Whisperer In Darkness,Science Fiction & Fantasy,NR,2011,86.0,65,21.0,3,2,8,6,2,6,no-one should,-21.0,worst
+292,476,/m/1011392-kansas,Kansas,Action & Adventure,R,1988,20.0,19,1.0,0,0,2,1,1,0,no-one should,-1.0,okay
+293,477,/m/kellys_heroes,Kelly's Heroes,Action & Adventure,PG,1970,76.0,88,12.0,2,4,7,8,1,8,peanut dominant - risky,12.0,good
+294,478,/m/just_a_little_harmless_sex,Just a Little Harmless Sex,Comedy,R,1999,20.0,53,33.0,0,1,2,5,3,0,no-one should,33.0,best
+295,479,/m/suburbia,Suburbia,Comedy,R,1997,65.0,68,3.0,2,2,6,6,3,4,no-one should,3.0,good
+296,480,/m/blind-chance,Blind Chance (Przypadek),Art House & International,NR,1989,70.0,86,16.0,2,4,7,8,1,8,peanut dominant - risky,16.0,best
+297,481,/m/late_autumn_1973,Late Autumn (Akibiyori),Art House & International,NR,1973,100.0,87,13.0,4,4,1,8,1,16,universal,-13.0,bad
+298,482,/m/shanghai_triad,Shanghai Triad (Yao a yao yao dao waipo qiao),Action & Adventure,R,1995,87.0,71,16.0,3,2,8,7,1,6,no-one should,-16.0,bad
+299,483,/m/the-hero-of-color-city,The Hero of Color City,Animation,G,2014,25.0,48,23.0,0,1,2,4,2,0,no-one should,23.0,best
+300,484,/m/the_white_king,The White King,Action & Adventure,NR,2017,71.0,62,9.0,2,2,7,6,9,4,no-one should,-9.0,bad
+301,486,/m/best_worst_thing_that_ever_could_have_happened_2016,Best Worst Thing That Ever Could Have Happened...,Documentary,NR,2016,94.0,76,18.0,4,3,9,7,1,12,toss up,-18.0,worst
+302,488,/m/the_boxtrolls,The Boxtrolls,Action & Adventure,PG,2014,77.0,63,14.0,2,2,7,6,1,4,no-one should,-14.0,bad
+303,490,/m/gregory_crewdson_brief_encounters_2012,Gregory Crewdson: Brief Encounters,Documentary,NR,2012,94.0,83,11.0,4,4,9,8,1,16,universal,-11.0,bad
+304,491,/m/saints_and_sinners_2004,Saints and Sinners,Documentary,NR,2004,64.0,17,47.0,2,0,6,1,4,0,no-one should,-47.0,worst
+305,496,/m/7_days_in_havana,7 Days in Havana,Drama,NR,2012,40.0,33,7.0,1,0,4,3,7,0,no-one should,-7.0,okay
+306,497,/m/return-of-the-secaucus-seven,Return of the Secaucus Seven,Art House & International,R,1980,81.0,74,7.0,3,3,8,7,7,9,no-one should,-7.0,okay
+307,498,/m/lovers_and_other_strangers,Lovers and Other Strangers,Comedy,PG,1971,100.0,71,29.0,4,2,1,7,2,8,critic dominant - risky,-29.0,worst
+308,499,/m/the_big_short,The Big Short,Drama,R,2015,88.0,87,1.0,3,4,8,8,1,12,toss up,-1.0,okay
+309,500,/m/1157247-london,London,Drama,R,2006,14.0,60,46.0,0,1,1,6,4,0,no-one should,46.0,best
+310,501,/m/1009058-gung_ho,Gung Ho,Comedy,PG-13,1986,33.0,45,12.0,0,1,3,4,1,0,no-one should,12.0,good
+311,502,/m/the_boy_downstairs,The Boy Downstairs,Comedy,PG-13,2018,63.0,39,24.0,2,0,6,3,2,0,no-one should,-24.0,worst
+312,505,/m/jai_ho,Jai Ho,Action & Adventure,NR,2014,20.0,47,27.0,0,1,2,4,2,0,no-one should,27.0,best
+313,510,/m/sylvio,Sylvio,Comedy,NR,2017,85.0,74,11.0,3,3,8,7,1,9,no-one should,-11.0,bad
+314,512,/m/yolanda_and_the_thief,Yolanda and the Thief,Comedy,NR,1945,80.0,53,27.0,3,1,8,5,2,3,no-one should,-27.0,worst
+315,513,/m/rara_2015,Rara,Art House & International,NR,2016,100.0,70,30.0,4,2,1,7,3,8,critic dominant - risky,-30.0,worst
+316,514,/m/uncle_howard,Uncle Howard,Documentary,NR,2016,91.0,60,31.0,4,1,9,6,3,4,critic dominant - risky,-31.0,worst
+317,516,/m/blade_ii,Blade II,Action & Adventure,R,2002,57.0,68,11.0,1,2,5,6,1,2,no-one should,11.0,good
+318,517,/m/spiderman_2,Spider-Man 2,Action & Adventure,PG-13,2004,93.0,82,11.0,4,3,9,8,1,12,toss up,-11.0,bad
+319,518,/m/flyboys,Flyboys,Action & Adventure,PG-13,2006,33.0,67,34.0,0,2,3,6,3,0,no-one should,34.0,best
+320,519,/m/losing_ground_1982,Losing Ground,Comedy,NR,1982,100.0,33,67.0,4,0,1,3,6,0,no-one should,-67.0,worst
+321,522,/m/emperors_new_groove,The Emperor's New Groove,Animation,G,2000,85.0,83,2.0,3,4,8,8,2,12,toss up,-2.0,okay
+322,523,/m/milius,Milius,Documentary,NR,2013,94.0,87,7.0,4,4,9,8,7,16,universal,-7.0,okay
+323,524,/m/about_adam,About Adam,Art House & International,R,2000,68.0,47,21.0,2,1,6,4,2,2,no-one should,-21.0,worst
+324,526,/m/1086058-bridge,The Bridge (Die Brücke),Art House & International,NR,1959,100.0,87,13.0,4,4,1,8,1,16,universal,-13.0,bad
+325,529,/m/rosenstrasse,Rosenstrasse,Art House & International,PG-13,2004,55.0,68,13.0,1,2,5,6,1,2,no-one should,13.0,good
+326,530,/m/star_trek_ii_the_wrath_of_khan,Star Trek II: The Wrath of Khan,Action & Adventure,PG,1982,87.0,90,3.0,3,4,8,9,3,12,toss up,3.0,good
+327,531,/m/jim_2010,Jim,Drama,NR,2010,38.0,29,9.0,0,0,3,2,9,0,no-one should,-9.0,bad
+328,532,/m/the_land_girls,The Land Girls,Comedy,R,1998,61.0,53,8.0,2,1,6,5,8,2,no-one should,-8.0,bad
+329,533,/m/my_life_as_a_zucchini,My Life as a Zucchini (Ma vie de courgette),Animation,PG-13,2017,98.0,88,10.0,4,4,9,8,1,16,universal,-10.0,bad
+330,534,/m/happythankyoumoreplease,HappyThankYouMorePlease,Comedy,R,2011,42.0,60,18.0,1,1,4,6,1,1,no-one should,18.0,best
+331,535,/m/3_and_12_minutes_10_bullets,"3 And 1/2 Minutes, 10 Bullets",Documentary,NR,2015,100.0,88,12.0,4,4,1,8,1,16,universal,-12.0,bad
+332,536,/m/leprechaun-in-the-hood,Leprechaun in the Hood,Horror,R,2000,22.0,32,10.0,0,0,2,3,1,0,no-one should,10.0,good
+333,538,/m/asbury_park_riot_redemption_rock_n_roll,"Asbury Park: Riot, Redemption, Rock n Roll",Documentary,NR,2019,100.0,88,12.0,4,4,1,8,1,16,universal,-12.0,bad
+334,539,/m/h_2014,H.,Drama,NR,2014,89.0,34,55.0,3,0,8,3,5,0,no-one should,-55.0,worst
+335,540,/m/dohee_ya,Dohee-ya (A Girl at My Door),Art House & International,NR,2015,93.0,74,19.0,4,3,9,7,1,12,toss up,-19.0,worst
+336,545,/m/spinning_man,Spinning Man,Mystery & Suspense,R,2018,42.0,37,5.0,1,0,4,3,5,0,no-one should,-5.0,okay
+337,546,/m/10011721-broken_hill,Broken Hill,Drama,PG,2009,50.0,61,11.0,1,2,5,6,1,2,no-one should,11.0,good
+338,549,/m/ive_heard_the_mermaids_singing,I've Heard the Mermaids Singing,Art House & International,R,1987,100.0,68,32.0,4,2,1,6,3,8,critic dominant - risky,-32.0,worst
+339,550,/m/10010667-hangover,The Hangover,Comedy,R,2009,78.0,84,6.0,2,4,7,8,6,8,peanut dominant - risky,6.0,good
+340,553,/m/spring_breakdown,Spring Breakdown,Comedy,R,2009,55.0,27,28.0,1,0,5,2,2,0,no-one should,-28.0,worst
+341,555,/m/schneider_vs_bax,Schneider vs. Bax,Comedy,NR,2015,63.0,51,12.0,2,1,6,5,1,2,no-one should,-12.0,bad
+342,556,/m/1042466-boiling_point,Boiling Point,Action & Adventure,R,1993,18.0,21,3.0,0,0,1,2,3,0,no-one should,3.0,good
+343,557,/m/joe_dirt,Joe Dirt,Comedy,PG-13,2001,11.0,63,52.0,0,2,1,6,5,0,no-one should,52.0,best
+344,559,/m/the_lodgers,The Lodgers,Horror,R,2018,55.0,43,12.0,1,0,5,4,1,0,no-one should,-12.0,bad
+345,561,/m/house_of_wax_2005,House of Wax,Horror,R,2005,26.0,42,16.0,0,0,2,4,1,0,no-one should,16.0,best
+346,562,/m/1001074-anne_of_green_gables,Anne of Green Gables,Drama,G,1985,100.0,96,4.0,4,4,1,9,4,16,universal,-4.0,okay
+347,563,/m/source_code,Source Code,Action & Adventure,PG-13,2011,92.0,82,10.0,4,3,9,8,1,12,toss up,-10.0,bad
+348,564,/m/hey_arnold_the_jungle_movie,Hey Arnold! The Jungle Movie,Comedy,NR,2017,100.0,93,7.0,4,4,1,9,7,16,universal,-7.0,okay
+349,565,/m/man_is_not_a_bird,Man is Not a Bird (Covek nije tica),Art House & International,NR,1965,100.0,79,21.0,4,3,1,7,2,12,toss up,-21.0,worst
+350,568,/m/grey_owl,Grey Owl,Drama,PG-13,1999,17.0,56,39.0,0,1,1,5,3,0,no-one should,39.0,best
+351,570,/m/rocket_singh_salesman_of_the_year,Rocket Singh - Salesman of the Year,Art House & International,PG,2009,83.0,67,16.0,3,2,8,6,1,6,no-one should,-16.0,bad
+352,571,/m/flaming_star,Flaming Star,Action & Adventure,PG,1960,91.0,72,19.0,4,3,9,7,1,12,toss up,-19.0,worst
+353,572,/m/1016584-poseidon_adventure,The Poseidon Adventure,Action & Adventure,PG,1972,79.0,75,4.0,3,3,7,7,4,9,no-one should,-4.0,okay
+354,573,/m/dance_me_outside,Dance Me Outside,Drama,R,1994,69.0,91,22.0,2,4,6,9,2,8,peanut dominant - risky,22.0,best
+355,574,/m/here_and_there,Here and There,Art House & International,NR,2010,67.0,67,0.0,2,2,6,6,0,4,no-one should,0.0,okay
+356,576,/m/affair_of_the_necklace,The Affair of the Necklace,Drama,R,2001,15.0,43,28.0,0,0,1,4,2,0,no-one should,28.0,best
+357,577,/m/carbon_nation,Carbon Nation,Documentary,PG,2011,40.0,76,36.0,1,3,4,7,3,3,no-one should,36.0,best
+358,579,/m/to_the_wonder,To The Wonder,Drama,R,2013,46.0,37,9.0,1,0,4,3,9,0,no-one should,-9.0,bad
+359,582,/m/1014804-neighbors,Neighbors,Comedy,R,1981,63.0,49,14.0,2,1,6,4,1,2,no-one should,-14.0,bad
+360,583,/m/mau_mau_sex_sex,Mau Mau Sex Sex,Documentary,NR,2001,78.0,60,18.0,2,1,7,6,1,2,no-one should,-18.0,worst
+361,584,/m/chicago_10,Chicago 10,Animation,R,2008,81.0,77,4.0,3,3,8,7,4,9,no-one should,-4.0,okay
+362,585,/m/django_unchained_2012,Django Unchained,Drama,R,2012,86.0,91,5.0,3,4,8,9,5,12,toss up,5.0,good
+363,586,/m/greasers_palace,Greaser's Palace,Classics,NR,1972,50.0,61,11.0,1,2,5,6,1,2,no-one should,11.0,good
+364,587,/m/all_that_jazz,All That Jazz,Drama,R,1979,85.0,86,1.0,3,4,8,8,1,12,toss up,1.0,okay
+365,588,/m/shock_treatment,Shock Treatment,Comedy,PG,1981,57.0,62,5.0,1,2,5,6,5,2,no-one should,5.0,good
+366,589,/m/beyond_the_time_barrier,Beyond the Time Barrier,Classics,NR,1960,60.0,35,25.0,1,0,6,3,2,0,no-one should,-25.0,worst
+367,590,/m/jack_and_jill_vs_the_world,Jack and Jill vs. the World,Comedy,PG-13,2008,25.0,30,5.0,0,0,2,3,5,0,no-one should,5.0,good
+368,591,/m/the_killing_of_a_sacred_deer,The Killing of a Sacred Deer,Drama,R,2017,80.0,65,15.0,3,2,8,6,1,6,no-one should,-15.0,bad
+369,592,/m/swiss_army_man,Swiss Army Man,Drama,R,2016,71.0,72,1.0,2,3,7,7,1,6,no-one should,1.0,okay
+370,593,/m/dream_house_2011,Dream House,Mystery & Suspense,PG-13,2011,6.0,36,30.0,0,0,6,3,3,0,no-one should,30.0,best
+371,595,/m/the_endless,The Endless,Horror,NR,2018,93.0,67,26.0,4,2,9,6,2,8,critic dominant - risky,-26.0,worst
+372,596,/m/1209933-puss_in_boots,Puss in Boots,Action & Adventure,PG,2011,85.0,67,18.0,3,2,8,6,1,6,no-one should,-18.0,worst
+373,597,/m/the_program,The Program,Drama,R,2016,62.0,43,19.0,2,0,6,4,1,0,no-one should,-19.0,worst
+374,598,/m/midnighters,Midnighters,Drama,NR,2018,81.0,34,47.0,3,0,8,3,4,0,no-one should,-47.0,worst
+375,602,/m/criminal_life_of_archibaldo_de_la_cruz,The Criminal Life of Archibaldo de la Cruz (Ensayo de un crimen)(Rehearsal for a Crime),Art House & International,NR,1955,100.0,93,7.0,4,4,1,9,7,16,universal,-7.0,okay
+376,605,/m/1014167-monte_walsh,Monte Walsh,Action & Adventure,PG-13,1970,88.0,64,24.0,3,2,8,6,2,6,no-one should,-24.0,worst
+377,608,/m/the_guilty_2018,The Guilty (Den skyldige),Drama,R,2018,98.0,87,11.0,4,4,9,8,1,16,universal,-11.0,bad
+378,609,/m/cleo_de_5_a_7,Cleo From 5 to 7 (Cléo de 5 à 7),Art House & International,NR,1961,96.0,89,7.0,4,4,9,8,7,16,universal,-7.0,okay
+379,610,/m/women_on_the_verge_of_a_nervous_breakdown,Women on the Verge of a Nervous Breakdown (Mujeres al Borde de un Ataque de Nervios),Art House & International,R,1988,89.0,89,0.0,3,4,8,8,0,12,toss up,0.0,okay
+380,612,/m/letters_to_god,Letters To God,Drama,PG,2010,24.0,75,51.0,0,3,2,7,5,0,no-one should,51.0,best
+381,613,/m/pauline_at_the_beach,Pauline At The Beach,Art House & International,R,1983,91.0,85,6.0,4,4,9,8,6,16,universal,-6.0,okay
+382,614,/m/la_commune_2003,"La Commune (Paris, 1871)",Art House & International,NR,2003,100.0,79,21.0,4,3,1,7,2,12,toss up,-21.0,worst
+383,615,/m/singh_is_bliing,Singh Is Bliing,Action & Adventure,NR,2015,44.0,21,23.0,1,0,4,2,2,0,no-one should,-23.0,worst
+384,617,/m/lots_of_kids_a_monkey_and_a_castle,"Lots of Kids, a Monkey and a Castle (Muchos hijos, un mono y un castillo)",Documentary,NR,2017,95.0,91,4.0,4,4,9,9,4,16,universal,-4.0,okay
+385,618,/m/shes-one-of-us,She's One of Us,Art House & International,NR,2003,53.0,50,3.0,1,1,5,5,3,1,no-one should,-3.0,okay
+386,619,/m/fast_and_furious,Fast & Furious,Action & Adventure,PG-13,2009,29.0,67,38.0,0,2,2,6,3,0,no-one should,38.0,best
+387,620,/m/1152276-rent,Rent,Comedy,PG-13,2005,47.0,83,36.0,1,4,4,8,3,4,peanut dominant - risky,36.0,best
+388,621,/m/everyday_2013,Everyday,Drama,NR,2013,74.0,42,32.0,2,0,7,4,3,0,no-one should,-32.0,worst
+389,624,/m/men_dont_leave,Men Don't Leave,Comedy,PG-13,1990,81.0,61,20.0,3,2,8,6,2,6,no-one should,-20.0,worst
+390,625,/m/toxic_avenger_iv_citizen_toxie,Citizen Toxie: The Toxic Avenger IV,Comedy,R,2000,70.0,66,4.0,2,2,7,6,4,4,no-one should,-4.0,okay
+391,626,/m/park-row-1952,Park Row,Classics,NR,1952,100.0,86,14.0,4,4,1,8,1,16,universal,-14.0,bad
+392,628,/m/1143135-forty_guns,Forty Guns,Classics,NR,1957,93.0,65,28.0,4,2,9,6,2,8,critic dominant - risky,-28.0,worst
+393,629,/m/hotel_coolgardie,Hotel Coolgardie,Art House & International,NR,2016,93.0,100,7.0,4,4,9,1,7,16,universal,7.0,good
+394,630,/m/another_stakeout,Another Stakeout,Action & Adventure,PG-13,1993,13.0,28,15.0,0,0,1,2,1,0,no-one should,15.0,good
+395,634,/m/jude,Jude,Drama,R,1996,81.0,73,8.0,3,3,8,7,8,9,no-one should,-8.0,bad
+396,636,/m/the_parts_you_lose,The Parts You Lose,Drama,NR,2019,65.0,50,15.0,2,1,6,5,1,2,no-one should,-15.0,bad
+397,638,/m/1183806-dirty_laundry,Dirty Laundry,Art House & International,PG-13,2006,50.0,68,18.0,1,2,5,6,1,2,no-one should,18.0,best
+398,639,/m/los_olvidados,Los Olvidados,Drama,NR,1952,89.0,95,6.0,3,4,8,9,6,12,toss up,6.0,good
+399,640,/m/animal_farm,Animal Farm,Animation,NR,1954,64.0,67,3.0,2,2,6,6,3,4,no-one should,3.0,good
+400,641,/m/phil,Phil,Comedy,R,2019,21.0,50,29.0,0,1,2,5,2,0,no-one should,29.0,best
+401,643,/m/bathtubs_over_broadway,Bathtubs Over Broadway,Comedy,PG-13,2018,100.0,90,10.0,4,4,1,9,1,16,universal,-10.0,bad
+402,644,/m/444_last_day_on_earth_2012,4:44 Last Day on Earth,Drama,R,2012,47.0,19,28.0,1,0,4,1,2,0,no-one should,-28.0,worst
+403,645,/m/1091165-deja_vu,Deja Vu,Drama,PG-13,1998,65.0,61,4.0,2,2,6,6,4,4,no-one should,-4.0,okay
+404,646,/m/early_man,Early Man,Animation,PG,2018,81.0,49,32.0,3,1,8,4,3,3,no-one should,-32.0,worst
+405,647,/m/hunt_for_red_october,The Hunt for Red October,Action & Adventure,PG,1990,89.0,88,1.0,3,4,8,8,1,12,toss up,-1.0,okay
+406,648,/m/dancemaker,Dancemaker,Documentary,NR,1999,92.0,79,13.0,4,3,9,7,1,12,toss up,-13.0,bad
+407,649,/m/possible_worlds,Possible Worlds,Drama,NR,2000,60.0,71,11.0,1,2,6,7,1,2,no-one should,11.0,good
+408,650,/m/bad_milo,Bad Milo!,Comedy,R,2013,62.0,41,21.0,2,0,6,4,2,0,no-one should,-21.0,worst
+409,651,/m/star_wars_episode_ii_attack_of_the_clones,Star Wars: Episode II - Attack of the Clones,Cult Movies,PG,2002,66.0,56,10.0,2,1,6,5,1,2,no-one should,-10.0,bad
+410,652,/m/planeat,Planeat,Documentary,NR,2011,40.0,71,31.0,1,2,4,7,3,2,no-one should,31.0,best
+411,653,/m/mud_2012,Mud,Drama,PG-13,2013,97.0,80,17.0,4,3,9,8,1,12,toss up,-17.0,bad
+412,654,/m/andre,Andre,Action & Adventure,PG,1994,50.0,53,3.0,1,1,5,5,3,1,no-one should,3.0,good
+413,656,/m/garden_state,Garden State,Comedy,R,2004,86.0,88,2.0,3,4,8,8,2,12,toss up,2.0,good
+414,657,/m/hotel_harabati,Hotel Harabati (De particulier a particulier),Comedy,NR,2006,75.0,55,20.0,2,1,7,5,2,2,no-one should,-20.0,worst
+415,660,/m/gandhi,Gandhi,Classics,PG,1982,84.0,92,8.0,3,4,8,9,8,12,toss up,8.0,good
+416,662,/m/relive,Don't Let Go (Relive),Mystery & Suspense,R,2019,39.0,77,38.0,1,3,3,7,3,3,no-one should,38.0,best
+417,663,/m/richard_pryor_omit_the_logic_2013,Richard Pryor: Omit The Logic,Documentary,R,2013,86.0,75,11.0,3,3,8,7,1,9,no-one should,-11.0,bad
+418,666,/m/le_jour_se_leve,Le Jour se lève (Daybreak),Art House & International,NR,1939,92.0,89,3.0,4,4,9,8,3,16,universal,-3.0,okay
+419,669,/m/alien,Alien,Drama,R,1979,97.0,94,3.0,4,4,9,9,3,16,universal,-3.0,okay
+420,670,/m/le_grand_voyage,Le grand voyage,Art House & International,NR,2005,83.0,87,4.0,3,4,8,8,4,12,toss up,4.0,good
+421,671,/m/justice_2011,Seeking Justice,Action & Adventure,R,2012,27.0,39,12.0,0,0,2,3,1,0,no-one should,12.0,good
+422,672,/m/private_peaceful_2012,Private Peaceful,Art House & International,NR,2014,63.0,57,6.0,2,1,6,5,6,2,no-one should,-6.0,okay
+423,673,/m/the_huntsman_winters_war,The Huntsman: Winter's War,Action & Adventure,PG-13,2016,18.0,45,27.0,0,1,1,4,2,0,no-one should,27.0,best
+424,675,/m/across_110th_street,Across 110th Street,Action & Adventure,R,1972,80.0,79,1.0,3,3,8,7,1,9,no-one should,-1.0,okay
+425,678,/m/the_rise,The Rise (Wasteland),Drama,NR,2013,60.0,63,3.0,1,2,6,6,3,2,no-one should,3.0,good
+426,680,/m/oh_god_book_ii,"Oh, God! Book II",Comedy,PG,1980,50.0,38,12.0,1,0,5,3,1,0,no-one should,-12.0,bad
+427,682,/m/hard_labor,Hard Labor,Art House & International,NR,2015,86.0,62,24.0,3,2,8,6,2,6,no-one should,-24.0,worst
+428,683,/m/tight_spot,Tight Spot,Classics,NR,1955,60.0,61,1.0,1,2,6,6,1,2,no-one should,1.0,okay
+429,685,/m/gleason_2016,Gleason,Documentary,R,2016,96.0,90,6.0,4,4,9,9,6,16,universal,-6.0,okay
+430,686,/m/private_romeo_2011,Private Romeo,Drama,NR,2012,50.0,65,15.0,1,2,5,6,1,2,no-one should,15.0,good
+431,687,/m/perlasca-un-eroe-italiano,Perlasca: The Courage of a Just Man (Perlasca. Un eroe italiano),Drama,NR,2005,57.0,62,5.0,1,2,5,6,5,2,no-one should,5.0,good
+432,689,/m/i-want-candy,I Want Candy,Comedy,R,2007,56.0,38,18.0,1,0,5,3,1,0,no-one should,-18.0,worst
+433,690,/m/simon_werner_a_disparu,Lights Out (Simon Werner A Disparu...),Art House & International,NR,2010,83.0,50,33.0,3,1,8,5,3,3,no-one should,-33.0,worst
+434,691,/m/corporation,The Corporation,Documentary,NR,2004,90.0,90,0.0,3,4,9,9,0,12,toss up,0.0,okay
+435,693,/m/american_beauty,American Beauty,Comedy,R,1999,87.0,93,6.0,3,4,8,9,6,12,toss up,6.0,good
+436,694,/m/november_2018,November,Art House & International,NR,2018,96.0,76,20.0,4,3,9,7,2,12,toss up,-20.0,worst
+437,695,/m/limelight,Limelight,Classics,G,1952,97.0,90,7.0,4,4,9,9,7,16,universal,-7.0,okay
+438,696,/m/beatles_the_help,Help!,Comedy,G,1965,88.0,86,2.0,3,4,8,8,2,12,toss up,-2.0,okay
+439,697,/m/profils_paysans_la_vie_moderne,Modern Life (Profils paysans: la vie moderne),Art House & International,PG,2008,100.0,74,26.0,4,3,1,7,2,12,toss up,-26.0,worst
+440,698,/m/1068832-sense_and_sensibility,Sense and Sensibility,Drama,PG,1995,98.0,90,8.0,4,4,9,9,8,16,universal,-8.0,bad
+441,700,/m/cats_of_mirikitani,Cats of Mirikitani,Documentary,NR,2006,96.0,94,2.0,4,4,9,9,2,16,universal,-2.0,okay
+442,702,/m/smokey_and_the_bandit_part_3,Smokey and the Bandit Part 3,Action & Adventure,PG,1983,17.0,18,1.0,0,0,1,1,1,0,no-one should,1.0,okay
+443,705,/m/99_homes,99 Homes,Drama,R,2015,93.0,78,15.0,4,3,9,7,1,12,toss up,-15.0,bad
+444,708,/m/french_connection,The French Connection,Action & Adventure,R,1971,98.0,87,11.0,4,4,9,8,1,16,universal,-11.0,bad
+445,709,/m/free_the_nipple,Free the Nipple,Comedy,NR,2014,18.0,31,13.0,0,0,1,3,1,0,no-one should,13.0,good
+446,711,/m/vincere,Vincere,Art House & International,NR,2010,92.0,68,24.0,4,2,9,6,2,8,critic dominant - risky,-24.0,worst
+447,712,/m/sommersby,Sommersby,Drama,PG-13,1993,62.0,60,2.0,2,1,6,6,2,2,no-one should,-2.0,okay
+448,713,/m/woodsman,The Woodsman,Drama,R,2004,88.0,77,11.0,3,3,8,7,1,9,no-one should,-11.0,bad
+449,714,/m/1114,11:14,Comedy,R,2003,92.0,76,16.0,4,3,9,7,1,12,toss up,-16.0,bad
+450,715,/m/strangers-in-good-company,Strangers in Good Company,Action & Adventure,PG,1991,100.0,83,17.0,4,4,1,8,1,16,universal,-17.0,bad
+451,716,/m/exorcist_the_version_youve_never_seen,Exorcist: The Version You've Never Seen,Horror,R,2000,88.0,88,0.0,3,4,8,8,0,12,toss up,0.0,okay
+452,717,/m/career_opportunities,Career Opportunities,Comedy,PG-13,1991,38.0,37,1.0,0,0,3,3,1,0,no-one should,-1.0,okay
+453,718,/m/beau_travail,Beau Travail,Art House & International,NR,2000,81.0,79,2.0,3,3,8,7,2,9,no-one should,-2.0,okay
+454,719,/m/unlocking_the_cage,Unlocking the Cage,Documentary,NR,2016,82.0,71,11.0,3,2,8,7,1,6,no-one should,-11.0,bad
+455,721,/m/lover,The Lover (L'amant),Art House & International,R,1992,32.0,79,47.0,0,3,3,7,4,0,no-one should,47.0,best
+456,722,/m/a_promise_2013,A Promise,Comedy,R,2014,13.0,23,10.0,0,0,1,2,1,0,no-one should,10.0,good
+457,723,/m/basket_case,Basket Case,Horror,R,1982,75.0,53,22.0,2,1,7,5,2,2,no-one should,-22.0,worst
+458,724,/m/bring_it_on,Bring It On,Comedy,PG-13,2000,63.0,66,3.0,2,2,6,6,3,4,no-one should,3.0,good
+459,725,/m/desperate_journey,Desperate Journey,Action & Adventure,NR,1942,67.0,66,1.0,2,2,6,6,1,4,no-one should,-1.0,okay
+460,726,/m/pixels,Pixels,Animation,PG-13,2015,16.0,46,30.0,0,1,1,4,3,0,no-one should,30.0,best
+461,728,/m/these_three,These Three,Classics,NR,1936,100.0,76,24.0,4,3,1,7,2,12,toss up,-24.0,worst
+462,729,/m/winter-sleepers,Winter Sleepers,Art House & International,R,1997,76.0,79,3.0,2,3,7,7,3,6,no-one should,3.0,good
+463,730,/m/bringing_up_bobby_2012,Bringing Up Bobby,Comedy,PG-13,2012,17.0,33,16.0,0,0,1,3,1,0,no-one should,16.0,best
+464,731,/m/stanley_and_iris,Stanley & Iris,Drama,PG-13,1990,33.0,49,16.0,0,1,3,4,1,0,no-one should,16.0,best
+465,733,/m/dagon,Dagon,Drama,R,2001,67.0,56,11.0,2,1,6,5,1,2,no-one should,-11.0,bad
+466,734,/m/the_collection_2012,The Collection,Action & Adventure,R,2012,38.0,49,11.0,0,1,3,4,1,0,no-one should,11.0,good
+467,735,/m/demon_house_2018,Demon House,Documentary,NR,2018,40.0,61,21.0,1,2,4,6,2,2,no-one should,21.0,best
+468,736,/m/1055833-angels_in_the_outfield,Angels in the Outfield,Comedy,PG,1994,33.0,49,16.0,0,1,3,4,1,0,no-one should,16.0,best
+469,738,/m/hemingway_and_gellhorn_2012,Hemingway & Gellhorn,Drama,R,2012,50.0,41,9.0,1,0,5,4,9,0,no-one should,-9.0,bad
+470,739,/m/daniel-and-ana,Daniel & Ana,Drama,NR,2010,56.0,89,33.0,1,4,5,8,3,4,peanut dominant - risky,33.0,best
+471,742,/m/at_middleton,At Middleton,Comedy,R,2014,59.0,45,14.0,1,1,5,4,1,1,no-one should,-14.0,bad
+472,744,/m/shadow_dancer_2012,Shadow Dancer,Drama,R,2013,83.0,52,31.0,3,1,8,5,3,3,no-one should,-31.0,worst
+473,747,/m/napola_elite_fur_den_fuhrer,Before the Fall (Napola),Art House & International,NR,2004,67.0,84,17.0,2,4,6,8,1,8,peanut dominant - risky,17.0,best
+474,748,/m/la_bare,La Bare,Documentary,R,2014,78.0,65,13.0,2,2,7,6,1,4,no-one should,-13.0,bad
+475,750,/m/cardinal_2017,Cardinals,Mystery & Suspense,NR,2017,83.0,91,8.0,3,4,8,9,8,12,toss up,8.0,good
+476,751,/m/a_brilliant_young_mind,A Brilliant Young Mind,Comedy,PG-13,2015,87.0,78,9.0,3,3,8,7,9,9,no-one should,-9.0,bad
+477,752,/m/muppets_most_wanted,Muppets Most Wanted,Comedy,PG,2014,79.0,58,21.0,3,1,7,5,2,3,no-one should,-21.0,worst
+478,753,/m/1110242-collateral_damage,Collateral Damage,Action & Adventure,R,2002,19.0,27,8.0,0,0,1,2,8,0,no-one should,8.0,good
+479,755,/m/handmaids_tale,The Handmaid's Tale,Drama,R,1990,28.0,44,16.0,0,0,2,4,1,0,no-one should,16.0,best
+480,758,/m/an_open_secret,An Open Secret,Documentary,R,2015,88.0,77,11.0,3,3,8,7,1,9,no-one should,-11.0,bad
+481,761,/m/the_flat_2012,The Flat,Art House & International,NR,2012,84.0,71,13.0,3,2,8,7,1,6,no-one should,-13.0,bad
+482,764,/m/he_ran_all_the_way,He Ran All the Way,Classics,NR,1951,100.0,70,30.0,4,2,1,7,3,8,critic dominant - risky,-30.0,worst
+483,765,/m/return,The Return,Drama,PG-13,2006,16.0,32,16.0,0,0,1,3,1,0,no-one should,16.0,best
+484,767,/m/i_am_nojoom_age_10_and_divorced,"I Am Nojoom, Age 10 And Divorced",Drama,NR,2014,100.0,62,38.0,4,2,1,6,3,8,critic dominant - risky,-38.0,worst
+485,768,/m/prick_up_your_ears,Prick Up Your Ears,Art House & International,R,1987,94.0,79,15.0,4,3,9,7,1,12,toss up,-15.0,bad
+486,770,/m/nobelity,Nobelity,Documentary,NR,2006,50.0,92,42.0,1,4,5,9,4,4,peanut dominant - risky,42.0,best
+487,772,/m/deep_impact,Deep Impact,Action & Adventure,PG-13,1998,45.0,43,2.0,1,0,4,4,2,0,no-one should,-2.0,okay
+488,773,/m/the_wedding_year,The Wedding Year,Comedy,R,2019,44.0,80,36.0,1,3,4,8,3,3,no-one should,36.0,best
+489,774,/m/dark_horse_2016,Dark Horse,Documentary,PG,2016,96.0,77,19.0,4,3,9,7,1,12,toss up,-19.0,worst
+490,776,/m/searchers,The Searchers,Action & Adventure,PG,1956,98.0,88,10.0,4,4,9,8,1,16,universal,-10.0,bad
+491,778,/m/the_vatican_tapes_2015,The Vatican Tapes,Drama,PG-13,2015,20.0,60,40.0,0,1,2,6,4,0,no-one should,40.0,best
+492,781,/m/the_unforeseen,The Unforeseen,Documentary,NR,2008,90.0,69,21.0,3,2,9,6,2,6,no-one should,-21.0,worst
+493,783,/m/abc_africa,ABC Africa,Documentary,NR,2002,78.0,80,2.0,2,3,7,8,2,6,no-one should,2.0,good
+494,784,/m/tarzan_escapes,Tarzan Escapes,Action & Adventure,NR,1936,71.0,58,13.0,2,1,7,5,1,2,no-one should,-13.0,bad
+495,786,/m/an_affair_of_the_heart,An Affair of the Heart,Documentary,NR,2012,75.0,78,3.0,2,3,7,7,3,6,no-one should,3.0,good
+496,787,/m/1192993-dolphins_and_whales_3d_tribes_of_the_ocean,Dolphins and Whales 3D: Tribes of the Ocean,Documentary,G,2008,80.0,67,13.0,3,2,8,6,1,6,no-one should,-13.0,bad
+497,789,/m/the_new_romantic,The New Romantic,Comedy,NR,2018,62.0,46,16.0,2,1,6,4,1,2,no-one should,-16.0,bad
+498,790,/m/georges_batailles_story_of_the_eye,Georges Bataille's Story of the Eye,Drama,NR,2004,43.0,17,26.0,1,0,4,1,2,0,no-one should,-26.0,worst
+499,791,/m/formosa_betrayed,Formosa Betrayed,Action & Adventure,R,2010,34.0,55,21.0,0,1,3,5,2,0,no-one should,21.0,best
+500,792,/m/josie,Josie,Drama,NR,2018,13.0,31,18.0,0,0,1,3,1,0,no-one should,18.0,best
+501,793,/m/my_life_in_ruins,My Life in Ruins,Comedy,PG-13,2009,9.0,44,35.0,0,0,9,4,3,0,no-one should,35.0,best
+502,795,/m/bluebeard_2010,Bluebeard,Action & Adventure,NR,2010,79.0,47,32.0,3,1,7,4,3,3,no-one should,-32.0,worst
+503,800,/m/missing_link_2019,Missing Link,Action & Adventure,PG,2019,89.0,67,22.0,3,2,8,6,2,6,no-one should,-22.0,worst
+504,801,/m/10004662-last_holiday,Last Holiday,Action & Adventure,PG-13,2006,56.0,67,11.0,1,2,5,6,1,2,no-one should,11.0,good
+505,802,/m/horse_feathers,Horse Feathers,Classics,NR,1932,96.0,87,9.0,4,4,9,8,9,16,universal,-9.0,bad
+506,803,/m/1004125-christmas_carol,A Christmas Carol,Classics,G,1938,100.0,74,26.0,4,3,1,7,2,12,toss up,-26.0,worst
+507,805,/m/1016760-prisoner,The Prisoner,Art House & International,NR,1955,71.0,71,0.0,2,2,7,7,0,4,no-one should,0.0,okay
+508,806,/m/turbo_2013,Turbo,Animation,PG,2013,67.0,65,2.0,2,2,6,6,2,4,no-one should,-2.0,okay
+509,807,/m/hadewijch,Hadewijch,Art House & International,R,2010,73.0,52,21.0,2,1,7,5,2,2,no-one should,-21.0,worst
+510,808,/m/runaway_bride,Runaway Bride,Comedy,PG,1999,46.0,53,7.0,1,1,4,5,7,1,no-one should,7.0,good
+511,809,/m/tooth_and_nail,Tooth and Nail,Drama,R,2007,33.0,22,11.0,0,0,3,2,1,0,no-one should,-11.0,bad
+512,810,/m/the_brave_little_toaster_goes_to_mars,The Brave Little Toaster Goes to Mars,Animation,NR,1998,40.0,45,5.0,1,1,4,4,5,1,no-one should,5.0,good
+513,811,/m/unlawful_entry,Unlawful Entry,Action & Adventure,R,1992,73.0,48,25.0,2,1,7,4,2,2,no-one should,-25.0,worst
+514,812,/m/round_of_your_life,Round of Your Life,Kids & Family,NR,2019,60.0,82,22.0,1,3,6,8,2,3,no-one should,22.0,best
+515,816,/m/the_distinguished_citizen,The Distinguished Citizen (El ciudadano ilustre),Art House & International,NR,2016,100.0,85,15.0,4,4,1,8,1,16,universal,-15.0,bad
+516,817,/m/eating,Eating,Art House & International,R,1990,71.0,40,31.0,2,0,7,4,3,0,no-one should,-31.0,worst
+517,818,/m/john_q,John Q,Drama,PG-13,2002,23.0,78,55.0,0,3,2,7,5,0,no-one should,55.0,best
+518,820,/m/the_nile_hilton_incident,The Nile Hilton Incident,Art House & International,NR,2017,91.0,58,33.0,4,1,9,5,3,4,critic dominant - risky,-33.0,worst
+519,822,/m/stranger_than_paradise,Stranger Than Paradise,Art House & International,R,1984,96.0,88,8.0,4,4,9,8,8,16,universal,-8.0,bad
+520,823,/m/cabin_boy,Cabin Boy,Comedy,PG-13,1994,46.0,41,5.0,1,0,4,4,5,0,no-one should,-5.0,okay
+521,825,/m/enders-game,Ender's Game,Action & Adventure,PG-13,2013,61.0,65,4.0,2,2,6,6,4,4,no-one should,4.0,good
+522,826,/m/dont_triphe_aint_through_with_me_yet,Don't Trip...He Ain't Through with Me Yet,Comedy,PG,2006,45.0,74,29.0,1,3,4,7,2,3,no-one should,29.0,best
+523,829,/m/monkey-warfare,Monkey Warfare,Comedy,NR,2006,75.0,61,14.0,2,2,7,6,1,4,no-one should,-14.0,bad
+524,832,/m/tex,Tex,Drama,PG,1982,85.0,66,19.0,3,2,8,6,1,6,no-one should,-19.0,worst
+525,833,/m/whity,Whity,Art House & International,NR,1971,100.0,65,35.0,4,2,1,6,3,8,critic dominant - risky,-35.0,worst
+526,835,/m/big_brass_ring,The Big Brass Ring,Drama,R,1999,57.0,17,40.0,1,0,5,1,4,0,no-one should,-40.0,worst
+527,836,/m/triple_frontier,Triple Frontier,Action & Adventure,R,2019,72.0,55,17.0,2,1,7,5,1,2,no-one should,-17.0,bad
+528,839,/m/mogari_no_mori,The Mourning Forest (Mogari no mori),Art House & International,NR,2007,67.0,63,4.0,2,2,6,6,4,4,no-one should,-4.0,okay
+529,840,/m/adanggaman,Adanggaman,Art House & International,NR,2001,90.0,62,28.0,3,2,9,6,2,6,no-one should,-28.0,worst
+530,841,/m/sisterhood_of_the_traveling_pants_2,The Sisterhood of the Traveling Pants 2,Action & Adventure,PG-13,2008,65.0,66,1.0,2,2,6,6,1,4,no-one should,1.0,okay
+531,843,/m/rabid_dogs,Rabid Dogs (Cani arrabbiati) (Kidnapped) ( A Man and a Boy),Art House & International,NR,1974,78.0,87,9.0,2,4,7,8,9,8,peanut dominant - risky,9.0,good
+532,844,/m/10009552-julia,Julia,Art House & International,R,2009,74.0,67,7.0,2,2,7,6,7,4,no-one should,-7.0,okay
+533,845,/m/the_last_gladiators_2011,The Last Gladiators,Documentary,R,2013,90.0,80,10.0,3,3,9,8,1,9,no-one should,-10.0,bad
+534,846,/m/mojin_the_lost_legend,Mojin: The Lost Legend,Action & Adventure,NR,2015,56.0,55,1.0,1,1,5,5,1,1,no-one should,-1.0,okay
+535,848,/m/a_bread_factory_part_one_for_the_sake_of_gold,"A Bread Factory, Part One: For the Sake of Gold",Comedy,NR,2018,100.0,71,29.0,4,2,1,7,2,8,critic dominant - risky,-29.0,worst
+536,849,/m/screwball,Screwball,Documentary,NR,2019,94.0,91,3.0,4,4,9,9,3,16,universal,-3.0,okay
+537,850,/m/1095979-inferno,Inferno (Pilgrim),Mystery & Suspense,R,2000,20.0,24,4.0,0,0,2,2,4,0,no-one should,4.0,good
+538,851,/m/breaking_habits,Breaking Habits,Documentary,NR,2019,35.0,54,19.0,0,1,3,5,1,0,no-one should,19.0,best
+539,857,/m/georgy_girl,Georgy Girl,Art House & International,NR,1966,91.0,71,20.0,4,2,9,7,2,8,critic dominant - risky,-20.0,worst
+540,858,/m/astro_boy,Astro Boy (AstroBoy),Action & Adventure,PG,2009,50.0,50,0.0,1,1,5,5,0,1,no-one should,0.0,okay
+541,859,/m/1214027-collector,The Collector,Horror,R,2009,29.0,48,19.0,0,1,2,4,1,0,no-one should,19.0,best
+542,860,/m/town_and_country,Town & Country,Comedy,R,2000,13.0,14,1.0,0,0,1,1,1,0,no-one should,1.0,okay
+543,861,/m/in_the_realms_of_the_unreal,In the Realms of the Unreal,Documentary,NR,2005,70.0,78,8.0,2,3,7,7,8,6,no-one should,8.0,good
+544,862,/m/patriots_day_2016,Patriots Day,Drama,R,2017,80.0,86,6.0,3,4,8,8,6,12,toss up,6.0,good
+545,863,/m/pelican_brief,The Pelican Brief,Drama,PG-13,1993,53.0,61,8.0,1,2,5,6,8,2,no-one should,8.0,good
+546,865,/m/moolaade,Moolaadé,Art House & International,NR,2004,99.0,84,15.0,4,4,9,8,1,16,universal,-15.0,bad
+547,866,/m/garbo_talks,Garbo Talks,Comedy,PG-13,1984,13.0,47,34.0,0,1,1,4,3,0,no-one should,34.0,best
+548,869,/m/a_tuba_to_cuba,A Tuba to Cuba,Documentary,NR,2019,100.0,83,17.0,4,4,1,8,1,16,universal,-17.0,bad
+549,873,/m/the_greening_of_whitney_brown_2011,The Greening Of Whitney Brown,Action & Adventure,PG,2011,13.0,38,25.0,0,0,1,3,2,0,no-one should,25.0,best
+550,875,/m/valkyrie,Valkyrie,Drama,PG-13,2008,62.0,65,3.0,2,2,6,6,3,4,no-one should,3.0,good
+551,877,/m/akmareul_boattda,I Saw the Devil,Art House & International,NR,2011,80.0,87,7.0,3,4,8,8,7,12,toss up,7.0,good
+552,878,/m/joyful_noise_2011,Joyful Noise,Comedy,PG-13,2012,31.0,65,34.0,0,2,3,6,3,0,no-one should,34.0,best
+553,881,/m/tooth_fairy,The Tooth Fairy,Horror,NR,2006,22.0,35,13.0,0,0,2,3,1,0,no-one should,13.0,good
+554,882,/m/kill_the_messenger_2015,Kill the Messenger,Drama,R,2014,77.0,69,8.0,2,2,7,6,8,4,no-one should,-8.0,bad
+555,883,/m/1144535-nightmare_alley,Nightmare Alley,Classics,NR,1947,100.0,87,13.0,4,4,1,8,1,16,universal,-13.0,bad
+556,888,/m/passage_to_mars,Passage to Mars,Action & Adventure,NR,2016,29.0,85,56.0,0,4,2,8,5,0,no-one should,56.0,best
+557,889,/m/hidden_blade,The Hidden Blade,Action & Adventure,R,2006,84.0,84,0.0,3,4,8,8,0,12,toss up,0.0,okay
+558,890,/m/big_tease,The Big Tease,Art House & International,R,2000,56.0,55,1.0,1,1,5,5,1,1,no-one should,-1.0,okay
+559,891,/m/a_talking_picture,A Talking Picture (Um Filme Falado),Art House & International,NR,2004,76.0,51,25.0,2,1,7,5,2,2,no-one should,-25.0,worst
+560,893,/m/zombeavers,Zombeavers,Action & Adventure,R,2015,69.0,31,38.0,2,0,6,3,3,0,no-one should,-38.0,worst
+561,895,/m/2_jacks,2 Jacks,Drama,NR,2013,33.0,19,14.0,0,0,3,1,1,0,no-one should,-14.0,bad
+562,896,/m/red_road,Red Road,Art House & International,NR,2007,88.0,71,17.0,3,2,8,7,1,6,no-one should,-17.0,bad
+563,897,/m/frank_serpico,Frank Serpico,Documentary,NR,2017,75.0,60,15.0,2,1,7,6,1,2,no-one should,-15.0,bad
+564,899,/m/10010249-the_garden,The Garden,Documentary,NR,2008,79.0,85,6.0,3,4,7,8,6,12,toss up,6.0,good
+565,901,/m/cassandro_the_exotico,Cassandro the Exotico!,Documentary,NR,2019,89.0,60,29.0,3,1,8,6,2,3,no-one should,-29.0,worst
+566,903,/m/maze_runner_the_scorch_trials,Maze Runner: The Scorch Trials,Action & Adventure,PG-13,2015,46.0,54,8.0,1,1,4,5,8,1,no-one should,8.0,good
+567,904,/m/all_the_vermeers_in_new_york,All the Vermeers in New York,Art House & International,NR,1990,100.0,56,44.0,4,1,1,5,4,4,critic dominant - risky,-44.0,worst
+568,906,/m/smash-his-camera,Smash His Camera,Documentary,PG-13,2010,77.0,63,14.0,2,2,7,6,1,4,no-one should,-14.0,bad
+569,907,/m/ashik_kerib,Ashik Kerib,Art House & International,NR,1989,100.0,78,22.0,4,3,1,7,2,12,toss up,-22.0,worst
+570,909,/m/salyut_7,Salyut-7,Action & Adventure,NR,2017,100.0,80,20.0,4,3,1,8,2,12,toss up,-20.0,worst
+571,912,/m/its_a_gift,It's a Gift,Classics,NR,1934,100.0,75,25.0,4,3,1,7,2,12,toss up,-25.0,worst
+572,917,/m/man_of_the_west,Man of the West,Classics,NR,1958,93.0,78,15.0,4,3,9,7,1,12,toss up,-15.0,bad
+573,919,/m/tears_of_gaza_2011,Tears of Gaza,Art House & International,NR,2012,80.0,82,2.0,3,3,8,8,2,9,no-one should,2.0,good
+574,921,/m/how_to_lose_a_guy_in_10_days,How to Lose a Guy in 10 Days,Comedy,PG-13,2003,42.0,77,35.0,1,3,4,7,3,3,no-one should,35.0,best
+575,922,/m/mortal_storm,The Mortal Storm,Drama,NR,1940,100.0,85,15.0,4,4,1,8,1,16,universal,-15.0,bad
+576,926,/m/under_the_sun,Under the Sun (Under solen),Art House & International,NR,2000,74.0,78,4.0,2,3,7,7,4,6,no-one should,4.0,good
+577,927,/m/rescuers_down_under,The Rescuers Down Under,Animation,G,1990,69.0,68,1.0,2,2,6,6,1,4,no-one should,-1.0,okay
+578,928,/m/the_tender_trap_1955,The Tender Trap,Classics,NR,1955,67.0,56,11.0,2,1,6,5,1,2,no-one should,-11.0,bad
+579,929,/m/millennium_actress_2001,Millennium Actress (Sennen joyû),Animation,PG,2001,93.0,90,3.0,4,4,9,9,3,16,universal,-3.0,okay
+580,930,/m/the-chameleon,The Chameleon,Drama,R,2011,25.0,22,3.0,0,0,2,2,3,0,no-one should,-3.0,okay
+581,931,/m/1207523-obsessed,Obsessed,Drama,PG-13,2009,19.0,46,27.0,0,1,1,4,2,0,no-one should,27.0,best
+582,932,/m/mr-blandings-builds-his-dream-house,Mr. Blandings Builds His Dream House,Classics,NR,1948,82.0,76,6.0,3,3,8,7,6,9,no-one should,-6.0,okay
+583,933,/m/tie_me_up_tie_me_down,Átame! (Tie Me Up! Tie Me Down!),Art House & International,NC17,1990,70.0,79,9.0,2,3,7,7,9,6,no-one should,9.0,good
+584,935,/m/1013238-manhattan_project,The Manhattan Project,Action & Adventure,PG-13,1986,50.0,46,4.0,1,1,5,4,4,1,no-one should,-4.0,okay
+585,936,/m/maggies_plan_2016,Maggie's Plan,Comedy,R,2016,87.0,52,35.0,3,1,8,5,3,3,no-one should,-35.0,worst
+586,937,/m/high_life_2018,High Life,Action & Adventure,R,2019,83.0,42,41.0,3,0,8,4,4,0,no-one should,-41.0,worst
+587,938,/m/blue_state,Blue State,Art House & International,R,2007,40.0,34,6.0,1,0,4,3,6,0,no-one should,-6.0,okay
+588,941,/m/1089755-go_west,Go West,Classics,NR,1925,100.0,80,20.0,4,3,1,8,2,12,toss up,-20.0,worst
+589,942,/m/authors_anonymous,Authors Anonymous,Comedy,PG-13,2014,7.0,15,8.0,0,0,7,1,8,0,no-one should,8.0,good
+590,943,/m/el_americano_the_movie,El Americano: The Movie,Action & Adventure,NR,2015,50.0,67,17.0,1,2,5,6,1,2,no-one should,17.0,best
+591,944,/m/my_way_2012,My Way,Action & Adventure,R,2012,20.0,82,62.0,0,3,2,8,6,0,no-one should,62.0,best
+592,946,/m/confusion-of-genders,Confusion of Genders,Art House & International,NR,2000,18.0,60,42.0,0,1,1,6,4,0,no-one should,42.0,best
+593,947,/m/final_destination_2,Final Destination 2,Horror,R,2003,48.0,58,10.0,1,1,4,5,1,1,no-one should,10.0,good
+594,948,/m/aftershock_2013,Aftershock,Horror,R,2013,38.0,24,14.0,0,0,3,2,1,0,no-one should,-14.0,bad
+595,949,/m/touchback,Touchback,Drama,PG-13,2012,38.0,63,25.0,0,2,3,6,2,0,no-one should,25.0,best
+596,950,/m/dealt,Dealt,Documentary,NR,2017,95.0,84,11.0,4,4,9,8,1,16,universal,-11.0,bad
+597,951,/m/attack_of_the_crab_monsters,Attack of the Crab Monsters,Classics,NR,1957,67.0,29,38.0,2,0,6,2,3,0,no-one should,-38.0,worst
+598,953,/m/last_temptation_of_christ,The Last Temptation of Christ,Drama,R,1988,80.0,84,4.0,3,4,8,8,4,12,toss up,4.0,good
+599,954,/m/thelonious_monk_straight_no_chaser,"Thelonious Monk: Straight, No Chaser (Straight, No Chaser )",Documentary,PG-13,1988,83.0,89,6.0,3,4,8,8,6,12,toss up,6.0,good
+600,955,/m/son_of_the_bride,Son of the Bride,Art House & International,R,2002,86.0,91,5.0,3,4,8,9,5,12,toss up,5.0,good
+601,956,/m/1055365-barcelona,Barcelona,Comedy,PG-13,1994,82.0,80,2.0,3,3,8,8,2,9,no-one should,-2.0,okay
+602,958,/m/10009640-nights_and_weekends,Nights and Weekends,Drama,NR,2008,85.0,51,34.0,3,1,8,5,3,3,no-one should,-34.0,worst
+603,959,/m/cardinal_x,MDMA (Cardinal X),Drama,NR,2018,53.0,81,28.0,1,3,5,8,2,3,no-one should,28.0,best
+604,960,/m/1019196-sleuth,Sleuth,Art House & International,PG,1972,96.0,90,6.0,4,4,9,9,6,16,universal,-6.0,okay
+605,961,/m/aria,Aria,Art House & International,R,1988,50.0,47,3.0,1,1,5,4,3,1,no-one should,-3.0,okay
+606,962,/m/bhowani_junction,Bhowani Junction,Action & Adventure,NR,1956,100.0,60,40.0,4,1,1,6,4,4,critic dominant - risky,-40.0,worst
+607,963,/m/1184827-alvin_and_the_chipmunks,Alvin and the Chipmunks,Animation,PG,2007,28.0,64,36.0,0,2,2,6,3,0,no-one should,36.0,best
+608,964,/m/planetary,Planetary,Documentary,NR,2015,38.0,61,23.0,0,2,3,6,2,0,no-one should,23.0,best
+609,968,/m/exiled,Fong juk (Exiled),Action & Adventure,R,2006,80.0,80,0.0,3,3,8,8,0,9,no-one should,0.0,okay
+610,969,/m/van_helsing,Van Helsing,Action & Adventure,PG-13,2004,24.0,57,33.0,0,1,2,5,3,0,no-one should,33.0,best
+611,970,/m/fast_times_at_ridgemont_high,Fast Times At Ridgemont High,Comedy,R,1982,78.0,80,2.0,2,3,7,8,2,6,no-one should,2.0,good
+612,971,/m/1014451-music_box,Music Box,Drama,PG-13,1989,72.0,76,4.0,2,3,7,7,4,6,no-one should,4.0,good
+613,972,/m/polyester,Polyester,Comedy,R,1981,91.0,81,10.0,4,3,9,8,1,12,toss up,-10.0,bad
+614,973,/m/familiar_ground,Familiar Ground,Art House & International,NR,2011,80.0,62,18.0,3,2,8,6,1,6,no-one should,-18.0,worst
+615,975,/m/replicas_2019,Replicas,Mystery & Suspense,PG-13,2019,9.0,34,25.0,0,0,9,3,2,0,no-one should,25.0,best
+616,979,/m/draculas_dog,Dracula's Dog,Horror,R,1981,14.0,23,9.0,0,0,1,2,9,0,no-one should,9.0,good
+617,981,/m/1004407-cobra,Cobra,Action & Adventure,R,1986,14.0,42,28.0,0,0,1,4,2,0,no-one should,28.0,best
+618,982,/m/jimi_all_is_by_my_side,Jimi: All Is by My Side,Drama,R,2014,67.0,37,30.0,2,0,6,3,3,0,no-one should,-30.0,worst
+619,984,/m/family_friend,L' Amico di Famiglia (The Family Friend) (Friend of the Family),Art House & International,NR,2006,75.0,72,3.0,2,3,7,7,3,6,no-one should,-3.0,okay
+620,987,/m/heat_2013,Wild Card,Action & Adventure,R,2015,31.0,29,2.0,0,0,3,2,2,0,no-one should,-2.0,okay
+621,992,/m/rich_in_love,Rich in Love,Comedy,PG-13,1993,67.0,38,29.0,2,0,6,3,2,0,no-one should,-29.0,worst
+622,994,/m/cremaster_2,Cremaster 2,Drama,NR,1999,71.0,80,9.0,2,3,7,8,9,6,no-one should,9.0,good
+623,997,/m/young_mr_lincoln,Young Mr. Lincoln,Classics,NR,1939,100.0,81,19.0,4,3,1,8,1,12,toss up,-19.0,worst
+624,999,/m/breakfast_at_tiffanys,Breakfast at Tiffany's,Classics,NR,1961,88.0,91,3.0,3,4,8,9,3,12,toss up,3.0,good
+625,1000,/m/hombre_mirando_al_sudeste,Man Facing Southeast (Hombre Mirando al Sudeste),Art House & International,R,1986,86.0,92,6.0,3,4,8,9,6,12,toss up,6.0,good
+626,1001,/m/for_a_good_time_call,"For a Good Time, Call...",Comedy,R,2012,57.0,53,4.0,1,1,5,5,4,1,no-one should,-4.0,okay
+627,1005,/m/adventures_of_ichabod_and_mr_toad,The Adventures of Ichabod and Mr. Toad,Animation,G,1949,93.0,71,22.0,4,2,9,7,2,8,critic dominant - risky,-22.0,worst
+628,1008,/m/fantastic_four_2015,Fantastic Four,Action & Adventure,PG-13,2015,9.0,18,9.0,0,0,9,1,9,0,no-one should,9.0,good
+629,1009,/m/amazon_women_on_the_moon,Amazon Women on the Moon,Comedy,R,1987,59.0,57,2.0,1,1,5,5,2,1,no-one should,-2.0,okay
+630,1010,/m/a_night_in_the_woods,A Night in the Woods,Art House & International,NR,2013,43.0,7,36.0,1,0,4,7,3,0,no-one should,-36.0,worst
+631,1011,/m/the_settlers_2017,The Settlers,Art House & International,NR,2017,95.0,71,24.0,4,2,9,7,2,8,critic dominant - risky,-24.0,worst
+632,1014,/m/learning_to_drive,Learning To Drive,Drama,R,2015,65.0,59,6.0,2,1,6,5,6,2,no-one should,-6.0,okay
+633,1017,/m/training_day,Training Day,Action & Adventure,R,2001,72.0,89,17.0,2,4,7,8,1,8,peanut dominant - risky,17.0,best
+634,1018,/m/despite_the_falling_snow,Despite The Falling Snow,Art House & International,PG-13,2017,9.0,42,33.0,0,0,9,4,3,0,no-one should,33.0,best
+635,1019,/m/1071413-last_dance,Last Dance,Cult Movies,R,1996,32.0,50,18.0,0,1,3,5,1,0,no-one should,18.0,best
+636,1020,/m/orchestra_of_exiles,Orchestra Of Exiles,Documentary,NR,2012,80.0,70,10.0,3,2,8,7,1,6,no-one should,-10.0,bad
+637,1023,/m/alvin_and_the_chipmunks_the_road_chip,Alvin and the Chipmunks: The Road Chip,Animation,PG,2015,15.0,51,36.0,0,1,1,5,3,0,no-one should,36.0,best
+638,1026,/m/rangoon,Rangoon,Art House & International,NR,2017,55.0,64,9.0,1,2,5,6,9,2,no-one should,9.0,good
+639,1027,/m/macon_county_line,Macon County Line,Action & Adventure,R,1974,43.0,58,15.0,1,1,4,5,1,1,no-one should,15.0,good
+640,1028,/m/carlitos_way,Carlito's Way,Drama,R,1993,81.0,91,10.0,3,4,8,9,1,12,toss up,10.0,good
+641,1029,/m/meet_the_parents,Meet the Parents,Comedy,PG-13,2000,84.0,79,5.0,3,3,8,7,5,9,no-one should,-5.0,okay
+642,1030,/m/firewall,Firewall,Action & Adventure,PG-13,2006,18.0,37,19.0,0,0,1,3,1,0,no-one should,19.0,best
+643,1032,/m/myth_of_the_ameican_sleepover,The Myth Of The American Sleepover,Comedy,NR,2011,81.0,52,29.0,3,1,8,5,2,3,no-one should,-29.0,worst
+644,1033,/m/womans_secret,A Woman's Secret,Drama,NR,1949,43.0,34,9.0,1,0,4,3,9,0,no-one should,-9.0,bad
+645,1035,/m/the_hornets_nest_2014,The Hornet's Nest,Documentary,R,2014,72.0,80,8.0,2,3,7,8,8,6,no-one should,8.0,good
+646,1040,/m/dogs_in_space,Dogs in Space,Drama,R,1987,63.0,82,19.0,2,3,6,8,1,6,no-one should,19.0,best
+647,1041,/m/love_with_the_proper_stranger,Love with the Proper Stranger,Classics,NR,1963,89.0,87,2.0,3,4,8,8,2,12,toss up,-2.0,okay
+648,1045,/m/howard_the_duck,Howard the Duck,Action & Adventure,PG,1986,15.0,38,23.0,0,0,1,3,2,0,no-one should,23.0,best
+649,1047,/m/lady_in_white,Lady in White,Horror,PG-13,1988,67.0,69,2.0,2,2,6,6,2,4,no-one should,2.0,good
+650,1051,/m/tremors_a_cold_day_in_hell,Tremors: A Cold Day in Hell,Horror,PG-13,2018,40.0,31,9.0,1,0,4,3,9,0,no-one should,-9.0,bad
+651,1055,/m/mighty_aphrodite,Mighty Aphrodite,Comedy,R,1995,77.0,73,4.0,2,3,7,7,4,6,no-one should,-4.0,okay
+652,1057,/m/dangerous_ground,Dangerous Ground,Action & Adventure,R,1997,8.0,35,27.0,0,0,8,3,2,0,no-one should,27.0,best
+653,1060,/m/sing,Sing,Drama,PG-13,1989,43.0,90,47.0,1,4,4,9,4,4,peanut dominant - risky,47.0,best
+654,1061,/m/illuminata,Illuminata,Comedy,R,1999,40.0,67,27.0,1,2,4,6,2,2,no-one should,27.0,best
+655,1062,/m/hanky_panky,Hanky Panky,Action & Adventure,PG,1982,33.0,31,2.0,0,0,3,3,2,0,no-one should,-2.0,okay
+656,1063,/m/big_eyes,Big Eyes,Drama,PG-13,2014,72.0,68,4.0,2,2,7,6,4,4,no-one should,-4.0,okay
+657,1064,/m/salvo,Salvo,Drama,NR,2014,75.0,47,28.0,2,1,7,4,2,2,no-one should,-28.0,worst
+658,1065,/m/mental_2012,Mental,Art House & International,NR,2013,43.0,55,12.0,1,1,4,5,1,1,no-one should,12.0,good
+659,1066,/m/1159618-superhero,Superhero Movie,Action & Adventure,PG-13,2008,17.0,32,15.0,0,0,1,3,1,0,no-one should,15.0,good
+660,1067,/m/dallas-362,Dallas 362,Drama,R,2005,53.0,61,8.0,1,2,5,6,8,2,no-one should,8.0,good
+661,1068,/m/mimic_sentinel,Mimic: Sentinel,Horror,R,2003,60.0,15,45.0,1,0,6,1,4,0,no-one should,-45.0,worst
+662,1070,/m/inkheart,Inkheart,Action & Adventure,PG,2009,38.0,45,7.0,0,1,3,4,7,0,no-one should,7.0,good
+663,1072,/m/skin_in_the_game_2019,Skin in the Game,Drama,NR,2019,67.0,64,3.0,2,2,6,6,3,4,no-one should,-3.0,okay
+664,1073,/m/1208173-splice,Splice,Horror,R,2010,76.0,37,39.0,2,0,7,3,3,0,no-one should,-39.0,worst
+665,1075,/m/safe_house_2012,Safe House,Action & Adventure,R,2012,52.0,63,11.0,1,2,5,6,1,2,no-one should,11.0,good
+666,1077,/m/troublemakers_the_story_of_land_art_2016,Troublemakers: The Story of Land Art,Documentary,NR,2016,94.0,70,24.0,4,2,9,7,2,8,critic dominant - risky,-24.0,worst
+667,1078,/m/city_of_life_and_death,City of Life and Death,Art House & International,R,2011,92.0,86,6.0,4,4,9,8,6,16,universal,-6.0,okay
+668,1079,/m/1059487-nobodys_fool,Nobody's Fool,Comedy,R,1994,91.0,81,10.0,4,3,9,8,1,12,toss up,-10.0,bad
+669,1080,/m/darkest_hour_2017,Darkest Hour,Drama,PG-13,2017,85.0,82,3.0,3,3,8,8,3,9,no-one should,-3.0,okay
+670,1081,/m/doa_dead_or_alive,DOA: Dead or Alive,Action & Adventure,PG-13,2007,33.0,36,3.0,0,0,3,3,3,0,no-one should,3.0,good
+671,1082,/m/longshots,The Longshots,Comedy,PG,2008,41.0,61,20.0,1,2,4,6,2,2,no-one should,20.0,best
+672,1084,/m/1098812-boom,Boom!,Art House & International,PG,1968,20.0,51,31.0,0,1,2,5,3,0,no-one should,31.0,best
+673,1085,/m/9_songs,9 Songs,Art House & International,NR,2005,24.0,32,8.0,0,0,2,3,8,0,no-one should,8.0,good
+674,1086,/m/an_episode_in_the_life_of_an_iron_picker,An Episode in the Life of an Iron Picker,Art House & International,NR,2013,93.0,63,30.0,4,2,9,6,3,8,critic dominant - risky,-30.0,worst
+675,1087,/m/the_small_back_room_1952,The Small Back Room,Action & Adventure,NR,1952,83.0,75,8.0,3,3,8,7,8,9,no-one should,-8.0,bad
+676,1088,/m/wheres_my_roy_cohn,Where's My Roy Cohn?,Documentary,PG-13,2019,86.0,81,5.0,3,3,8,8,5,9,no-one should,-5.0,okay
+677,1091,/m/1038517-murders_in_the_rue_morgue,Murders in the Rue Morgue,Action & Adventure,NR,1932,83.0,46,37.0,3,1,8,4,3,3,no-one should,-37.0,worst
+678,1092,/m/10009151-box,The Box,Horror,PG-13,2009,44.0,24,20.0,1,0,4,2,2,0,no-one should,-20.0,worst
+679,1094,/m/home_of_the_brave,Home of the Brave,Action & Adventure,R,2006,23.0,47,24.0,0,1,2,4,2,0,no-one should,24.0,best
+680,1097,/m/king_cobra_2016,King Cobra,Drama,NR,2016,49.0,32,17.0,1,0,4,3,1,0,no-one should,-17.0,bad
+681,1098,/m/five_days_one_summer,Five Days One Summer,Drama,PG,1983,14.0,30,16.0,0,0,1,3,1,0,no-one should,16.0,best
+682,1099,/m/2012,2012,Action & Adventure,PG-13,2009,39.0,47,8.0,1,1,3,4,8,1,no-one should,8.0,good
+683,1100,/m/stage_beauty,Stage Beauty,Comedy,R,2004,64.0,78,14.0,2,3,6,7,1,6,no-one should,14.0,good
+684,1101,/m/things_you_can_tell_just_by_looking_at_her,Things You Can Tell Just by Looking at Her,Comedy,PG-13,2000,74.0,64,10.0,2,2,7,6,1,4,no-one should,-10.0,bad
+685,1102,/m/clash_by_night,Clash by Night,Classics,NR,1952,73.0,70,3.0,2,2,7,7,3,4,no-one should,-3.0,okay
+686,1103,/m/stupids,The Stupids,Comedy,PG,1996,20.0,38,18.0,0,0,2,3,1,0,no-one should,18.0,best
+687,1105,/m/force_2_2016,Force 2,Action & Adventure,NR,2016,55.0,43,12.0,1,0,5,4,1,0,no-one should,-12.0,bad
+688,1106,/m/robin_williams_come_inside_my_mind,Robin Williams: Come Inside My Mind,Documentary,NR,2018,96.0,87,9.0,4,4,9,8,9,16,universal,-9.0,bad
+689,1107,/m/imaginary_heroes,Imaginary Heroes,Comedy,R,2005,34.0,81,47.0,0,3,3,8,4,0,no-one should,47.0,best
+690,1108,/m/the_keeper_of_lost_causes,The Keeper of Lost Causes (Kvinden i buret),Art House & International,NR,2016,70.0,67,3.0,2,2,7,6,3,4,no-one should,-3.0,okay
+691,1109,/m/addams_family_values,Addams Family Values,Comedy,PG-13,1993,76.0,63,13.0,2,2,7,6,1,4,no-one should,-13.0,bad
+692,1111,/m/night_school_2018,Night School,Comedy,PG-13,2018,27.0,37,10.0,0,0,2,3,1,0,no-one should,10.0,good
+693,1114,/m/a_walk_to_beautiful,A Walk to Beautiful,Documentary,NR,2008,89.0,94,5.0,3,4,8,9,5,12,toss up,5.0,good
+694,1116,/m/sanju,Sanju,Drama,NR,2018,36.0,78,42.0,0,3,3,7,4,0,no-one should,42.0,best
+695,1118,/m/a-mothers-courage-talking-back-to-autism,A Mother's Courage: Talking Back To Autism (Sólskinsdrengurinn),Art House & International,NR,2010,56.0,77,21.0,1,3,5,7,2,3,no-one should,21.0,best
+696,1119,/m/machinist,The Machinist,Drama,R,2004,77.0,83,6.0,2,4,7,8,6,8,peanut dominant - risky,6.0,good
+697,1121,/m/1101051-bedazzled,Bedazzled,Comedy,PG-13,2000,49.0,42,7.0,1,0,4,4,7,0,no-one should,-7.0,okay
+698,1122,/m/detroit_rock_city,Detroit Rock City,Comedy,R,1999,48.0,82,34.0,1,3,4,8,3,3,no-one should,34.0,best
+699,1124,/m/the_road_within,The Road Within,Comedy,R,2015,45.0,68,23.0,1,2,4,6,2,2,no-one should,23.0,best
+700,1125,/m/1107187-high_noon,High Noon,Drama,PG-13,2000,50.0,63,13.0,1,2,5,6,1,2,no-one should,13.0,good
+701,1127,/m/year_of_the_gun,Year of the Gun,Action & Adventure,R,1991,29.0,25,4.0,0,0,2,2,4,0,no-one should,-4.0,okay
+702,1130,/m/dhadak,Dhadak,Art House & International,NR,2018,33.0,60,27.0,0,1,3,6,2,0,no-one should,27.0,best
+703,1131,/m/new_years_evil,New Year's Evil,Horror,R,1981,14.0,14,0.0,0,0,1,1,0,0,no-one should,0.0,okay
+704,1132,/m/street_trash,Street Trash,Comedy,NR,1986,67.0,61,6.0,2,2,6,6,6,4,no-one should,-6.0,okay
+705,1133,/m/1003119-broken_arrow,Broken Arrow,Action & Adventure,G,1950,89.0,70,19.0,3,2,8,7,1,6,no-one should,-19.0,worst
+706,1134,/m/murder_by_contract,Murder by Contract,Drama,G,1958,100.0,82,18.0,4,3,1,8,1,12,toss up,-18.0,worst
+707,1135,/m/network,Network,Comedy,R,1976,92.0,93,1.0,4,4,9,9,1,16,universal,1.0,okay
+708,1137,/m/nate_and_margaret,Nate & Margaret,Comedy,NR,2012,78.0,51,27.0,2,1,7,5,2,2,no-one should,-27.0,worst
+709,1138,/m/robots,Robots,Animation,PG,2005,64.0,53,11.0,2,1,6,5,1,2,no-one should,-11.0,bad
+710,1140,/m/1043331-born_yesterday,Born Yesterday,Comedy,PG,1993,25.0,27,2.0,0,0,2,2,2,0,no-one should,2.0,good
+711,1142,/m/le_samourai,Le samouraï,Drama,PG,1967,100.0,94,6.0,4,4,1,9,6,16,universal,-6.0,okay
+712,1144,/m/10011950-three_blind_mice,Three Blind Mice,Comedy,PG,2008,80.0,50,30.0,3,1,8,5,3,3,no-one should,-30.0,worst
+713,1145,/m/christmas_on_mars,Christmas on Mars,Musical & Performing Arts,NR,2008,50.0,52,2.0,1,1,5,5,2,1,no-one should,2.0,good
+714,1146,/m/city_of_ghosts_2017,City of Ghosts,Documentary,R,2017,98.0,82,16.0,4,3,9,8,1,12,toss up,-16.0,bad
+715,1147,/m/special_treatment,Special Treatment,Art House & International,NR,2011,41.0,33,8.0,1,0,4,3,8,0,no-one should,-8.0,bad
+716,1148,/m/good_son,The Good Son,Drama,R,1993,26.0,54,28.0,0,1,2,5,2,0,no-one should,28.0,best
+717,1150,/m/housefull_4,Housefull 4,Comedy,NR,2019,40.0,60,20.0,1,1,4,6,2,1,no-one should,20.0,best
+718,1155,/m/im_going_home,I'm Going Home,Comedy,NR,2001,96.0,68,28.0,4,2,9,6,2,8,critic dominant - risky,-28.0,worst
+719,1156,/m/batman_mask_of_the_phantasm,Batman: Mask of the Phantasm,Action & Adventure,PG,1993,84.0,88,4.0,3,4,8,8,4,12,toss up,4.0,good
+720,1157,/m/fast_cheap_and_out_of_control,"Fast, Cheap & Out of Control",Documentary,PG,1997,91.0,84,7.0,4,4,9,8,7,16,universal,-7.0,okay
+721,1158,/m/bb_king_the_life_of_riley_2012,BB King: The Life of Riley,Documentary,NR,2014,86.0,85,1.0,3,4,8,8,1,12,toss up,-1.0,okay
+722,1160,/m/shes_the_one,She's the One,Comedy,R,1996,61.0,41,20.0,2,0,6,4,2,0,no-one should,-20.0,worst
+723,1162,/m/samehada_otoko_to_momojiri_onna,Samehada otoko to momojiri onna (Shark Skin Man and Peach Hip Girl ),Action & Adventure,R,2003,25.0,80,55.0,0,3,2,8,5,0,no-one should,55.0,best
+724,1163,/m/edge_codes_the_art_of_motion_picture_editing,Edge Codes: The Art of Motion Picture Editing,Documentary,NR,2005,100.0,100,0.0,4,4,1,1,0,16,universal,0.0,okay
+725,1164,/m/red_joan,Red Joan,Drama,R,2019,30.0,59,29.0,0,1,3,5,2,0,no-one should,29.0,best
+726,1166,/m/skidoo,Skidoo,Comedy,R,1968,42.0,40,2.0,1,0,4,4,2,0,no-one should,-2.0,okay
+727,1167,/m/the_loner_2016,The Persian Connection,Action & Adventure,NR,2017,63.0,75,12.0,2,3,6,7,1,6,no-one should,12.0,good
+728,1168,/m/american_rhapsody,An American Rhapsody,Drama,PG-13,2001,55.0,66,11.0,1,2,5,6,1,2,no-one should,11.0,good
+729,1169,/m/perfect_man,The Perfect Man,Comedy,PG,2005,6.0,58,52.0,0,1,6,5,5,0,no-one should,52.0,best
+730,1171,/m/belly,Belly,Action & Adventure,R,1998,13.0,88,75.0,0,4,1,8,7,0,no-one should,75.0,best
+731,1172,/m/the_bling_ring_2013,The Bling Ring,Drama,R,2013,59.0,33,26.0,1,0,5,3,2,0,no-one should,-26.0,worst
+732,1173,/m/tell_it_to_the_bees,Tell It to the Bees,Drama,NR,2019,49.0,78,29.0,1,3,4,7,2,3,no-one should,29.0,best
+733,1174,/m/1001488-babes_in_toyland,Babes in Toyland,Kids & Family,G,1961,36.0,60,24.0,0,1,3,6,2,0,no-one should,24.0,best
+734,1176,/m/freezer_2014,Freezer,Action & Adventure,R,2014,33.0,27,6.0,0,0,3,2,6,0,no-one should,-6.0,okay
+735,1177,/m/halloween_ii,Halloween II,Drama,R,1981,28.0,63,35.0,0,2,2,6,3,0,no-one should,35.0,best
+736,1180,/m/mere_brother_ki_dulhan_2011,Mere Brother Ki Dulhan,Comedy,NR,2011,50.0,47,3.0,1,1,5,4,3,1,no-one should,-3.0,okay
+737,1182,/m/lady_eve,The Lady Eve,Classics,NR,1941,100.0,87,13.0,4,4,1,8,1,16,universal,-13.0,bad
+738,1184,/m/witness_for_the_prosecution,Witness for the Prosecution,Classics,NR,1957,100.0,95,5.0,4,4,1,9,5,16,universal,-5.0,okay
+739,1188,/m/blood_brother_2018,Blood Brother,Action & Adventure,R,2018,17.0,83,66.0,0,4,1,8,6,0,no-one should,66.0,best
+740,1189,/m/5_broken_cameras_2012,5 Broken Cameras,Art House & International,NR,2012,96.0,88,8.0,4,4,9,8,8,16,universal,-8.0,bad
+741,1191,/m/voy_a_explotar,Voy a Explotar (I'm Gonna Explode),Art House & International,NR,2008,74.0,60,14.0,2,1,7,6,1,2,no-one should,-14.0,bad
+742,1193,/m/labyrinth,Labyrinth,Action & Adventure,PG,1986,70.0,86,16.0,2,4,7,8,1,8,peanut dominant - risky,16.0,best
+743,1194,/m/isle_of_dogs_2018,Isle of Dogs,Action & Adventure,PG-13,2018,90.0,87,3.0,3,4,9,8,3,12,toss up,-3.0,okay
+744,1196,/m/the_last_suit,The Last Suit (El último traje),Art House & International,NR,2018,78.0,89,11.0,2,4,7,8,1,8,peanut dominant - risky,11.0,good
+745,1197,/m/carol_channing_larger_than_life,Carol Channing: Larger Than Life,Documentary,PG,2012,90.0,87,3.0,3,4,9,8,3,12,toss up,-3.0,okay
+746,1199,/m/kon_tiki_2012,Kon Tiki,Drama,PG-13,2013,81.0,77,4.0,3,3,8,7,4,9,no-one should,-4.0,okay
+747,1200,/m/mi_reino,My Kingdom (Mi Reino),Drama,NR,2002,38.0,53,15.0,0,1,3,5,1,0,no-one should,15.0,good
+748,1201,/m/bill_cunningham_new_york_2010,Bill Cunningham New York,Documentary,NR,2011,99.0,92,7.0,4,4,9,9,7,16,universal,-7.0,okay
+749,1203,/m/manitou,The Manitou,Horror,PG,1978,33.0,35,2.0,0,0,3,3,2,0,no-one should,2.0,good
+750,1206,/m/1023093-war_and_peace,War and Peace,Art House & International,PG,1956,43.0,63,20.0,1,2,4,6,2,2,no-one should,20.0,best
+751,1209,/m/bohemian_rhapsody,Bohemian Rhapsody,Drama,PG-13,2018,61.0,85,24.0,2,4,6,8,2,8,peanut dominant - risky,24.0,best
+752,1211,/m/eyes_of_tammy_faye,The Eyes of Tammy Faye,Documentary,PG-13,2000,86.0,72,14.0,3,3,8,7,1,9,no-one should,-14.0,bad
+753,1212,/m/houseguest,Houseguest,Comedy,PG,1995,14.0,55,41.0,0,1,1,5,4,0,no-one should,41.0,best
+754,1216,/m/the_perfect_date,The Perfect Date,Comedy,NR,2019,69.0,38,31.0,2,0,6,3,3,0,no-one should,-31.0,worst
+755,1220,/m/sex_and_the_city,Sex and the City,Comedy,R,2008,49.0,77,28.0,1,3,4,7,2,3,no-one should,28.0,best
+756,1221,/m/the_mystery_of_the_wax_museum,The Mystery of the Wax Museum,Classics,NR,1933,82.0,64,18.0,3,2,8,6,1,6,no-one should,-18.0,worst
+757,1223,/m/wizards,Wizards,Action & Adventure,PG,1977,62.0,70,8.0,2,2,6,7,8,4,no-one should,8.0,good
+758,1226,/m/were_the_millers,We're The Millers,Comedy,R,2013,47.0,72,25.0,1,3,4,7,2,3,no-one should,25.0,best
+759,1227,/m/rio_2,Rio 2,Animation,G,2014,48.0,58,10.0,1,1,4,5,1,1,no-one should,10.0,good
+760,1229,/m/for_roseanna,For Roseanna,Art House & International,PG-13,1997,38.0,82,44.0,0,3,3,8,4,0,no-one should,44.0,best
+761,1233,/m/1154356-promise,The Promise (Master of Crimson Armor) (Wu ji),Action & Adventure,PG-13,2005,31.0,44,13.0,0,0,3,4,1,0,no-one should,13.0,good
+762,1234,/m/face_of_another,The Face of Another (I Have a Stranger's Face) (Tanin no kao),Art House & International,NR,1967,100.0,91,9.0,4,4,1,9,9,16,universal,-9.0,bad
+763,1235,/m/the_hero_2017,The Hero,Drama,R,2017,77.0,58,19.0,2,1,7,5,1,2,no-one should,-19.0,worst
+764,1236,/m/odd_couple_ii,The Odd Couple II,Comedy,PG-13,1998,27.0,57,30.0,0,1,2,5,3,0,no-one should,30.0,best
+765,1238,/m/1215792-amreeka,Amreeka,Drama,PG-13,2009,87.0,76,11.0,3,3,8,7,1,9,no-one should,-11.0,bad
+766,1239,/m/iron_sky,Iron Sky,Action & Adventure,R,2012,39.0,37,2.0,1,0,3,3,2,0,no-one should,-2.0,okay
+767,1241,/m/fire_in_the_blood,Fire In The Blood,Documentary,NR,2013,90.0,87,3.0,3,4,9,8,3,12,toss up,-3.0,okay
+768,1242,/m/ghost_bird,Ghost Bird,Documentary,NR,2009,91.0,73,18.0,4,3,9,7,1,12,toss up,-18.0,worst
+769,1246,/m/thats_entertainment,That's Entertainment,Classics,G,1973,100.0,85,15.0,4,4,1,8,1,16,universal,-15.0,bad
+770,1248,/m/1176919-police_beat,Police Beat,Art House & International,NR,2005,69.0,57,12.0,2,1,6,5,1,2,no-one should,-12.0,bad
+771,1249,/m/vanilla_sky,Vanilla Sky,Drama,R,2001,42.0,72,30.0,1,3,4,7,3,3,no-one should,30.0,best
+772,1250,/m/dirty_sanchez,Dirty Sanchez: The Movie,Comedy,R,2007,40.0,74,34.0,1,3,4,7,3,3,no-one should,34.0,best
+773,1251,/m/anything_but_love,Standard Time (Anything But Love),Comedy,PG-13,2002,36.0,67,31.0,0,2,3,6,3,0,no-one should,31.0,best
+774,1252,/m/battle_in_heaven,Battle in Heaven,Art House & International,NR,2006,49.0,46,3.0,1,1,4,4,3,1,no-one should,-3.0,okay
+775,1253,/m/the_waiting_room,The Waiting Room,Drama,NR,2007,60.0,56,4.0,1,1,6,5,4,1,no-one should,-4.0,okay
+776,1254,/m/symbiopsychotaxiplasm_take_one,Symbiopsychotaxiplasm: Take One,Documentary,NR,1968,90.0,77,13.0,3,3,9,7,1,9,no-one should,-13.0,bad
+777,1256,/m/foolish-wives,Foolish Wives,Classics,NR,1922,92.0,72,20.0,4,3,9,7,2,12,toss up,-20.0,worst
+778,1258,/m/1017834-romeo_and_juliet,Romeo and Juliet,Drama,PG,1968,94.0,74,20.0,4,3,9,7,2,12,toss up,-20.0,worst
+779,1259,/m/kubo_and_the_two_strings_2016,Kubo and the Two Strings,Action & Adventure,PG,2016,97.0,86,11.0,4,4,9,8,1,16,universal,-11.0,bad
+780,1263,/m/love_at_first_bite,Love at First Bite,Comedy,PG,1979,68.0,55,13.0,2,1,6,5,1,2,no-one should,-13.0,bad
+781,1265,/m/solid_gold_cadillac,The Solid Gold Cadillac,Classics,NR,1956,100.0,67,33.0,4,2,1,6,3,8,critic dominant - risky,-33.0,worst
+782,1266,/m/21_and_over,21 And Over,Comedy,R,2013,25.0,46,21.0,0,1,2,4,2,0,no-one should,21.0,best
+783,1267,/m/sputnik_fever,Sputnik Fever (Sputnik Mania),Documentary,G,2007,95.0,79,16.0,4,3,9,7,1,12,toss up,-16.0,bad
+784,1268,/m/5x2,5x2,Art House & International,R,2004,65.0,69,4.0,2,2,6,6,4,4,no-one should,4.0,good
+785,1269,/m/1000626-all_about_eve,All About Eve,Classics,PG,1950,100.0,94,6.0,4,4,1,9,6,16,universal,-6.0,okay
+786,1271,/m/night_of_the_hunter,The Night of the Hunter,Drama,PG,1955,99.0,90,9.0,4,4,9,9,9,16,universal,-9.0,bad
+787,1272,/m/dark_blue,Dark Blue,Drama,R,2003,58.0,52,6.0,1,1,5,5,6,1,no-one should,-6.0,okay
+788,1273,/m/american_guerrilla_in_the_philippines,American Guerrilla in the Philippines,Action & Adventure,NR,1950,67.0,25,42.0,2,0,6,2,4,0,no-one should,-42.0,worst
+789,1279,/m/the_incredibly_strange_creatures,The Incredibly Strange Creatures...,Horror,NR,1963,20.0,14,6.0,0,0,2,1,6,0,no-one should,-6.0,okay
+790,1280,/m/four_friends,Four Friends,Comedy,R,1981,78.0,72,6.0,2,3,7,7,6,6,no-one should,-6.0,okay
+791,1281,/m/cash,Cash,Action & Adventure,NR,2007,20.0,38,18.0,0,0,2,3,1,0,no-one should,18.0,best
+792,1283,/m/dragon-inn-long-men-ke-zhen,Dragon Inn (Long men ke zhen),Action & Adventure,NR,1966,100.0,86,14.0,4,4,1,8,1,16,universal,-14.0,bad
+793,1285,/m/supercop,Supercop,Action & Adventure,R,1996,96.0,74,22.0,4,3,9,7,2,12,toss up,-22.0,worst
+794,1288,/m/shivaay,Shivaay,Action & Adventure,NR,2016,11.0,64,53.0,0,2,1,6,5,0,no-one should,53.0,best
+795,1289,/m/1207954-weather_girl,Weather Girl,Comedy,R,2009,33.0,36,3.0,0,0,3,3,3,0,no-one should,3.0,good
+796,1290,/m/percy_jackson_sea_of_monsters,Percy Jackson: Sea of Monsters,Action & Adventure,PG,2013,42.0,55,13.0,1,1,4,5,1,1,no-one should,13.0,good
+797,1291,/m/this_is_congo,This Is Congo,Documentary,NR,2018,95.0,83,12.0,4,4,9,8,1,16,universal,-12.0,bad
+798,1295,/m/1041049-geronimo,Geronimo,Action & Adventure,NR,1962,80.0,33,47.0,3,0,8,3,4,0,no-one should,-47.0,worst
+799,1297,/m/1212946-beyond_a_reasonable_doubt,Beyond a Reasonable Doubt,Drama,PG-13,2009,7.0,36,29.0,0,0,7,3,2,0,no-one should,29.0,best
+800,1298,/m/the_great_flood_2012,The Great Flood,Documentary,NR,2014,93.0,56,37.0,4,1,9,5,3,4,critic dominant - risky,-37.0,worst
+801,1299,/m/1205903-our_man_in_havana,Our Man in Havana,Classics,NR,1959,94.0,77,17.0,4,3,9,7,1,12,toss up,-17.0,bad
+802,1300,/m/arizona_dream,Arizona Dream,Comedy,R,1993,87.0,86,1.0,3,4,8,8,1,12,toss up,-1.0,okay
+803,1301,/m/being_ginger,Being Ginger,Documentary,NR,2014,92.0,77,15.0,4,3,9,7,1,12,toss up,-15.0,bad
+804,1302,/m/1020415-suddenly,Suddenly,Action & Adventure,PG,1954,100.0,63,37.0,4,2,1,6,3,8,critic dominant - risky,-37.0,worst
+805,1303,/m/kickboxer_retaliation,Kickboxer: Retaliation,Action & Adventure,R,2018,92.0,72,20.0,4,3,9,7,2,12,toss up,-20.0,worst
+806,1305,/m/piccadilly,Piccadilly,Classics,NR,1929,86.0,75,11.0,3,3,8,7,1,9,no-one should,-11.0,bad
+807,1307,/m/grbavica,Grbavica,Art House & International,NR,2007,98.0,87,11.0,4,4,9,8,1,16,universal,-11.0,bad
+808,1308,/m/donkey_skin,Donkey Skin (Peau d'âne),Art House & International,NR,1971,88.0,77,11.0,3,3,8,7,1,9,no-one should,-11.0,bad
+809,1309,/m/crossfire_1989,Crossfire,Action & Adventure,NR,1947,81.0,76,5.0,3,3,8,7,5,9,no-one should,-5.0,okay
+810,1310,/m/ghost_goes_west,The Ghost Goes West,Classics,NR,1935,100.0,53,47.0,4,1,1,5,4,4,critic dominant - risky,-47.0,worst
+811,1311,/m/dolor_y_gloria,Pain and Glory (Dolor y gloria),Drama,R,2019,97.0,89,8.0,4,4,9,8,8,16,universal,-8.0,bad
+812,1312,/m/up_there_2012,Up There,Comedy,NR,2012,67.0,31,36.0,2,0,6,3,3,0,no-one should,-36.0,worst
+813,1313,/m/the_boy_with_green_hair,The Boy with Green Hair,Classics,NR,1948,78.0,55,23.0,2,1,7,5,2,2,no-one should,-23.0,worst
+814,1315,/m/the_rescuers_1977,The Rescuers,Action & Adventure,G,1977,80.0,68,12.0,3,2,8,6,1,6,no-one should,-12.0,bad
+815,1316,/m/sweet_home_alabama,Sweet Home Alabama,Comedy,PG-13,2002,38.0,78,40.0,0,3,3,7,4,0,no-one should,40.0,best
+816,1317,/m/1074675-1074675-metro,Metro,Action & Adventure,R,1997,15.0,26,11.0,0,0,1,2,1,0,no-one should,11.0,good
+817,1318,/m/1075984-iron_monkey,Iron Monkey,Action & Adventure,PG-13,2001,90.0,86,4.0,3,4,9,8,4,12,toss up,-4.0,okay
+818,1319,/m/carrie,Carrie,Horror,R,2013,50.0,44,6.0,1,0,5,4,6,0,no-one should,-6.0,okay
+819,1320,/m/first_power,The First Power,Horror,R,1990,22.0,45,23.0,0,1,2,4,2,0,no-one should,23.0,best
+820,1321,/m/stephen_kings_the_langoliers,Stephen King's 'The Langoliers',Horror,PG-13,1995,50.0,46,4.0,1,1,5,4,4,1,no-one should,-4.0,okay
+821,1322,/m/die_wand,Die Wand (The Wall),Drama,NR,2013,78.0,70,8.0,2,2,7,7,8,4,no-one should,-8.0,bad
+822,1325,/m/yogi-bear,Yogi Bear,Action & Adventure,PG,2010,13.0,34,21.0,0,0,1,3,2,0,no-one should,21.0,best
+823,1326,/m/mole_people,The Mole People,Horror,NR,1956,43.0,27,16.0,1,0,4,2,1,0,no-one should,-16.0,bad
+824,1332,/m/zarafa,Zarafa,Animation,NR,2015,75.0,65,10.0,2,2,7,6,1,4,no-one should,-10.0,bad
+825,1333,/m/spring_breakers_2013,Spring Breakers,Action & Adventure,R,2013,67.0,38,29.0,2,0,6,3,2,0,no-one should,-29.0,worst
+826,1334,/m/four_rooms,Four Rooms,Comedy,R,1996,14.0,69,55.0,0,2,1,6,5,0,no-one should,55.0,best
+827,1338,/m/the_intended,The Intended,Drama,R,2004,33.0,38,5.0,0,0,3,3,5,0,no-one should,5.0,good
+828,1340,/m/short_time,Short Time,Action & Adventure,PG-13,1990,20.0,55,35.0,0,1,2,5,3,0,no-one should,35.0,best
+829,1341,/m/1060518-hideaway,Hideaway,Drama,R,1995,14.0,39,25.0,0,0,1,3,2,0,no-one should,25.0,best
+830,1344,/m/1108185-animal,The Animal,Comedy,PG-13,2001,30.0,28,2.0,0,0,3,2,2,0,no-one should,-2.0,okay
+831,1345,/m/dear_dictator_2018,Dear Dictator,Comedy,NR,2018,17.0,46,29.0,0,1,1,4,2,0,no-one should,29.0,best
+832,1347,/m/lower_depths,Donzoko (The Lower Depths),Art House & International,NR,1957,83.0,80,3.0,3,3,8,8,3,9,no-one should,-3.0,okay
+833,1348,/m/10006878-big_brown_eyes,Big Brown Eyes,Classics,NR,1936,80.0,62,18.0,3,2,8,6,1,6,no-one should,-18.0,worst
+834,1349,/m/titicut_follies,Titicut Follies,Documentary,NR,1967,100.0,90,10.0,4,4,1,9,1,16,universal,-10.0,bad
+835,1351,/m/beneath_hill_60,Beneath Hill 60,Art House & International,R,2010,85.0,77,8.0,3,3,8,7,8,9,no-one should,-8.0,bad
+836,1353,/m/dear_america_letters_home_from_vietnam,Dear America: Letters Home from Vietnam,Documentary,PG-13,1987,100.0,92,8.0,4,4,1,9,8,16,universal,-8.0,bad
+837,1357,/m/popcorn_1990,Popcorn,Comedy,R,1989,37.0,40,3.0,0,0,3,4,3,0,no-one should,3.0,good
+838,1359,/m/murder_at_the_gallop,Murder at the Gallop,Action & Adventure,PG,1963,100.0,72,28.0,4,3,1,7,2,12,toss up,-28.0,worst
+839,1360,/m/battle_beyond_the_stars,Battle Beyond the Stars,Science Fiction & Fantasy,PG,1980,45.0,42,3.0,1,0,4,4,3,0,no-one should,-3.0,okay
+840,1361,/m/someone_to_watch_over_me,Someone to Watch over Me,Action & Adventure,R,1987,69.0,41,28.0,2,0,6,4,2,0,no-one should,-28.0,worst
+841,1364,/m/fame,Fame,Drama,R,1980,84.0,69,15.0,3,2,8,6,1,6,no-one should,-15.0,bad
+842,1365,/m/support_your_local_gunfighter,Support Your Local Gunfighter,Action & Adventure,G,1971,62.0,60,2.0,2,1,6,6,2,2,no-one should,-2.0,okay
+843,1366,/m/deep_rising,Deep Rising,Action & Adventure,R,1998,29.0,43,14.0,0,0,2,4,1,0,no-one should,14.0,good
+844,1368,/m/bounce_ko_gals,Baunsu ko gaurusu (Bounce KO Gals),Art House & International,NR,1997,53.0,77,24.0,1,3,5,7,2,3,no-one should,24.0,best
+845,1369,/m/hilary_and_jackie,Hilary and Jackie,Drama,R,1998,88.0,83,5.0,3,4,8,8,5,12,toss up,-5.0,okay
+846,1370,/m/king_of_the_corner,King of the Corner,Comedy,R,2005,71.0,28,43.0,2,0,7,2,4,0,no-one should,-43.0,worst
+847,1376,/m/an_autumn_afternoon_1964,An Autumn Afternoon,Art House & International,NR,1964,95.0,91,4.0,4,4,9,9,4,16,universal,-4.0,okay
+848,1377,/m/things_change,Things Change,Comedy,PG,1988,83.0,79,4.0,3,3,8,7,4,9,no-one should,-4.0,okay
+849,1379,/m/totally,Totally,Drama,NR,1993,100.0,61,39.0,4,2,1,6,3,8,critic dominant - risky,-39.0,worst
+850,1384,/m/kurt_and_courtney,Kurt & Courtney,Documentary,R,1998,61.0,44,17.0,2,0,6,4,1,0,no-one should,-17.0,bad
+851,1385,/m/room_for_rent,Room For Rent,Comedy,NR,2017,88.0,52,36.0,3,1,8,5,3,3,no-one should,-36.0,worst
+852,1387,/m/el-sol-del-membrillo,El Sol del membrillo (Dream of Light) (Quince Tree of the Sun),Documentary,NR,2000,89.0,94,5.0,3,4,8,9,5,12,toss up,5.0,good
+853,1389,/m/brother_of_sleep,Brother of Sleep,Art House & International,R,1995,71.0,79,8.0,2,3,7,7,8,6,no-one should,8.0,good
+854,1391,/m/the_end_of_the_tour_2015,The End Of The Tour,Drama,R,2015,91.0,82,9.0,4,3,9,8,9,12,toss up,-9.0,bad
+855,1392,/m/theater_of_war,Theater of War,Documentary,NR,2008,72.0,80,8.0,2,3,7,8,8,6,no-one should,8.0,good
+856,1393,/m/chasing_asylum,Chasing Asylum,Art House & International,NR,2016,91.0,62,29.0,4,2,9,6,2,8,critic dominant - risky,-29.0,worst
+857,1395,/m/an_inconvenient_sequel_truth_to_power,An Inconvenient Sequel: Truth To Power,Documentary,PG,2017,79.0,50,29.0,3,1,7,5,2,3,no-one should,-29.0,worst
+858,1396,/m/une-execution-ordinaire,An Ordinary Execution,Art House & International,NR,2010,89.0,51,38.0,3,1,8,5,3,3,no-one should,-38.0,worst
+859,1398,/m/1088110-ill_be_home_for_christmas,I'll Be Home for Christmas,Comedy,PG,1998,23.0,41,18.0,0,0,2,4,1,0,no-one should,18.0,best
+860,1399,/m/1107688-bad_seed,Bad Seed,Horror,R,2001,20.0,47,27.0,0,1,2,4,2,0,no-one should,27.0,best
+861,1401,/m/just_jim_2015,Just Jim,Drama,NR,2015,85.0,33,52.0,3,0,8,3,5,0,no-one should,-52.0,worst
+862,1402,/m/circle_of_friends,Circle of Friends,Art House & International,PG-13,1994,78.0,73,5.0,2,3,7,7,5,6,no-one should,-5.0,okay
+863,1403,/m/bad_teacher,Bad Teacher,Comedy,R,2011,44.0,36,8.0,1,0,4,3,8,0,no-one should,-8.0,bad
+864,1405,/m/train_of_life,Train of Life,Art House & International,R,1999,64.0,93,29.0,2,4,6,9,2,8,peanut dominant - risky,29.0,best
+865,1407,/m/wisegirls,Wisegirls,Action & Adventure,R,2002,38.0,63,25.0,0,2,3,6,2,0,no-one should,25.0,best
+866,1408,/m/celtic_pride,Celtic Pride,Comedy,PG-13,1996,9.0,31,22.0,0,0,9,3,2,0,no-one should,22.0,best
+867,1409,/m/dead_pool,The Dead Pool,Action & Adventure,R,1988,57.0,44,13.0,1,0,5,4,1,0,no-one should,-13.0,bad
+868,1410,/m/1022823-village_of_the_damned,Village of the Damned,Horror,R,1960,92.0,77,15.0,4,3,9,7,1,12,toss up,-15.0,bad
+869,1411,/m/10008097-lady_chatterley,Lady Chatterley,Art House & International,R,2007,76.0,59,17.0,2,1,7,5,1,2,no-one should,-17.0,bad
+870,1412,/m/league_of_their_own,A League of Their Own,Comedy,PG,1992,78.0,84,6.0,2,4,7,8,6,8,peanut dominant - risky,6.0,good
+871,1416,/m/major_payne,Major Payne,Comedy,PG-13,1994,33.0,68,35.0,0,2,3,6,3,0,no-one should,35.0,best
+872,1417,/m/begin_again_2013,Begin Again,Comedy,R,2014,82.0,81,1.0,3,3,8,8,1,9,no-one should,-1.0,okay
+873,1418,/m/dom_hemingway,Dom Hemingway,Comedy,R,2014,56.0,38,18.0,1,0,5,3,1,0,no-one should,-18.0,worst
+874,1424,/m/48_hrs,48 HRS,Action & Adventure,R,1982,93.0,69,24.0,4,2,9,6,2,8,critic dominant - risky,-24.0,worst
+875,1425,/m/altman_2014,Altman,Documentary,G,2014,69.0,67,2.0,2,2,6,6,2,4,no-one should,-2.0,okay
+876,1426,/m/black_butterflies_2011,Black Butterflies,Drama,NR,2012,69.0,62,7.0,2,2,6,6,7,4,no-one should,-7.0,okay
+877,1428,/m/been_so_long,Been So Long,Drama,NR,2018,92.0,78,14.0,4,3,9,7,1,12,toss up,-14.0,bad
+878,1430,/m/the_clay_bird,The Clay Bird (Matir moina),Art House & International,NR,2002,89.0,85,4.0,3,4,8,8,4,12,toss up,-4.0,okay
+879,1433,/m/holy_motors,Holy Motors,Drama,NR,2012,91.0,71,20.0,4,2,9,7,2,8,critic dominant - risky,-20.0,worst
+880,1434,/m/secretariat,Secretariat,Drama,PG,2010,63.0,76,13.0,2,3,6,7,1,6,no-one should,13.0,good
+881,1435,/m/the_holy_girl,The Holy Girl,Art House & International,R,2005,77.0,58,19.0,2,1,7,5,1,2,no-one should,-19.0,worst
+882,1437,/m/aferim,Aferim!,Action & Adventure,NR,2016,98.0,75,23.0,4,3,9,7,2,12,toss up,-23.0,worst
+883,1440,/m/goodbye_world,Goodbye World,Comedy,NR,2014,24.0,32,8.0,0,0,2,3,8,0,no-one should,8.0,good
+884,1441,/m/megane,Megane,Art House & International,NR,2008,40.0,88,48.0,1,4,4,8,4,4,peanut dominant - risky,48.0,best
+885,1442,/m/submarine-2010,Submarine,Comedy,R,2011,88.0,82,6.0,3,3,8,8,6,9,no-one should,-6.0,okay
+886,1443,/m/housekeeping,Housekeeping,Comedy,PG,1987,100.0,84,16.0,4,4,1,8,1,16,universal,-16.0,bad
+887,1445,/m/prelude_to_a_kiss,Prelude to a Kiss,Comedy,PG-13,1992,63.0,39,24.0,2,0,6,3,2,0,no-one should,-24.0,worst
+888,1451,/m/five_easy_pieces,Five Easy Pieces,Classics,R,1970,88.0,84,4.0,3,4,8,8,4,12,toss up,-4.0,okay
+889,1452,/m/where_hope_grows,Where Hope Grows,Drama,PG-13,2015,46.0,75,29.0,1,3,4,7,2,3,no-one should,29.0,best
+890,1454,/m/prize_winner_of_defiance_ohio,"The Prize Winner of Defiance, Ohio",Drama,PG-13,2005,58.0,74,16.0,1,3,5,7,1,3,no-one should,16.0,best
+891,1455,/m/7_days_in_hell_2015,7 Days in Hell,Comedy,NR,2015,86.0,69,17.0,3,2,8,6,1,6,no-one should,-17.0,bad
+892,1456,/m/11816,11/8/16,Documentary,NR,2017,75.0,61,14.0,2,2,7,6,1,4,no-one should,-14.0,bad
+893,1459,/m/office_killer,Office Killer,Comedy,R,1997,12.0,51,39.0,0,1,1,5,3,0,no-one should,39.0,best
+894,1460,/m/woman_thou_art_loosed_on_the_7th_day,Woman Thou Art Loosed: On the 7th Day,Mystery & Suspense,PG-13,2012,20.0,69,49.0,0,2,2,6,4,0,no-one should,49.0,best
+895,1461,/m/twin_warriors,Twin Warriors (Tai ji zhang san feng) (The Tai-Chi Master),Action & Adventure,R,1984,86.0,84,2.0,3,4,8,8,2,12,toss up,-2.0,okay
+896,1462,/m/divorce_italian_style,Divorce Italian Style (Divorzio all'italiana),Art House & International,NR,1962,100.0,93,7.0,4,4,1,9,7,16,universal,-7.0,okay
+897,1465,/m/1101561-1101561-malena,Malena,Art House & International,R,2000,54.0,84,30.0,1,4,5,8,3,4,peanut dominant - risky,30.0,best
+898,1466,/m/rendezvous_in_paris,Rendezvous in Paris,Art House & International,NR,1996,76.0,75,1.0,2,3,7,7,1,6,no-one should,-1.0,okay
+899,1467,/m/1007657-footloose,Footloose,Drama,PG,1984,51.0,71,20.0,1,2,5,7,2,2,no-one should,20.0,best
+900,1468,/m/highwater,Highwater,Documentary,PG-13,2010,43.0,74,31.0,1,3,4,7,3,3,no-one should,31.0,best
+901,1473,/m/tuff_turf,Tuff Turf,Action & Adventure,R,1985,17.0,60,43.0,0,1,1,6,4,0,no-one should,43.0,best
+902,1474,/m/lenny_cooke_2013,Lenny Cooke,Documentary,NR,2013,82.0,67,15.0,3,2,8,6,1,6,no-one should,-15.0,bad
+903,1475,/m/muppet_treasure_island,Muppet Treasure Island,Comedy,G,1996,73.0,77,4.0,2,3,7,7,4,6,no-one should,4.0,good
+904,1476,/m/sterile_cuckoo,The Sterile Cuckoo (Pookie),Comedy,PG,1969,88.0,64,24.0,3,2,8,6,2,6,no-one should,-24.0,worst
+905,1477,/m/letters-to-father-jacob,Letters to Father Jacob (Postia pappi Jaakobille),Art House & International,NR,2010,69.0,75,6.0,2,3,6,7,6,6,no-one should,6.0,good
+906,1479,/m/acid_house,The Acid House,Art House & International,NR,1998,45.0,69,24.0,1,2,4,6,2,2,no-one should,24.0,best
+907,1480,/m/backstabbing_for_beginners,Backstabbing for Beginners,Drama,R,2018,38.0,42,4.0,0,0,3,4,4,0,no-one should,4.0,good
+908,1481,/m/1053969-variety,Varieté (Variety) (Jealousy),Art House & International,NR,1925,100.0,88,12.0,4,4,1,8,1,16,universal,-12.0,bad
+909,1482,/m/resident_evil_apocalypse,Resident Evil: Apocalypse,Horror,R,2004,20.0,60,40.0,0,1,2,6,4,0,no-one should,40.0,best
+910,1485,/m/ladrones_2015,Ladrones,Comedy,PG-13,2015,60.0,64,4.0,1,2,6,6,4,2,no-one should,4.0,good
+911,1486,/m/1099492-saving_grace,Saving Grace,Comedy,R,2000,63.0,84,21.0,2,4,6,8,2,8,peanut dominant - risky,21.0,best
+912,1489,/m/whistle_down_the_wind,Whistle Down the Wind,Classics,NR,1961,100.0,91,9.0,4,4,1,9,9,16,universal,-9.0,bad
+913,1490,/m/homo_sapiens_2016,Homo Sapiens,Documentary,NR,2016,100.0,56,44.0,4,1,1,5,4,4,critic dominant - risky,-44.0,worst
+914,1492,/m/open_season,Open Season,Action & Adventure,PG,2006,48.0,57,9.0,1,1,4,5,9,1,no-one should,9.0,good
+915,1494,/m/los_adioses_2017,Los Adioses,Drama,NR,2017,100.0,73,27.0,4,3,1,7,2,12,toss up,-27.0,worst
+916,1495,/m/gascoigne,Gascoigne,Documentary,NR,2015,75.0,49,26.0,2,1,7,4,2,2,no-one should,-26.0,worst
+917,1499,/m/by_the_sea_2015,By The Sea,Drama,R,2015,35.0,28,7.0,0,0,3,2,7,0,no-one should,-7.0,okay
+918,1500,/m/7_days_in_entebbe_2018,7 Days in Entebbe,Drama,PG-13,2018,24.0,38,14.0,0,0,2,3,1,0,no-one should,14.0,good
+919,1501,/m/cinema_paradiso,Cinema Paradiso (Nuovo Cinema Paradiso),Art House & International,R,1988,90.0,97,7.0,3,4,9,9,7,12,toss up,7.0,good
+920,1503,/m/1016958-quartet,Quartet,Art House & International,R,1981,43.0,32,11.0,1,0,4,3,1,0,no-one should,-11.0,bad
+921,1504,/m/10005538-room,Room,Art House & International,R,2006,69.0,23,46.0,2,0,6,2,4,0,no-one should,-46.0,worst
+922,1505,/m/east-palace-west-palace,East Palace West Palace (Dong gong xi gong) (Behind the Forbidden City),Art House & International,PG,1998,60.0,59,1.0,1,1,6,5,1,1,no-one should,-1.0,okay
+923,1506,/m/his_dark_materials_the_golden_compass,The Golden Compass,Action & Adventure,PG-13,2007,42.0,51,9.0,1,1,4,5,9,1,no-one should,9.0,good
+924,1507,/m/late_bloomer_2004,Late Bloomer,Art House & International,NR,2004,69.0,44,25.0,2,0,6,4,2,0,no-one should,-25.0,worst
+925,1508,/m/silent_movie,Silent Movie,Classics,PG,1976,79.0,72,7.0,3,3,7,7,7,9,no-one should,-7.0,okay
+926,1509,/m/stand_and_deliver,Stand and Deliver,Drama,PG,1988,73.0,79,6.0,2,3,7,7,6,6,no-one should,6.0,good
+927,1510,/m/death_defying_acts,Death Defying Acts,Drama,PG,2008,42.0,26,16.0,1,0,4,2,1,0,no-one should,-16.0,bad
+928,1511,/m/the_lord_of_the_rings_the_two_towers,The Lord of the Rings: The Two Towers,Action & Adventure,PG-13,2002,95.0,95,0.0,4,4,9,9,0,16,universal,0.0,okay
+929,1512,/m/my_science_project,My Science Project,Comedy,PG,1985,14.0,56,42.0,0,1,1,5,4,0,no-one should,42.0,best
+930,1513,/m/words_and_pictures,Words And Pictures,Comedy,PG-13,2014,43.0,50,7.0,1,1,4,5,7,1,no-one should,7.0,good
+931,1514,/m/strange_illusion,Strange Illusion,Classics,NR,1945,86.0,33,53.0,3,0,8,3,5,0,no-one should,-53.0,worst
+932,1515,/m/iron_man_2,Iron Man 2,Action & Adventure,PG-13,2010,73.0,71,2.0,2,2,7,7,2,4,no-one should,-2.0,okay
+933,1516,/m/cruising,Cruising,Drama,R,1980,51.0,48,3.0,1,1,5,4,3,1,no-one should,-3.0,okay
+934,1518,/m/the_horde,The Horde (La Horde),Action & Adventure,NR,2009,42.0,41,1.0,1,0,4,4,1,0,no-one should,-1.0,okay
+935,1521,/m/imagine_me_and_you,Imagine Me & You,Comedy,R,2006,34.0,74,40.0,0,3,3,7,4,0,no-one should,40.0,best
+936,1522,/m/fred_wont_move_out,Fred Won't Move Out,Drama,NR,2012,71.0,7,64.0,2,0,7,7,6,0,no-one should,-64.0,worst
+937,1523,/m/hidden_figures,Hidden Figures,Drama,PG,2017,93.0,93,0.0,4,4,9,9,0,16,universal,0.0,okay
+938,1524,/m/long_time_coming_a_1955_baseball_story,Long Time Coming: A 1955 Baseball Story,Documentary,NR,2018,67.0,60,7.0,2,1,6,6,7,2,no-one should,-7.0,okay
+939,1526,/m/1090447-splendor,Splendor,Comedy,R,1999,58.0,63,5.0,1,2,5,6,5,2,no-one should,5.0,good
+940,1528,/m/the_view_from_greenhaven,The View From Greenhaven,Comedy,NR,2008,71.0,60,11.0,2,1,7,6,1,2,no-one should,-11.0,bad
+941,1531,/m/flanders,Flanders (Flandres),Action & Adventure,NR,2007,67.0,58,9.0,2,1,6,5,9,2,no-one should,-9.0,bad
+942,1532,/m/outland,Outland,Drama,R,1981,56.0,54,2.0,1,1,5,5,2,1,no-one should,-2.0,okay
+943,1533,/m/the_war_game_1966,The War Game,Action & Adventure,NR,1966,93.0,90,3.0,4,4,9,9,3,16,universal,-3.0,okay
+944,1535,/m/the_hunger_games_mockingjay_part_1,The Hunger Games: Mockingjay - Part 1,Action & Adventure,PG-13,2014,69.0,71,2.0,2,2,6,7,2,4,no-one should,2.0,good
+945,1536,/m/bamako_2007,Bamako,Art House & International,NR,2006,84.0,70,14.0,3,2,8,7,1,6,no-one should,-14.0,bad
+946,1537,/m/10006731-iowa,Iowa,Drama,NR,2005,15.0,18,3.0,0,0,1,1,3,0,no-one should,3.0,good
+947,1538,/m/1008055-galaxy_of_terror,Galaxy of Terror (Mindwarp: An Infinity of Terror) (Planet of Horrors) (Quest),Action & Adventure,R,1981,33.0,29,4.0,0,0,3,2,4,0,no-one should,-4.0,okay
+948,1539,/m/the_professor_and_the_madman,The Professor and the Madman,Drama,NR,2019,38.0,77,39.0,0,3,3,7,3,0,no-one should,39.0,best
+949,1541,/m/dark_night_of_the_scarecrow,Dark Night of the Scarecrow,Drama,NR,1981,50.0,64,14.0,1,2,5,6,1,2,no-one should,14.0,good
+950,1543,/m/mondays_in_the_sun,Mondays in the Sun (Los Lunes al sol),Comedy,R,2003,80.0,87,7.0,3,4,8,8,7,12,toss up,7.0,good
+951,1544,/m/blue_ruin,Blue Ruin,Mystery & Suspense,R,2014,96.0,79,17.0,4,3,9,7,1,12,toss up,-17.0,bad
+952,1545,/m/american_gigolo,American Gigolo,Drama,R,1980,68.0,51,17.0,2,1,6,5,1,2,no-one should,-17.0,bad
+953,1546,/m/sergio_and_sergei,Sergio and Sergei,Drama,NR,2017,86.0,50,36.0,3,1,8,5,3,3,no-one should,-36.0,worst
+954,1549,/m/suite_francaise,Suite Française,Drama,NR,2015,76.0,68,8.0,2,2,7,6,8,4,no-one should,-8.0,bad
+955,1550,/m/jupiter_ascending_2014,Jupiter Ascending,Action & Adventure,PG-13,2015,27.0,38,11.0,0,0,2,3,1,0,no-one should,11.0,good
+956,1551,/m/rabin_the_last_day,"Rabin, the Last Day",Drama,NR,2016,68.0,43,25.0,2,0,6,4,2,0,no-one should,-25.0,worst
+957,1553,/m/standoff_2016,Standoff,Action & Adventure,R,2016,56.0,43,13.0,1,0,5,4,1,0,no-one should,-13.0,bad
+958,1554,/m/random_harvest,Random Harvest,Classics,NR,1942,89.0,89,0.0,3,4,8,8,0,12,toss up,0.0,okay
+959,1556,/m/the_boy_who_harnessed_the_wind,The Boy Who Harnessed the Wind,Art House & International,NR,2019,86.0,89,3.0,3,4,8,8,3,12,toss up,3.0,good
+960,1557,/m/bananas,Bananas,Classics,PG-13,1971,88.0,74,14.0,3,3,8,7,1,9,no-one should,-14.0,bad
+961,1558,/m/piranha_2_the_spawning,Piranha Part Two: The Spawning,Drama,R,1981,6.0,11,5.0,0,0,6,1,5,0,no-one should,5.0,good
+962,1559,/m/down_and_derby,Down and Derby,Comedy,PG,2005,22.0,51,29.0,0,1,2,5,2,0,no-one should,29.0,best
+963,1561,/m/drunken_angel,Drunken Angel,Art House & International,NR,1948,93.0,89,4.0,4,4,9,8,4,16,universal,-4.0,okay
+964,1564,/m/saw3d,Saw 3D,Horror,R,2010,10.0,42,32.0,0,0,1,4,3,0,no-one should,32.0,best
+965,1565,/m/stray_dog_2015,Stray Dog,Documentary,NR,2015,100.0,64,36.0,4,2,1,6,3,8,critic dominant - risky,-36.0,worst
+966,1566,/m/the_hunting_of_the_president,The Hunting of the President,Documentary,NR,2004,74.0,53,21.0,2,1,7,5,2,2,no-one should,-21.0,worst
+967,1567,/m/thor_ragnarok_2017,Thor: Ragnarok,Action & Adventure,PG-13,2017,93.0,87,6.0,4,4,9,8,6,16,universal,-6.0,okay
+968,1568,/m/poor_boys_game,Poor Boy's Game,Art House & International,R,2007,83.0,66,17.0,3,2,8,6,1,6,no-one should,-17.0,bad
+969,1569,/m/one_track_heart_the_story_of_krishna_das_2012,One Track Heart: The Story of Krishna Das,Documentary,NR,2013,67.0,52,15.0,2,1,6,5,1,2,no-one should,-15.0,bad
+970,1570,/m/1100197-under_suspicion,Under Suspicion,Art House & International,R,2000,49.0,49,0.0,1,1,4,4,0,1,no-one should,0.0,okay
+971,1571,/m/american_gun,American Gun,Art House & International,R,2006,39.0,43,4.0,1,0,3,4,4,0,no-one should,4.0,good
+972,1572,/m/western_2015,Western,Documentary,NR,2015,100.0,62,38.0,4,2,1,6,3,8,critic dominant - risky,-38.0,worst
+973,1573,/m/the_freshman,The Freshman (College Days),Classics,NR,1925,93.0,79,14.0,4,3,9,7,1,12,toss up,-14.0,bad
+974,1574,/m/escobar_paradise_lost,Escobar: Paradise Lost,Drama,R,2015,55.0,49,6.0,1,1,5,4,6,1,no-one should,-6.0,okay
+975,1576,/m/kumare,Kumaré,Documentary,NR,2012,58.0,82,24.0,1,3,5,8,2,3,no-one should,24.0,best
+976,1577,/m/the_world_before_her_2012,The World Before Her,Art House & International,NR,2013,100.0,79,21.0,4,3,1,7,2,12,toss up,-21.0,worst
+977,1578,/m/wild_america,Wild America,Action & Adventure,PG,1997,27.0,59,32.0,0,1,2,5,3,0,no-one should,32.0,best
+978,1579,/m/lola_montes,Lola Montès,Drama,NR,1955,81.0,77,4.0,3,3,8,7,4,9,no-one should,-4.0,okay
+979,1580,/m/gypsy_2012,Gypsy,Art House & International,NR,2012,91.0,78,13.0,4,3,9,7,1,12,toss up,-13.0,bad
+980,1581,/m/prime_cut,Prime Cut,Action & Adventure,R,1972,70.0,73,3.0,2,3,7,7,3,6,no-one should,3.0,good
+981,1582,/m/cut_snake,Cut Snake,Mystery & Suspense,R,2015,69.0,44,25.0,2,0,6,4,2,0,no-one should,-25.0,worst
+982,1584,/m/please_dont_eat_the_daisies,Please Don't Eat the Daisies,Classics,PG,1960,57.0,60,3.0,1,1,5,6,3,1,no-one should,3.0,good
+983,1585,/m/armageddon,Armageddon,Action & Adventure,PG-13,1998,38.0,73,35.0,0,3,3,7,3,0,no-one should,35.0,best
+984,1588,/m/high_school_musical_2,High School Musical 2,Comedy,G,2007,82.0,72,10.0,3,3,8,7,1,9,no-one should,-10.0,bad
+985,1589,/m/david_bowie_is_happening_now,David Bowie Is Happening Now,Musical & Performing Arts,NR,2014,64.0,71,7.0,2,2,6,7,7,4,no-one should,7.0,good
+986,1591,/m/1121728-lift,Lift,Drama,R,2001,50.0,70,20.0,1,2,5,7,2,2,no-one should,20.0,best
+987,1592,/m/psychomania,Psychomania,Action & Adventure,PG,1971,83.0,53,30.0,3,1,8,5,3,3,no-one should,-30.0,worst
+988,1594,/m/deep_red_1975,Deep Red (Profondo rosso),Art House & International,R,1975,96.0,86,10.0,4,4,9,8,1,16,universal,-10.0,bad
+989,1595,/m/tales_of_halloween_2015,Tales of Halloween,Horror,NR,2015,78.0,41,37.0,2,0,7,4,3,0,no-one should,-37.0,worst
+990,1596,/m/blast_from_the_past,Blast From the Past,Comedy,PG-13,1999,57.0,56,1.0,1,1,5,5,1,1,no-one should,-1.0,okay
+991,1598,/m/incident_at_loch_ness,Incident at Loch Ness,Comedy,PG-13,2004,63.0,67,4.0,2,2,6,6,4,4,no-one should,4.0,good
+992,1599,/m/island_2010,Island,Art House & International,NR,2010,50.0,64,14.0,1,2,5,6,1,2,no-one should,14.0,good
+993,1601,/m/beyond_the_lights,Beyond the Lights,Drama,PG-13,2014,83.0,75,8.0,3,3,8,7,8,9,no-one should,-8.0,bad
+994,1602,/m/my_week_with_marilyn,My Week with Marilyn,Drama,R,2011,83.0,71,12.0,3,2,8,7,1,6,no-one should,-12.0,bad
+995,1604,/m/the_imposter_2012,The Imposter,Documentary,R,2012,95.0,78,17.0,4,3,9,7,1,12,toss up,-17.0,bad
+996,1606,/m/great_escape,The Great Escape,Action & Adventure,NR,1963,94.0,95,1.0,4,4,9,9,1,16,universal,1.0,okay
+997,1607,/m/the_wall_2017,The Wall,Drama,R,2017,65.0,42,23.0,2,0,6,4,2,0,no-one should,-23.0,worst
+998,1608,/m/soom-breath,Soom (Breath),Art House & International,NR,2007,63.0,72,9.0,2,3,6,7,9,6,no-one should,9.0,good
+999,1610,/m/animatrix,The Animatrix,Action & Adventure,PG-13,2003,89.0,78,11.0,3,3,8,7,1,9,no-one should,-11.0,bad
+1000,1611,/m/st_trinians_ii_the_legend_of_frittons_gold,St Trinian's II: The Legend of Fritton's Gold,Action & Adventure,NR,2009,14.0,45,31.0,0,1,1,4,3,0,no-one should,31.0,best
+1001,1612,/m/hellraiser_judgment_2018,Hellraiser: Judgment,Horror,NR,2018,50.0,26,24.0,1,0,5,2,2,0,no-one should,-24.0,worst
+1002,1613,/m/belles_magical_world,Belle's Magical World,Animation,G,1998,17.0,73,56.0,0,3,1,7,5,0,no-one should,56.0,best
+1003,1614,/m/trick,Trick,Comedy,R,1999,78.0,83,5.0,2,4,7,8,5,8,peanut dominant - risky,5.0,good
+1004,1616,/m/go_now,Go Now,Drama,R,1998,60.0,73,13.0,1,3,6,7,1,3,no-one should,13.0,good
+1005,1617,/m/no_way_to_treat_a_lady,No Way to Treat a Lady,Classics,NR,1968,89.0,74,15.0,3,3,8,7,1,9,no-one should,-15.0,bad
+1006,1618,/m/kin_2018,Kin,Action & Adventure,PG-13,2018,32.0,54,22.0,0,1,3,5,2,0,no-one should,22.0,best
+1007,1620,/m/memories-of-tomorrow-ashita-no-kioku,Memories of Tomorrow (Ashita no kioku),Art House & International,NR,2007,86.0,90,4.0,3,4,8,9,4,12,toss up,4.0,good
+1008,1621,/m/house_of_pleasures,House of Pleasures,Drama,NR,2011,83.0,62,21.0,3,2,8,6,2,6,no-one should,-21.0,worst
+1009,1622,/m/turistas,Turistas (Paradise Lost),Drama,R,2006,18.0,28,10.0,0,0,1,2,1,0,no-one should,10.0,good
+1010,1623,/m/support_the_girls,Support the Girls,Comedy,R,2018,91.0,65,26.0,4,2,9,6,2,8,critic dominant - risky,-26.0,worst
+1011,1624,/m/cobra_verde,Cobra Verde,Action & Adventure,NR,1987,88.0,76,12.0,3,3,8,7,1,9,no-one should,-12.0,bad
+1012,1625,/m/simone_2002,Simone,Comedy,PG-13,2002,51.0,35,16.0,1,0,5,3,1,0,no-one should,-16.0,bad
+1013,1627,/m/bone_collector,The Bone Collector,Mystery & Suspense,R,1999,28.0,63,35.0,0,2,2,6,3,0,no-one should,35.0,best
+1014,1628,/m/1073023-house_arrest,House Arrest,Comedy,PG,1996,10.0,45,35.0,0,1,1,4,3,0,no-one should,35.0,best
+1015,1629,/m/michael_clayton,Michael Clayton,Drama,R,2007,91.0,69,22.0,4,2,9,6,2,8,critic dominant - risky,-22.0,worst
+1016,1630,/m/chicken_with_plums,Chicken with Plums,Art House & International,PG-13,2012,74.0,71,3.0,2,2,7,7,3,4,no-one should,-3.0,okay
+1017,1631,/m/1061860-cure,The Cure,Drama,PG-13,1995,45.0,85,40.0,1,4,4,8,4,4,peanut dominant - risky,40.0,best
+1018,1632,/m/homicidal,Homicidal,Classics,NR,1961,78.0,65,13.0,2,2,7,6,1,4,no-one should,-13.0,bad
+1019,1634,/m/this_is_elvis,This Is Elvis,Documentary,PG,1981,86.0,87,1.0,3,4,8,8,1,12,toss up,1.0,okay
+1020,1635,/m/keeper_the_legend_of_omar_khayyam,The Keeper: The Legend of Omar Khayyam,Action & Adventure,PG,2005,41.0,44,3.0,1,0,4,4,3,0,no-one should,3.0,good
+1021,1636,/m/the_misandrists,The Misandrists,Comedy,NR,2018,73.0,46,27.0,2,1,7,4,2,2,no-one should,-27.0,worst
+1022,1637,/m/whos_that_knocking_at_my_door,Who's That Knocking at My Door?,Action & Adventure,R,1967,68.0,61,7.0,2,2,6,6,7,4,no-one should,-7.0,okay
+1023,1638,/m/spotlight_2015,Spotlight,Drama,R,2015,97.0,93,4.0,4,4,9,9,4,16,universal,-4.0,okay
+1024,1639,/m/lavender,Lavender,Drama,NR,2017,35.0,25,10.0,0,0,3,2,1,0,no-one should,-10.0,bad
+1025,1640,/m/oliver_sherman_2010,Oliver Sherman,Drama,NR,2010,50.0,46,4.0,1,1,5,4,4,1,no-one should,-4.0,okay
+1026,1641,/m/urban_legend,Urban Legend,Horror,R,1998,19.0,37,18.0,0,0,1,3,1,0,no-one should,18.0,best
+1027,1643,/m/another_evil,Another Evil,Comedy,NR,2017,65.0,34,31.0,2,0,6,3,3,0,no-one should,-31.0,worst
+1028,1644,/m/what_haunts_us,What Haunts Us,Documentary,NR,2018,100.0,75,25.0,4,3,1,7,2,12,toss up,-25.0,worst
+1029,1645,/m/people_under_the_stairs,The People Under The Stairs,Comedy,R,1991,63.0,58,5.0,2,1,6,5,5,2,no-one should,-5.0,okay
+1030,1648,/m/jhoom_barabar_jhoom,Jhoom Barabar Jhoom,Art House & International,NR,2007,46.0,39,7.0,1,0,4,3,7,0,no-one should,-7.0,okay
+1031,1650,/m/caddyshack,Caddyshack,Comedy,R,1980,74.0,87,13.0,2,4,7,8,1,8,peanut dominant - risky,13.0,good
+1032,1652,/m/cemetery_club,The Cemetery Club,Comedy,PG-13,1993,57.0,31,26.0,1,0,5,3,2,0,no-one should,-26.0,worst
+1033,1654,/m/mackennas_gold,MacKenna's Gold,Action & Adventure,PG,1969,20.0,70,50.0,0,2,2,7,5,0,no-one should,50.0,best
+1034,1655,/m/jump_in,Jump In!,Comedy,G,2007,63.0,61,2.0,2,2,6,6,2,4,no-one should,-2.0,okay
+1035,1656,/m/1015530-on_the_beach,On the Beach,Classics,NR,1959,76.0,69,7.0,2,2,7,6,7,4,no-one should,-7.0,okay
+1036,1657,/m/come_blow_your_horn,Come Blow Your Horn,Classics,NR,1963,75.0,63,12.0,2,2,7,6,1,4,no-one should,-12.0,bad
+1037,1659,/m/wag_the_dog,Wag the Dog,Comedy,R,1997,85.0,76,9.0,3,3,8,7,9,9,no-one should,-9.0,bad
+1038,1662,/m/guilty_2015,Guilty (Talvar),Art House & International,NR,2015,88.0,90,2.0,3,4,8,9,2,12,toss up,2.0,good
+1039,1663,/m/tonnerre,Tonnerre,Comedy,NR,2014,83.0,71,12.0,3,2,8,7,1,6,no-one should,-12.0,bad
+1040,1665,/m/1000702-alone_in_the_dark,Alone in the Dark,Horror,R,1982,78.0,40,38.0,2,0,7,4,3,0,no-one should,-38.0,worst
+1041,1666,/m/viva_zapatero,Viva Zapatero!,Art House & International,NR,2006,86.0,76,10.0,3,3,8,7,1,9,no-one should,-10.0,bad
+1042,1667,/m/curvature,Curvature,Drama,NR,2018,47.0,63,16.0,1,2,4,6,1,2,no-one should,16.0,best
+1043,1668,/m/americons_2015,Americons,Action & Adventure,R,2015,14.0,80,66.0,0,3,1,8,6,0,no-one should,66.0,best
+1044,1669,/m/the_four_times,The Four Times (Le Quattro Volte),Art House & International,NR,2011,93.0,75,18.0,4,3,9,7,1,12,toss up,-18.0,worst
+1045,1670,/m/the-social-network,The Social Network,Drama,PG-13,2010,96.0,86,10.0,4,4,9,8,1,16,universal,-10.0,bad
+1046,1671,/m/up_at_the_villa,Up at the Villa,Drama,PG-13,2000,46.0,35,11.0,1,0,4,3,1,0,no-one should,-11.0,bad
+1047,1675,/m/southie,Southie,Action & Adventure,R,1998,38.0,50,12.0,0,1,3,5,1,0,no-one should,12.0,good
+1048,1676,/m/baileys_billion,Bailey's Billion$ (Bailey's Billions),Comedy,G,2005,20.0,47,27.0,0,1,2,4,2,0,no-one should,27.0,best
+1049,1678,/m/the_strongest_man,The Strongest Man,Comedy,NR,2015,22.0,48,26.0,0,1,2,4,2,0,no-one should,26.0,best
+1050,1679,/m/gerontophilia,Gerontophilia,Comedy,NR,2015,46.0,41,5.0,1,0,4,4,5,0,no-one should,-5.0,okay
+1051,1680,/m/tims_vermeer_2014,Tim's Vermeer,Documentary,PG-13,2014,89.0,86,3.0,3,4,8,8,3,12,toss up,-3.0,okay
+1052,1681,/m/shining_through,Shining Through,Action & Adventure,R,1992,44.0,73,29.0,1,3,4,7,2,3,no-one should,29.0,best
+1053,1683,/m/menashe,Menashe,Drama,PG,2017,96.0,63,33.0,4,2,9,6,3,8,critic dominant - risky,-33.0,worst
+1054,1684,/m/rendezvous_danna,Les Rendez-vous d'Anna (The Meetings of Anna),Art House & International,NR,1978,71.0,85,14.0,2,4,7,8,1,8,peanut dominant - risky,14.0,good
+1055,1685,/m/private_life_2018,Private Life,Drama,R,2018,94.0,76,18.0,4,3,9,7,1,12,toss up,-18.0,worst
+1056,1686,/m/everybodys_allamerican,Everybody's All-American,Drama,R,1988,42.0,46,4.0,1,1,4,4,4,1,no-one should,4.0,good
+1057,1690,/m/the_shiek_and_i,The Sheik and I,Art House & International,NR,2012,80.0,71,9.0,3,2,8,7,9,6,no-one should,-9.0,bad
+1058,1691,/m/motorpsycho,Motorpsycho,Action & Adventure,NR,1965,67.0,63,4.0,2,2,6,6,4,4,no-one should,-4.0,okay
+1059,1692,/m/into_the_storm_2014,Into The Storm,Mystery & Suspense,PG-13,2014,21.0,42,21.0,0,0,2,4,2,0,no-one should,21.0,best
+1060,1694,/m/1045620-real_mccoy,The Real McCoy,Action & Adventure,PG-13,1993,18.0,28,10.0,0,0,1,2,1,0,no-one should,10.0,good
+1061,1696,/m/1088045-joan_of_arc,Joan of Arc,Drama,NR,1999,10.0,57,47.0,0,1,1,5,4,0,no-one should,47.0,best
+1062,1697,/m/zed_and_two_noughts,A Zed and Two Noughts,Comedy,R,1990,79.0,85,6.0,3,4,7,8,6,12,toss up,6.0,good
+1063,1699,/m/the_petrified_forest,The Petrified Forest,Classics,NR,1936,100.0,80,20.0,4,3,1,8,2,12,toss up,-20.0,worst
+1064,1701,/m/a_people_uncounted,A People Uncounted,Documentary,NR,2014,100.0,72,28.0,4,3,1,7,2,12,toss up,-28.0,worst
+1065,1704,/m/deadpool_2,Deadpool 2,Action & Adventure,R,2018,84.0,85,1.0,3,4,8,8,1,12,toss up,1.0,okay
+1066,3412,/m/sex_and_death_101,Sex and Death 101,Comedy,R,2007,27.0,42,15.0,0,0,2,4,1,0,no-one should,15.0,good
+1067,3413,/m/the_human_resources_manager,The Human Resources Manager,Comedy,NR,2011,75.0,62,13.0,2,2,7,6,1,4,no-one should,-13.0,bad
+1068,3415,/m/equus,Equus,Drama,R,1977,63.0,78,15.0,2,3,6,7,1,6,no-one should,15.0,good
+1069,3417,/m/dry_white_season,A Dry White Season,Drama,R,1989,80.0,74,6.0,3,3,8,7,6,9,no-one should,-6.0,okay
+1070,3419,/m/1016609-power,Power,Drama,R,1986,50.0,44,6.0,1,0,5,4,6,0,no-one should,-6.0,okay
+1071,3420,/m/1066528-persuasion,Persuasion,Drama,PG,1995,86.0,83,3.0,3,4,8,8,3,12,toss up,-3.0,okay
+1072,3421,/m/the_stray_2017,The Stray,Drama,PG,2017,40.0,69,29.0,1,2,4,6,2,2,no-one should,29.0,best
+1073,3423,/m/a_patch_of_fog,A Patch Of Fog,Art House & International,NR,2017,81.0,68,13.0,3,2,8,6,1,6,no-one should,-13.0,bad
+1074,10226,/m/sheitan,Sheitan,Art House & International,NR,2007,53.0,52,1.0,1,1,5,5,1,1,no-one should,-1.0,okay
